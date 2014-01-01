@@ -1,106 +1,106 @@
-{100}{}{Вы видите гуля.}
-{101}{}{Перед вами местный абориген.}
+{100}{}{You see a ghoul.}
+{101}{}{You see a local resident.}
 
 #Первый разговор
-{110}{}{Воу, добро пожаловать в сверкающий Вегас, скиталец!}
-{111}{}{Вегас? Чудак, это просто свалка!}
-{112}{}{Вегас? О, это звучит прекрасно.}
+{110}{}{Whoa, welcome to resplendent Vegas, wanderer!}
+{111}{}{Vegas? Dude, it's just a junkyard!}
+{112}{}{Vegas? Oh, yeah, sounds great.}
 
-{113}{}{Вегас повсюду, оглянись! Разве он не прекрасен?}
-{114}{}{Ты чушь несешь, но мне насрать. У тебя найдутся покрышки для моей тачки?}
-{115}{}{О да. Он прекрасен. Скажи, а найдутся ли здесь покрышки для моей тачки?}
+{113}{}{What you see around you is Vegas, just take a look! Isn't it beautiful?}
+{114}{}{You're a raving lunatic, buy I don't give a shit. Do you have any tires for my wheels?}
+{115}{}{Oh yes. Beautiful indeed. Tell me, do you by any chance have tires for my wheels?}
 
-{116}{}{Конечно... нет.}
-{117}{}{Э... Нет? Что, совсем? А это что вокруг, черт возьми?!}
-{118}{}{Ха-ха, золото мое, зачем *на свалку* вывозить целые покрышки? Будь они еще пригодны к работе, их бы не выкинули!}
-{119}{}{Хм...}
+{116}{}{Of course... not.}
+{117}{}{Uh... No? Really? Well, what's that lying around in heaps then dammit?!}
+{118}{}{Hah, my dear friend, why would anyone dump good tires in a *junkyard*? If they were of any use, they wouldn't be thrown away!}
+{119}{}{Hmm...}
 
-{120}{}{Зато есть мои руки, и кое-какие приятные забавы для твоей тачки!.. Если, конечно, она у тебя есть.}
-{121}{}{О чем ты?}
-{122}{}{Нет, меня интересовали только покрышки. Счастливо оставаться.}
-{123}{}{Да ты просто чокнутый. Что можно сделать из мусора, кроме самого мусора!?}
-{124}{}{Я просто полон идей! Веришь ли, я последний изобретатель на этой планете!}
-{125}{}{Уф... Что конкретно ты можешь мне предложить?}
-{126}{}{У тебя есть машина? О да, я вижу, у тебя есть машина. Что ж... довольно примитивная модель, но кое-что мои руки уже чешутся сделать. Тебе лишь остается выбирать по списку!}
-{127}{}{У тебя есть машина? Эх... жаль, у тебя нет машины. А то мои руки уже чешутся что-нибудь сделать!}
-{128}{}{Отлично, давай проведем техосмотр.}
-{129}{}{Сейчас меня это не интересует. Гораздо важнее этот каталог Крайслус Моторс. Что можешь сказать о нем?}
+{120}{}{But what I do have for your wheels are these here hands, and some nifty gizmos to go with them... That is, if you really got any wheels.}
+{121}{}{What are you talking about?}
+{122}{}{No, I was only looking for tires. Take care.}
+{123}{}{You're just crazy. What can you make out of junk, other than some other junk!?}
+{124}{}{I'm not crazy, I'm full of ideas! These two are often confused, so don't feel bad about that. You see, I might be the last engineer on this godforsaken planet!}
+{125}{}{Oh... What exactly are you offering?}
+{126}{}{You got a ride? Oh, I see you do. Well... it's rather primitive, but I still got the itch to do some things to it. Just pick from the list of options!}
+{127}{}{You got a ride? Oh... pity you don't. See, I got this itch for engineering!}
+{128}{}{Great, let's perform an inspection.}
+{129}{}{I'm not interested in all that right now. What I am interested in is this Chryslus Motors catalog. Can you say anything about it?}
 
-{130}{}{Эхе-хе, машинке не так мало годов, верно? Знаешь, а ведь я еще тогда малой под верстак ходил, когда ее полировали в мастерской Крайслус Моторс. Эх, были времена-то... Выбирай, чего тебе угодно - мощные фары, топливный регулятор, вместительный багажник, а?}
-{131}{}{Расскажи о фарах.}
-{132}{}{Расскажи о регуляторе.}
-{133}{}{Расскажи о расширении багажника.}
-{134}{}{Мне ничего такого не нужно.}
+{130}{}{Huh, the car ain't exactly brand new, is it? When it drove off Chryslus factory, I was probably still crapping in my pants. Yeah, those were the days... Now, what do you want me to do - powerful headlights, fuel cell regulator, bigger trunk, huh?}
+{131}{}{Tell me about headlights.}
+{132}{}{Tell me about that fuel thingie.}
+{133}{}{Tell me about the trunk.}
+{134}{}{I don't need any of these.}
 
-{135}{}{Пара пухленьких галогеновых приборов на твоем капоте - вот что никогда не выходило из моды. Да и много ли ты наездишь по бездорожью в ночной тьме? Я могу их установить. Вопрос только в твоем вознаграждении за мою работу.}
-{136}{}{О да, я это хочу!}
-{137}{}{Пока не надо. Что там было еще?}
-{138}{}{Твоя тачка жрет топливо и половину энергии выбрасывает на ветер? О да, мне это знакомо! И я знаю, как заставить ее экономно расходовать твои батарейки. Вопрос лишь в моей награде за работу.}
-{139}{}{Придется повозиться, но кое-что сделать можно. Твой багажник, конечно, толст, как задница брамина, и туда влезет еще десяток-другой паршивых бандитов, но это ведь не предел, верно? Кожаный тент позволит тебе класть туда примерно на 20 процентов вещей больше. Остается лишь мелочь вроде взаимопомощи. Ну, ты понимаешь.}
-{140}{}{М-м! Давненько мне не приходилось читать. Я уже не вспомню букв, но если ты прочитаешь, я попробую вытянуть оттуда что-нибудь полезное.}
-{141}{}{Отлично! Так и поступим.}
-{142}{}{Так быстро? А как же обед и горячительный напиток? Нет-нет, принеси мне какой-нибудь еды и выпивки. Не хочу работать на голодный желудок.}
-{143}{}{Проехали.}
-{144}{}{Тогда потерпи - обсудим это потом.}
+{135}{}{A couple of massive halogen lamps on your hood are never out of fashion. It's not too comfortable driving at night when there's no more roads, don't you agree? I could install them, no sweat. The question is what will I have in return.}
+{136}{}{Oh yes, I'd like that!}
+{137}{}{Not now. What else did you say you could do?}
+{138}{}{Your car eats up loads of fuel and half of the energy goes heating up the wasteland? Oh yeah, I know how it feels! And I also know how to make it stop draining your batteries like a short fuse. The question is only what will I get in return.}
+{139}{}{That'll take some work, but I could do it. Your trunk is quite roomy, and you could fit a dozen or so debtors in there, but sometimes it's just still not enough, am I right? A leather tent will let you stuff about 20% more loot in there. But you'll have to motivate me, if you know what I mean.}
+{140}{}{Hmm! I didn't have to read in quite a long while. I wouldn't remember the letters, but if you read it to me, I'll try to make some use of it.}
+{141}{}{Great, let's do that.}
+{142}{}{Just like that? No, no, I got to have a hot meal and wet my whistle first. My head doesn't work right on an empty stomach.}
+{143}{}{Whatever.}
+{144}{}{Wait a little then - we'll talk about it later.}
 
-{145}{}{Передумал? Напрасно!}
-{146}{}{Расскажи еще раз про свои предложения.}
-{147}{}{Возможно. Но я в любом случае ухожу.}
-{148}{}{О-о, да! Мне этого хватит. Теперь погрейся у бочки, пока я не закончу с этой малюткой...}
-{149}{}{Эй, поосторожнее там!}
-{150}{}{Святой Крайслус! Оно работает! Глазам своим не верю!}
-{151}{}{Что, серьезно?..}
-{152}{}{Дело сделано! Пикап теперь будет куда экономичнее расходовать запас энергии.}
-{153}{}{Теперь ваша машина озаряет свой путь передними фарами.}
-{154}{}{Этот тент сослужит вам хорошую службу, увеличивая вместительность багажника примерно на }
-{155}{}{Хм...}
-{156}{}{(Продолжить)}
+{145}{}{You changed your mind yet? Too bad!}
+{146}{}{Tell me about your car options again.}
+{147}{}{Maybe. But I'm going away anyway.}
+{148}{}{Oh yes, that should be enough! Go warm yourself up by that barrel while I finish working on this baby...}
+{149}{}{Just be careful, alright?}
+{150}{}{Holy Chryslus! It works! I can't believe this!}
+{151}{}{What, really?}
+{152}{}{Job's done! The pick-up will now use energy more efficiently.}
+{153}{}{Now your car lights its way with new headlights.}
+{154}{}{This tent will serve you good, increasing your trunk's capacity by about }
+{155}{}{Hmm...}
+{156}{}{(-more-)}
 {157}{}{%.}
 
-{158}{}{Хорошо, что тебе нужно?}
-{159}{}{А что у тебя есть из выпивки и еды?}
-{160}{}{[Поискать в рюкзаке выпивку]}
-{161}{}{[Поискать в рюкзаке еду]}
-{162}{}{Ничего такого. Поищу и вернусь.}
-{163}{}{Забудь. Что ты еще говорил про мою машину?}
-{164}{}{Я уже скормил тебе столько, сколько бы неделю жрал коготь смерти. И только попробуй еще раз заикнуться о еде!}
-{165}{}{Воу, потише, приятель! Не спорю, хотел на тебе поживиться. А кто бы не хотел?.. Ладно, не смотри на меня так.}
-{166}{}{Прикуси язык и давай уже заниматься делом.}
-{167}{}{Статьи об автомобилях "Крайслус Моторс" оказались очень полезны. Благодаря снижению нагрузки были немного увеличены скорость вашей машины и предел веса багажа.}
-{168}{}{Тебе еще что-то нужно?}
-{169}{}{Забудь о еде. Поговорим о моей машине.}
-{170}{}{Тебе придется потерпеть. Пока.}
+{158}{}{Okay, what do you want?}
+{159}{}{What snacks and booze have you got?}
+{160}{}{[Look for liquor in your backpack]}
+{161}{}{[Look for food in your backpack]}
+{162}{}{Nothing like that. I'll go get some.}
+{163}{}{Forget it. What did you say about my car?}
+{164}{}{You already had as much as a deathclaw couldn't eat in a week. I dare you motherfucker, ask me for food once again!}
+{165}{}{Hey, easy, buddy! I might have pushed it a little too far, I don't deny it. Well who wouldn't? Oh, don't give me this look.}
+{166}{}{Shut your blowhole and get down to work.}
+{167}{}{Articles on "Chryslus Motors" vehicles proved to be quite useful. You got some tips on increasing your car's speed and maximum carried weight.}
+{168}{}{Need anything else?}
+{169}{}{Forget about food. Lets talk about my car.}
+{170}{}{You'll have to deal with it. Bye.}
 
-{171}{}{[Дать пиво]}
-{172}{}{[Дать самогон]}
-{173}{}{[Дать рыгаловку]}
-{174}{}{[Дать "Кровавую Мэри"]}
-{175}{}{(Ждет в предвкушении)}
+{171}{}{[Give beer]}
+{172}{}{[Give booze]}
+{173}{}{[Give RotGut]}
+{174}{}{[Give "Bloody Mary"]}
+{175}{}{(Waits in anticipation)}
 
-{176}{}{[Дать сандвич]}
-{177}{}{[Дать пиццу]}
-{178}{}{[Дать вяленое мясо]}
-{179}{}{[Дать шашлык из игуан]}
-{180}{}{[Дать фрукт]}
+{176}{}{[Give sandwich]}
+{177}{}{[Give pizza]}
+{178}{}{[Give meat jerky]}
+{179}{}{[Give iguana bits]}
+{180}{}{[Give fruit]}
 
-{181}{}{О-о, да! Довольно неплохо подкрепиться перед работой. Хотя бы чуть-чуть, верно?}
-{182}{}{Э, неужели тебе этого мало?}
-{183}{}{О-о, да! Немного подзарядить свои котлы топливом - вот что нужно хорошему автомеханику, верно? Ну, хотя бы для начала работ.}
-{184}{}{А ты не сгоришь от такого количества "топлива"?}
-{185}{}{Тебе и этого мало?!}
+{181}{}{Oh yeah! It's always good to snatch a bite before work. Even if it's not much, right?}
+{182}{}{Wait, you mean it wasn't enough for you?}
+{183}{}{Oh yeah! Some fuel in the system - just what a mechanic needs, right? Well, at least for starters.}
+{184}{}{Won't you burn up from this much "fuel"?}
+{185}{}{You're still not full?!}
 
-{186}{}{О да, крутая у тебя машина.}
-{187}{}{А то...}
+{186}{}{Oh yeah, that's a hell of a ride.}
+{187}{}{You bet...}
 
-{190}{}{ Ах, да... }
-{191}{}{Вижу, фары уже светят, как солнце из задницы. }
-{192}{}{Новый регулятор тебе не нужен - тот, что сейчас стоит, еще долго прослужит. }
-{193}{}{Ну, в новом багажнике у тебя, видимо, необходимости нет. А жаль. }
-{194}{}{Так чего же ты хочешь?}
+{190}{}{Oh, yeah... }
+{191}{}{I see your headlights are shining like the sun out of your ass.}
+{192}{}{You don't need a new regulator - the one you got should serve you fine for a many a mile yet.}
+{193}{}{Well apparently you don't need a better trunk. What a pity. }
+{194}{}{So what do you want?}
 
 #Женские реплики (Rekrut)
-{1110}{}{Воу, добро пожаловать в сверкающий Вегас, скиталица!}
-{1145}{}{Передумала? Напрасно!}
-{1164}{}{Я уже скормила тебе столько, сколько бы неделю жрал коготь смерти. И только попробуй еще раз заикнуться о еде!}
-{1165}{}{Воу, потише, подруга! Не спорю, хотел на тебе поживиться. А кто бы не хотел?.. Ладно, не смотри на меня так.}
+{1110}{}{Whoa, welcome to resplendent Vegas, precious!}
+{1145}{}{You changed your mind yet, darling? Too bad!}
+{1164}{}{You already had as much as a deathclaw couldn't eat in a week. I dare you motherfucker, ask me for food once again!}
+{1165}{}{Hey, easy, darling! I might have pushed it a little too far, I don't deny it. Well who wouldn't? Oh, don't give me this look..}
 
