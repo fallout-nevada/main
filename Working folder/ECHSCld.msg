@@ -1,5 +1,5 @@
-{100}{}{Вы видите ребенка.}
-{101}{}{Перед вами ребенок с хмурым и настороженным выражением лица.}
-{102}{}{Папа отлупит меня, если я заговорю с вами}
-{103}{}{А вы не так плохи, как казались...}
-{104}{}{Только тронешь меня - и папа тебя убьет!}
+{100}{}{You see: child.}
+{101}{}{You see a child with troubled look on her face.}
+{102}{}{Dad will give me a whomping if he sees me talking to you.}
+{103}{}{You're not as bad as you seem...}
+{104}{}{Touch me and my dad will kick your butt!}

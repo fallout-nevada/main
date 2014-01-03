@@ -32,7 +32,7 @@
 {133}{}{Tell me about the trunk.}
 {134}{}{I don't need any of these.}
 
-{135}{}{A couple of massive halogen lamps on your hood are never out of fashion. It's not too comfortable driving at night when there's no more roads, don't you agree? I could install them, no sweat. The question is what will I have in return.}
+{135}{}{A couple of massive halogen lamps on your hood are never out of fashion. It's not too comfortable driving at night when there's no roads anymore, don't you agree? I could install them, no sweat. The question is what will I have in return.}
 {136}{}{Oh yes, I'd like that!}
 {137}{}{Not now. What else did you say you could do?}
 {138}{}{Your car eats up loads of fuel and half of the energy goes heating up the wasteland? Oh yeah, I know how it feels! And I also know how to make it stop draining your batteries like a short fuse. The question is only what will I get in return.}

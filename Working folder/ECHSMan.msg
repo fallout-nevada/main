@@ -1,132 +1,132 @@
-{100}{}{Вы видите главу семейства.}
-{101}{}{Перед вами довольно суровый, если не сказать - жесткий, человек.}
+{100}{}{You see head of the family.}
+{101}{}{You see a grim-looking to the point of harshness man.}
 
 #Первый разговор
-{110}{}{(Говорит нервно и отрывисто, но сжимающие дробовик руки не дрожат) Просьба не делать резких движений, незнакомец. И держи руки так, что бы я их видел.}
-{111}{}{Эй-эй, спокойно! Вот мои руки, достаточно далеко от оружия. Почему бы тебе не ответить тем же?}
-{112}{}{Предлагаю спокойно разойтись, Пустоши хватит на всех.}
+{110}{}{(Talks nervously and disconnectedly, but his hands clutching a shotgun are not trembling) No abrupt movements, stranger. Keep your hands so that I'd see them at all times.}
+{111}{}{Hey, easy! My hands are right here, see. Far from any weapons. Why don't you do the same?}
+{112}{}{I suggest we each go our own ways, there's enough wasteland for everyone.}
 
-{113}{}{(Медленно опускает оружие, не сводя с вас настороженного взгляда) Извини, но у меня семья и я не могу себе позволить проявить беспечность.}
-{114}{}{Это понятно, но не слишком ли ты зациклился на проблемах безопасности?}
-{115}{}{Продолжим разговор позже, когда ты малость успокоишься.}
+{113}{}{(Slowly lowers the gun, without taking his keen eyes off you) Sorry, but I got a family to protect, I can't afford being incautious.}
+{114}{}{I can understand that, but don't you think you're a bit over-obsessed with security?}
+{115}{}{Let's talk later when you've calmed down a bit.}
 
-{116}{}{Я слежу за тобой.}
-{117}{}{Приятно, что моя персона кому-то так интересна. Позволь-ка спросить - откуда столько подозрительности?}
-{118}{}{Взаимно, партнер. [Уйти]}
+{116}{}{I'll be watching you.}
+{117}{}{It's flattering that I arouse such interest. But let me ask you, why so suspicious?}
+{118}{}{Likewise, partner. [Leave]}
 
-{119}{}{А что, наш мир дает много поводов доверять людям? Мы проделали долгий путь, посетив немало "цивилизованных" поселений, и все больше склоняемся к мысли держаться от всех подальше.}
-{120}{}{Так в чем проблема - никто же вам свое общество вроде не навязывает?}
-{121}{}{А откуда путь держите?}
+{119}{}{Are you saying the world we live in gives much room for trust? We've come a long way, visited a bunch of "civilized" settlements, and the more we see, the more we lean towards keeping away from everybody.}
+{120}{}{So what's the problem - nobody's insisting on keeping you company, are they?}
+{121}{}{Where are you heading?}
 
-{122}{}{Согласен, но нам нужно где-то пополнять запасы провианта и запчастей. Кроме того, есть еще одна проблема, которая гонит нас все дальше на запад.}
-{123}{}{Проблема? Я - совершенно случайно! - как раз специализируюсь на устранении чужих затруднений.}
-{124}{}{Из каких же краев она вас погнала?}
+{122}{}{That's true, but we still need to restock our supply of food and spare parts. Besides, there's another problem that drives us westward.}
+{123}{}{Problem? Well I happen to be a sort of a problem solver.}
+{124}{}{From where did you start your journey?}
 
-{125}{}{Убежище 53... Что, тебя не слишком-то удивляет? Приходилось слышать о проекте? Тогда основное ты знаешь, а что касается деталей... Вряд ли это сейчас для кого-то важно, тем более что наше Убежище давно заброшено. Впрочем, оно никогда толком и не функционировало, так что невелика потеря.}
-{126}{}{Отчего же? Я всегда найду время для интересной истории.}
-{127}{}{Да, ты прав, жить нужно настоящим. Кстати, ты что-то говорил о неких трудностях...}
-{128}{}{На этой оптимистичной ноте и разойдемся.}
+{125}{}{Vault 53... What, you don't look surprised? You've heard about the project? Then you know the story in general, and the details... They hardly matter now, given the Vault has been long abandoned. But it never fully functioned anyway, so nothing of value was lost.}
+{126}{}{No, wait. I always have time for a good story.}
+{127}{}{Yes, you're right, we got to live in the present. You were saying something about some problems...}
+{128}{}{Yeah, let's wish each other luck now.}
 
 #Повторный старт диалога
-{129}{}{Снова ты?}
-{130}{}{Да вот подумалось, что вам может потребоваться мое содействие по некоторым вопросам. Согласен?}
-{131}{}{Всего лишь проснулся интерес к истории места, откуда вы прибыли.}
-{132}{}{Продолжим разговор позже.}
+{129}{}{You again?}
+{130}{}{I just thought you could use some help. Am I right?}
+{131}{}{You got me wondering about your place of origin.}
+{132}{}{Let's talk later.}
 
 #История убежища 53
-{148}{}{Да что тут интересного... Наша эвакуация после начала войны прошла без проволочек, но на этом хорошие новости и закончились. Не знаю, кто именно строил Убежище 53, но они явно не были нашими фанатами. Все техническое обеспечение постоянно сбоило: проблема с дверным механизмом - и вместо радио приходится слушать счетчик Гейгера, неисправный водный чип - и воды пьешь пополам с дрянью, о происхождении которой лучше не думать. А из-за "инновационной" системы электроснабжения часть убежища пришлось и вовсе обесточить.}
-{149}{}{[Далее]}
-{150}{}{Поломки происходили как по расписанию - не менее раза в месяц. И это не было просто неудачным стечением обстоятельств. Нас намеренно поместили в такие условия, уж не знаю, с какой целью. Но если кто-то ждал паники и разброда в наших рядах, то тут они крепко просчитались. Болезни, депрессия и угроза смерти лишь сплотили нас. Людям надоело терпеть все это - и уцелевшие приняли решение выйти на поверхность. Через радиоактивные руины мегаполиса мы добрались до старого автопарка, где и создали новое поселение... Ого, ты еще слушаешь?}
-{151}{}{Спасибо за рассказ, но давай-ка вернемся к насущным проблемам. Знаю, что не похож на доброго самаритянина, но может все же чем-то смогу помочь?}
-{152}{}{Любопытно... А вы сами во время своих скитаний видели что-то, достойное внимания?}
-{153}{}{Благодарю, что уделил время, надо бы это все обдумать...}
+{148}{}{Nothing really good about this story... When the war began, our evacuation went quite swiftly, but that was about it with the good news. I don't know who built Vault 53, but they definitely weren't our fans. All the equipment was constantly failing: a problem with the door mechanism - and we listen to Geiger counter like the fucking radio, faulty water chip - and we drink water mixed with some shit the composition of which better stay unknown. And because of the "innovative" power supply system a part of the Vault had to be cut off completely.}
+{149}{}{[-more-]}
+{150}{}{The failures came like on fucking schedule - not rarer than once a month. It wasn't just an unlucky coincidence. We were placed under those conditions intentionally, whatever the goal might have been. But if they expected panic and disorder from us, boy were they wrong. Diseases, depression and menacing death only brought us closer together. People grew weary of all that shit - and the survivors decided to come out to the surface. Through the radiated ruins of a big city we got to an old car park, where we created a new settlement... Wow, you're still listening?}
+{151}{}{Thanks for the story, but let's turn to more urgent issues. I know I don't look much like a Good Samaritan, but maybe I could help you with something?}
+{152}{}{Interesting... Have you personally seen anything worthwhile in your travels?}
+{153}{}{Thank you for your time, I need to think about all this...}
 
-{154}{}{Восток опустел... Мы видели развалины Вашингтона и Чикаго, но из-за радиации не смогли подобраться даже к пригородным районам. А дочка так хотела увидеть Капитолий и Миллениум-Парк... Прибавь к этому изуродованную радиацией флору и фауну, жаждущую отведать твоей плоти. Как-то раз около Кливленда мы наткнулись на караван. Вернее на то, что от него осталось: что-то выползло из катакомб и разорвало два десятка вооруженных людей, кровь еще дымилась на холоде... Я очень редко молился так искренне, как в тот момент, уматывая оттуда на предельной скорости. Жизнь в тех краях теплится только в мелких поселениях, но чем дальше на запад - тем больше людей мы встречали.}
-{155}{}{Экскурсию в те края я, пожалуй, пока отложу. А пока - не найдется ли у вас для меня какая-нибудь работенка?}
-{156}{}{Не очень-то радостная картина. Ок, еще увидимся.}
+{154}{}{The East was deserted... We observed the ruins of Washington and Chicago, but we couldn't even get close to the suburbs because of radiation. And I wanted to show Capitol and Millennium Park to my daughter so much... Don't forget the flora and fauna mutilated by radiation, awaiting to taste your flesh. Once, near Cleveland we bumped into a caravan. Or what remained of it: something crawled out of the catacombs and tore  two dozens of armed men to bits, their blood still steaming in the cold... Seldom have I prayed as vehemently and sincerely as that moment, running away as fast as was humanly possible. You can find life over there only in very small settlements, but the more we took to the West, the more people we met.}
+{155}{}{Well, I'm postponing my trip to those parts for now. In the meantime, do you maybe have some work for me?}
+{156}{}{Not a very inspiring image. See you later.}
 
 #Лейкемия
-{170}{}{(Он явно колеблется перед ответом, теребя медный крестик на шее) Да какого... Я уже готов хвататься за любую соломинку. Ты знаешь, что такое лейкемия?}
-{171}{}{Рак крови - клональное неопластическое заболевание кроветворной системы. Ты об этом?}
-{172}{}{Э-э... Ну так, что-то знакомое.}
+{170}{}{(He evidently hesitates before speaking, fidgeting a copper cross on his neck) Nah, what the hell... I'm ready to clutch at any straw by now. Do you know what leukemia is?}
+{171}{}{Blood cancer - a lymphoblastic disease of the circulatory system. Is this what you're talking about?}
+{172}{}{Err... Yeah, sounds familiar.}
 
-{173}{}{Ха! Неужели мне посчастливилось встретить коллегу? Тогда ты сможешь понять мое беспокойство - у моей дочери Т-лимфобластный лейкоз. Конечно, поиски лечения нашими силами в новом мире кажутся авантюрной затеей, но просто смотреть на то, как она медленно умирает... В общем, мне нужны квалифицированные специалисты с соответствующим оборудованием. А ты, случайно, не онколог?}
-{174}{}{Я - нет... Но вы не пробовали обратиться к опыту китайских ученых из Бэйянского военно-медицинского центра? Мне как-то попалась любопытная статья по этому поводу...}
-{175}{}{Нет, тут я вам помочь, к сожалению, не могу.}
+{173}{}{Ha! Do I have the luck of talking to a colleague? Then you understand my predicament - my daughter has T-lymphotropic leucosis. Sure, the search for a cure in this setting sounds like a hopeless endeavor, but I can't just sit and watch her die slowly... What I need is qualified specialists with adequate equipment. Aren't you by any chance an oncologist?}
+{174}{}{Me - no... But you could use the experience of Chinese scientists from Beiyang Military Medical Center. I once encountered an interesting article on the subject...}
+{175}{}{Sorry, but there's no way I can help you with that.}
 
-{176}{}{Эх, понятно... Ну хоть знаешь, что такое костный мозг? Ладно, чтоб тебе было понятно - у моей дочери болезнь крови в самом неподходящем для благоприятного исхода проявлении. Вот поэтому мы и пытаемся найти людей, достаточно квалифицированных, чтобы помочь нашей девочке.}
-{177}{}{Печально... Жаль, что ничем не могу вам помочь. Но ведь у вас и кроме этого есть определенные затруднения?}
-{178}{}{Не хотелось бы мне оказаться на вашем месте. Что ж, удачи вам.}
+{176}{}{I see... Well, do you at least know what bone marrow is? All right, in terms that you'd understand - my daughter has a blood disease that rarely entails favorable outcome. That's why we're looking for people qualified enough to help our girl.}
+{177}{}{That's a sad story... It's a pity I can't help you. But you must have other problems apart from that?}
+{178}{}{Sucks to be you. Well, good luck.}
 
-{179}{}{(Некоторое время вы обсуждаете методы азиатских коллег по борьбе с раковыми заболеваниями) ...и трансплантации костного мозга можно избежать? Интересно... Я слышал, что в Сан-Франциско есть одна группировка, в состав которой входят военврачи из КНР, проходившие обучение в Бэйянском центре. Не факт, что они смогут нам помочь, но это лучше, чем блуждать по свету, надеясь на удачу. Спасибо, коллега! Это очень много для меня значит.}
-{180}{}{Не стоит благодарности! Желаю вам удачи, уж вы-то этого точно заслуживаете.}
-{181}{}{Это здорово, но информация стоит денег... Понимаете, коллега?}
+{179}{}{(For some time you discuss the cancer-fighting methods of your eastern colleagues) ...and you can avoid bone marrow transplant? Interesting... I heard that in San Francisco resides a group of military doctors from People's Republic of China, who studied in Beiyang university. Don't know if they can help us, but it's a lead. Thank you! This means a lot to me.}
+{180}{}{Don't thank me! Good luck to you, you definitely deserve it.}
+{181}{}{Yeah, that's nice, but such information has its cost... Catch my drift?}
 
-{182}{}{Черт, конечно... Я откладываю каждую монету на лечение, но часть из них вы вполне заслужили. Еще раз спасибо.}
-{183}{}{Вот и замечательно. Счастливо добраться до побережья.}
-{184}{}{Вы получили в награду }
-{185}{}{ баксов.}
+{182}{}{Oh, sure... I save every penny for my daughter's treatment, but you definitely deserve a part. Thanks again.}
+{183}{}{Great. Good luck reaching the coast.}
+{184}{}{You got }
+{185}{}{ bucks as reward.}
 
 #Мини-квесты
-{200}{}{У нас заканчивается вода, жена пытается из остатков продуктов приготовить что-то удобоваримое... Кроме того, есть подозрения, что у моего дробовика не все в порядке с подачей патронов или что-то в этом роде. Да, еще и мотор у этой колымаги барахлит. После нашего чертова Убежища я стал настоящим параноиком, постоянно проверяю все механизмы на работоспособность, но знаний в этой области мне явно не хватает... Я врач, а не механик.}
-{201}{}{У меня есть вода, чистейшая, как в горном озере. Обменяемся?}
-{202}{}{Могу глянуть твое оружие. Согласен, док?}
-{203}{}{Давненько я не копался в старых моторах...}
-{204}{}{Ты сказал "Убежище"?}
-{205}{}{Как-то я сомневаюсь, что именно эти мелочи заставляют вас мотаться по нашей грешной земле.}
-{206}{}{Ого, да у вас и правда все непросто. Пойду, обдумаю - глядишь, и сумею чем-нибудь помочь.}
-{207}{}{С тех пор, как ты спросил в последний раз, проблем у нас не прибавилось, но оставшиеся требуют решения...}
+{200}{}{We're running out of water, my wife is trying to cook something edible from odds and ends... Besides, I suspect that my shotgun might have some issues with shell feeder or something. And the engine of this rattletrap is giving me hell again. After our hotdamn vault I became paranoid, I'm constantly checking all the mechanisms, but I just don't have enough skills... I'm a doctor, not an engineer.}
+{201}{}{I got water as pure as in a mountain brook. Let's barter?}
+{202}{}{I could have a look at your gun. Deal, doc?}
+{203}{}{It's been a while since I last rummaged in old engines...}
+{204}{}{Did you say "Vault"?}
+{205}{}{I don't believe these things are what makes you roam about the land.}
+{206}{}{Whoa, you really got a load of problems. I'll go think what I can do.}
+{207}{}{Nothing changed since the last time you asked, it's all the same problems...}
 
-{208}{}{Выбора у меня особого нет... Что ж, если сможешь помочь - я в долгу не останусь.}
-{209}{}{Тогда пойду посмотрю, в чем дело.}
+{208}{}{I don't have much choice... Well, If you can help, I will surely make it up to you.}
+{209}{}{I'll go have a look then.}
 
-{210}{}{По поводу мотора...}
-{211}{}{Что, получилось починить?}
-{212}{}{Нет, еще нет...}
-{213}{}{Увы, теперь ваша машина никуда не поедет - я сломал двигатель.}
-{214}{}{Что!? Какой же я идиот, что доверился проходимцу! Ум-м... Уходи с глаз долой, пока я НЕ ВЫШИБ ТЕБЕ МОЗГИ!! И только попробуй вернуться!}
-{215}{}{Эй, я же старался...}
-{216}{}{Тебе этого мало!? Тогда получи порцию дроби в довесок!}
+{210}{}{About that engine...}
+{211}{}{What, you fixed it?}
+{212}{}{No, not yet...}
+{213}{}{Look, I'm terribly sorry, but now the car's not going anywhere - I killed the engine.}
+{214}{}{What!? Good grief, I am such an idiot for trusting a stranger! Ugh... Get out of my sight before I blow your brains out! And don't ever show up again!}
+{215}{}{Hey, I tried...}
+{216}{}{Wasn't I clear enough!? Then I'll pop one in your brain!}
 
-{217}{}{Теперь все в порядке.}
-{218}{}{Черт! Спасибо, скиталец! Урчит, как сытая кошка... (протягивает стимулятор) Это немного за такую работу, но с припасами у нас туго, сам знаешь.}
-{219}{}{Просто не забывай чистить форсунки. Что-нибудь еще?}
-{220}{}{Хорошо, что мы находим общий интерес. Может, еще встретимся.}
+{217}{}{It's all right now.}
+{218}{}{Damn! Thank you, traveler! Purrs like a cat... (hands you a stimpak) I know it's not much for such a bang-up job, but we're tough on supplies, you got to understand.}
+{219}{}{Just don't forget to clean the fuel injectors from time to time. Anything else?}
+{220}{}{It's good we could help each other out. Well, maybe we'll meet again some day.}
 
-{221}{}{Э... Спасибо, но я как-нибудь сам разберусь.}
-{222}{}{Не доверяешь? Правильно, что не доверяешь.}
-{223}{}{Может, тогда я смогу помочь в чем-то другом?}
+{221}{}{Err... Thanks, but I'd rather sort it out myself.}
+{222}{}{What you don't trust me? Good thinking, man. Good thinking.}
+{223}{}{Maybe I can help with something else then?}
 
-{224}{}{Хм... (сначала колеблется, подозрительно всматриваясь в ваши глаза, но потом все же отдает дробовик) Посмотрим, на что ты годишься.}
-{225}{}{Не волнуйся - я знаю, что делать.}
-{226}{}{Не заставляй меня нервничать.}
-{227}{}{Вот, держи - теперь все в порядке.}
-{228}{}{Тогда глотай пилюли, потому что ствол я тебе не отдам!}
-{229}{}{Отличная работа! С оружейниками, как и с любыми специалистами, сейчас на Пустошах туго... Вот, возьми с нашей благодарностью. (отсчитывает 100 баксов)}
-{230}{}{Да там всего-то пружина в затворной раме замены требовала... Но благодарность - это хорошо, особенно подкрепленная чем-то материальным. Какие-то еще проблемы?}
+{224}{}{Hmm... (he hesitates, suspiciously looking into your eyes, but then gives up and hands you the shotgun) Let's see how good you are.}
+{225}{}{Don't worry, I know what I'm doing.}
+{226}{}{Beware, I might lose my nerve.}
+{227}{}{Here you go, good as new.}
+{228}{}{Then you better take some pills right fucking now, 'cause you're not getting the gun back!}
+{229}{}{Good job! Gunsmiths, like any specialists, are scarce in the wasteland these days... Take this and our gratitude. (hands you $100)}
+{230}{}{Nah it was just a worn spring... But gratitude is a good thing, especially when it goes with something substantial. Any other problems?}
 
-{250}{}{Я немного могу дать на обмен. Зато я научился делать стимуляторы из лечебных трав. Тебя устроит такой вариант обмена? Тогда я обменяю один стимулятор на 10 фунтов чистой воды.}
-{251}{}{Как и раньше - вода на стимуляторы. Устроит?}
-{252}{}{[Совершить обмен: 5 фляжек воды на 1 стимулятор]}
-{253}{}{[Совершить обмен: 10 фляжек воды на 2 стимулятора]}
-{254}{}{[Совершить обмен: 15 фляжек воды на 3 стимулятора]}
-{255}{}{[Совершить обмен: 20 фляжек воды на 4 стимулятора]}
-{256}{}{Пока отложим этот вопрос. Что еще вам было нужно?}
-{257}{}{Возможно, я вернусь, когда раздобуду чистую воду.}
-{258}{}{Спасибо. Это было очень кстати. Будут еще излишки - приноси, я всегда готов обменяться.}
-{259}{}{Пожалуйста.}
-{260}{}{Чем я еще могу вам помочь?}
-{261}{}{Вам все еще нужна чистая вода?}
-{262}{}{Что ты говорил про воду?}
+{250}{}{I can't offer much for barter. But I learned to make stimpaks from herbs. Will it do? Then I'll trade you one stimpak for every 10 pounds of clean water.}
+{251}{}{Just like before - water for stimpaks. Deal?}
+{252}{}{[Trade 5 flasks for 1 stimpak]}
+{253}{}{[Trade 10 flasks for 2 stimpaks]}
+{254}{}{[Trade 15 flasks for 3 stimpaks]}
+{255}{}{[Trade 20 flasks for 4 stimpaks]}
+{256}{}{Let's talk about it next time. What else did you say you need?}
+{257}{}{Maybe, I'll come back when I get some clean water.}
+{258}{}{Thank you. That was very timely. If you ever have any more water you can spare, bring it to me, I'm always ready for exchange.}
+{259}{}{You're welcome.}
+{260}{}{What else can I do for you?}
+{261}{}{Do you still need clean water?}
+{262}{}{What did you say about water?}
 
-{263}{}{Мотор в норме, дробовик тоже, чистая вода в наличии имеется... Чего же еще желать странникам в пути, верно?}
-{264}{}{А что не так с дробовиком?}
-{265}{}{Ха, это *я* спрашиваю, что не так с ним. Если ты не разбираешься в огнестрельном оружии, то лучше не лезь.}
+{263}{}{The engine's all right, the shotgun too, got myself some clean water... What else does a traveler need, right?}
+{264}{}{What's wrong with the shotgun?}
+{265}{}{Hah, that's what *I'm* asking. If you don't know jack shit about guns, don't try to meddle.}
 
 #Женские реплики (Rekrut)
-{1110}{}{(Говорит нервно и отрывисто, но сжимающие дробовик руки не дрожат) Просьба не делать резких движений, незнакомец. И держи руки так, что бы я их видел.}
-{1151}{}{Спасибо за рассказ, но давай-ка вернемся к насущным проблемам. Знаю, что не похожа на доброго самаритянина, но может все же чем-то смогу помочь?}
-{1203}{}{Давненько я не копалась в старых моторах...}
-{1207}{}{С тех пор, как ты спросила в последний раз, проблем у нас не прибавилось, но оставшиеся требуют решения...}
-{1215}{}{Эй, я же старалась...}
-{1218}{}{Черт! Спасибо, скиталица! Урчит, как сытая кошка... (протягивает стимулятор) Это немного за такую работу, но с припасами у нас туго, сама знаешь.}
+{1110}{}{(Talks nervously and disconnectedly, but his hands clutching a shotgun are not trembling) No abrupt movements, stranger. Keep your hands so that I'd see them at all times.}
+{1151}{}{Thanks for the story, but let's turn to more urgent issues. I know I don't look much like a Good Samaritan, but maybe I could help you with something?}
+{1203}{}{It's been a while since I last rummaged in old engines...}
+{1207}{}{Nothing changed since the last time you asked, it's all the same problems... There are no new problems, though, which is not half bad.}
+{1215}{}{Hey, I tried...}
+{1218}{}{Damn! Thank you, traveler! Purrs like a cat... (hands you a stimpak) I know it's not much for such a bang-up job, but we're tough on supplies, you got to understand.}
