@@ -11,7 +11,7 @@
 {117}{}{There'll be no sequel. I think you've figured that out by now.}
 {118}{}{What am I working on now? It's funny, I'm working on... you!}
 {119}{}{Nooo, no, no! I don't have any kind of liquor here.}
-{120}{}{Hmm, so *this* is the way you want to roleplay?... Well, it's all up to you.}
+{120}{}{Hmm, so *this* is the way you want to roleplay?... Well, it's up to you after all.}
 {121}{}{Are you one of those who don't like to read much text too?}
 {122}{}{If I called the whole team here, there'd be no room to swing a cat. Sorry.}
 {123}{}{Деточка "Я знаю"? Не обращайте внимания. Не он первый, не он последний.}
@@ -27,4 +27,4 @@
 
 {210}{}{Damn, so much time and effort for some uber device? A round of applause is in order, I just have to reward you somehow now. Here, a limitless source of experience... well, as long as you have the nerve.}
 {211}{}{[Leave]}
-{212}{}{I've already said all I can say.}
+{212}{}{I think I've said it all.}
