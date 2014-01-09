@@ -1,12 +1,12 @@
-{100}{}{¬ы видите незнакомца.}
-{101}{}{¬ы видите очень странного и очень жуткого человека.}
-{102}{}{Ёто насто€щий великан, и людей вроде вас он, скорее всего, ест на завтрак.}
+{100}{}{You see a stranger.}
+{101}{}{You see a strange creepy man.}
+{102}{}{A real giant, he probably has people like you for breakfast.}
 {103}{}{?}
-{104}{}{ј вы еще кто такие?!}
-{105}{}{я не отвечаю на вопросы, скиталец. я пришел теб€ предупредить.}
-{106}{}{ќ чем?}
-{107}{}{„ерт!  ак ты смог?... на рассто€нии...}
-{108}{}{ƒважды предупреждать не стану. «абудь про свой поиск, иначе отправишьс€ вслед за остальными чистыми душами.}
-{109}{}{ ажетс€, вас подстерегли!}
-{110}{}{"„истые души"? Ёто еще что за бред?!}
-{1105}{}{я не отвечаю на вопросы, скиталица. я пришел теб€ предупредить.}
+{104}{}{Who the hell are you people?!}
+{105}{}{I don't answer questions, wanderer. I'm here to warn you.}
+{106}{}{About what?}
+{107}{}{Dam! How did you... from a distance...}
+{108}{}{There will be no second warning. Abandon your quest, or you will follow the fate of other pure souls.}
+{109}{}{Looks like it was an ambush!}
+{110}{}{"Pure souls"? What the hell are you babbling about?!}
+{1105}{}{I don't answer questions, wanderer. I'm here to warn you.}

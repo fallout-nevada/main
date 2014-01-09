@@ -1,30 +1,30 @@
-{100}{}{Перед вами BlackDesigner.}
-{101}{}{Вы видите обыкновенного дизайнера, каких много.}
+{100}{}{You see BlackDesigner.}
+{101}{}{You see an ordinary designer, like any other.}
 
-{110}{}{Заглянули к нам на огонек? Правильно!}
-{111}{}{Там, в пустошах, всякое бывает.}
-{112}{}{Я бы и сам отправился в путешествие, но не с пустыми же карманами.}
-{113}{}{Приходится работать за пиццу.}
-{114}{}{А то кто же мне одолжит два миллиона баксов на свой проект?}
-{115}{}{Какие-то жалкие два лимона!}
-{116}{}{Ладно, проехали...}
-{117}{}{Но продолжения не будет. Думаю, вы это уже поняли.}
-{118}{}{Что же я сейчас делаю? Забавно, я делаю... вас!}
-{119}{}{Не-е-ет, нет, нет! Никаких алкогольных напитков не держу.}
-{120}{}{Хм, значит, *так* вы решили отыграть свою роль?... Что ж, ваше право.}
-{121}{}{Вы тоже из числа тех, кто не любит читать много текста?}
-{122}{}{А вот если бы я позвал сюда всю команду, здесь бы было не продохнуть. Уж извините.}
+{110}{}{Decided to drop by? Good!}
+{111}{}{There are all kinds of shit in the wasteland.}
+{112}{}{I'd travel myself, but not with empty wallet.}
+{113}{}{I have to work for food.}
+{114}{}{Who wants to lend me two million for my project?}
+{115}{}{Some petty two million!}
+{116}{}{All right, forget I asked...}
+{117}{}{There'll be no sequel. I think you've figured that out by now.}
+{118}{}{What am I working on now? It's funny, I'm working on... you!}
+{119}{}{Nooo, no, no! I don't have any kind of liquor here.}
+{120}{}{Hmm, so *this* is the way you want to roleplay?... Well, it's all up to you.}
+{121}{}{Are you one of those who don't like to read much text too?}
+{122}{}{If I called the whole team here, there'd be no room to swing a cat. Sorry.}
 {123}{}{Деточка "Я знаю"? Не обращайте внимания. Не он первый, не он последний.}
 
-{200}{}{Думаете, затыкав меня этой штукой, вы чего-то добъетесь?}
-{201}{}{Хм, судя по вашей дотошности, это может привести к чему-то полезному. Ха!}
-{202}{}{Да-да, я знаю, вы ждете, что я дам какой-нибудь супер-пупер-девайс. Но - ничего подобного.}
-{203}{}{А еще чего? Губа не отвиснет от моих подарочков?}
-{204}{}{О, уже лучше. Продолжайте, я все еще не решаюсь сказать вам...}
-{205}{}{Что, так сильно нравится тыкать человека стрелкой? Хотя, чего только не сделаешь ради подарочка, верно?}
-{206}{}{Вот! Вот! Уже! Почти!}
-{207}{}{Конечно, вы это заслужили. Сейчас я его принесу... хотя нет, рано.}
+{200}{}{You think poking me repeatedly with this thing will get you somewhere?}
+{201}{}{Hmm, from your persistence I can tell you think it will result something useful!}
+{202}{}{Yes, I know, you expect me to give you some kind of super-dooper device. Sorry to ruin your expectations, but this isn't happening.}
+{203}{}{What else would you like me to do? Win the game for you?}
+{204}{}{Yes, go on, I still can't bring myself to break it to you...}
+{205}{}{What, you like poking a man with an arrow so much? But what wouldn't you do for a present, right?}
+{206}{}{Yes, right! Almost there!}
+{207}{}{Sure. You earned it. I'll go get it now... no, wait. Not yet.}
 
-{210}{}{Мда-а, столько времени и сил потратить на читерский девайс? Можно было бы поаплодировать усердию, но ей-богу, надо же как-то вам помочь, а то смотреть жалко. Вот, держите - практически бездонный мешок опыта... по крайней мере, пока духу хватит.}
-{211}{}{[Уйти]}
-{212}{}{Пожалуй, я все сказал}
+{210}{}{Damn, so much time and effort for some uber device? A round of applause is in order, I just have to reward you somehow now. Here, a limitless source of experience... well, as long as you have the nerve.}
+{211}{}{[Leave]}
+{212}{}{I've already said all I can say.}
