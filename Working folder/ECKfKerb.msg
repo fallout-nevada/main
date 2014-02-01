@@ -1,25 +1,25 @@
-{100}{}{Перед вами Kerb.}
-{101}{}{Вы видите Kerb`a. Именно его, а не кого-то другого!}
+{100}{}{You see Kerb.}
+{101}{}{You see none other than Kerb!}
 
 #Если ГГ бухой или обколотый:
-{110}{}{И этот торчок собирается спасти мир? Ну... почему бы и нет, раз мир не лучше}
+{110}{}{And this junkie is the one to save the world? Well... why the hell not. Like priest, like people.}
 
 #Обычные ответные реплики:
-{111}{}{2,4 мегабайта... 2,4 мегабайта!!!}
-{112}{}{Смотрю на тебя - и вижу только бесконечные строки диалогов...}
-{113}{}{Нет прибыли от проекта? Зато не надо беспокоиться о [censored] цензуре!}
-{114}{}{Бля, че за гребанная херня? А не, все норм...}
-{115}{}{И никакой политкорректности!}
-{116}{}{War. War never changes... Ну, должен же здесь хоть кто-то это сказать!}
-{117}{}{Выше голову, товарищ! 2077 все ближе!}
-{118}{}{Эх, что же все-таки сейчас творится на просторах СССР?}
-{119}{}{Съесть бы печень Линетт с бокалом кьянти... или хотя бы сердце Морфеуса под пиво}
+{111}{}{2.4 megabytes... 2.4 megabytes!!!}
+{112}{}{Looking at you all I see is endless lines of dialog...}
+{113}{}{Non profit project, huh? At least there's no need to worry about [censored] censorship!}
+{114}{}{Damn it, what the fuck? Oh, never mind, it's ok...}
+{115}{}{And to hell with political correctness!}
+{116}{}{War. War never changes... Come on, somebody had to say it!}
+{117}{}{Don't lose spirit, comrade! 2077 is nearer with every minute!}
+{118}{}{I can't help but wonder what's going on in what used to be USSR.}
+{119}{}{I'd have Lynette's liver with a glass of Chianti now... or at least Morpheus' heart with some beer.}
 
 #При применении воровства:
-{130}{}{Э! Грабки убери!!}
+{130}{}{Hey! Get your filthy claws off me!!}
 #При применении науки:
-{131}{}{Социопат с маниакально-параноидным синдромом, значит? На себя посмотри, ага?}
+{131}{}{Sociopath with  manic depressive disorder, you say? Well look at yourself.}
 #При применении бухла:
-{132}{}{Лучше нацеди мне стаканчик крови}
+{132}{}{Better decant me a glass of sweet blood instead.}
 #При применении drug-предметов:
-{133}{}{Эй! Мне, может, тоже хочется ткнуть тебя ножом! Но я же держусь!}
+{133}{}{Hey! Maybe I too would like to poke you with something, like a knife! But you don't see me doing it!}

@@ -1,21 +1,21 @@
-{100}{}{Вы видите полоумного.}
-{101}{}{Вы видите полоумного с надписью "Я знаю" на груди. Он чем-то сильно озабочен.}
-{102}{}{Вы вкололи успокоительное в задницу деточке.}
-{103}{}{Ну вот, я только во вкус вошел, а вы...}
+{100}{}{You see a deranged man.}
+{101}{}{You see a deranged man with a sign saying "I know" on his chest. He seems deeply troubled.}
+{102}{}{You injected sedative into kiddo's butt.}
+{103}{}{Oh damn, I just got worked up, and you...}
 
-{110}{}{Это обман! Этого ничего нет!}
-{111}{}{Ущипните меня! Это сон!}
-{112}{}{Это-кошмар-и-я-не-могу-проснуться!!!}
-{113}{}{Этого всего не существует - Невады, кафе, даже меня нет!}
-{114}{}{Нас всех зомбировали!}
-{115}{}{Кто-то создал эту галлюцинацию! Этого всего не существует!}
-{116}{}{Кто-то играет всеми нами!}
-{117}{}{Вас всех обманули! Все это - ложь!}
-{118}{}{Выглядит как настоящее, звучит как настоящее, но это неправда!}
-{119}{}{Ты всего лишь марионетка в чьих-то руках!}
-{120}{}{Не верь им! Они тебя обманывают!}
+{110}{}{It's a deception! All of this isn't here!}
+{111}{}{Somebody pinch me! I must be dreaming!}
+{112}{}{It's-a-nightmare-and-I-can't-wake-up!!!}
+{113}{}{None of this actually exists - no Nevada, no cafe, no me even!}
+{114}{}{We've all been manipulated!}
+{115}{}{Somebody created this hallucination! It can't be real!}
+{116}{}{Someone's just playing us!}
+{117}{}{You've been fooled! It's all a lie!}
+{118}{}{It may look real, sound real, but it isn't real!}
+{119}{}{You're just a plaything! A pawn! A puppet in clever hands!}
+{120}{}{Don't trust them! They want to trick you!}
 
-{200}{}{Это глупо... очень глупо...}
-{201}{}{Ну за что!?...}
-{202}{}{Ну вот, весь кайф обломали...}
-{203}{}{А так все забавно начиналось...}
+{200}{}{It's stupid... way too stupid...}
+{201}{}{Why!?...}
+{202}{}{Oh damn, ruined all the fun...}
+{203}{}{It was just about to take pace...}
