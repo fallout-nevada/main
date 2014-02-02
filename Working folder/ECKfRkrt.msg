@@ -1,15 +1,15 @@
-{100}{}{Перед вами Rekrut.}
-{101}{}{Вы видите флегматичного мужчину, не то медика, не то инженера. Он постоянно поправляет очки на носу.}
+{100}{}{You see Rekrut.}
+{101}{}{You see an apathetic man, who looks like a doctor or an engineer. He's constantly adjusting his spectacles.}
 
-{110}{}{Сколько раз Скиталица заставляла краснеть беднягу Сэма?}
-{111}{}{Вы не думаете, что женским персонажем проходить проще?}
+{110}{}{How many times did wanderer girl make poor Sam blush?}
+{111}{}{Don't you think it's easier to play with female character?}
 
-{112}{}{Пожалуйста, говорите по-русски.}
-{113}{}{Правильно писать "воин", а не "войн".}
-{114}{}{Правильно писать "чересчур", а не "через чур".}
-{115}{}{Вы угадали, я бываю занудливым.}
-{116}{}{Вы думали найти здесь собаку? Извините, но собакам в кафе нельзя.}
-{117}{}{Люблю критиковать чужие предложения.}
-{118}{}{Почему бы и не помочь хорошему человеку?}
-{119}{}{Я же всегда говорил, что это отличная мысль!}
-{120}{}{Нет невыполнимой работы для человека, который не обязан делать ее сам.}
+{112}{}{Please, speak proper English.}
+{113}{}{It's "you're", not "your".}
+{114}{}{It's "their", not "there".}
+{115}{}{You guessed it, I can be a nerd sometimes.}
+{116}{}{You expected to find a dog in here? Sorry, no dogs allowed.}
+{117}{}{I like to criticize other people's suggestions.}
+{118}{}{Why not aid a good man?}
+{119}{}{I've always said it's a good idea!}
+{120}{}{There's no such thing as impossible task for a man who doesn't have to perform it himself.}

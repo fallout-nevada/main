@@ -1,5 +1,5 @@
-{100}{}{Перед вами Aleksey Trofimov.}
-{101}{}{Вы видите странного полуголого композитора.}
+{100}{}{You see Aleksey Trofimov.}
+{101}{}{You see a weird composer, naked from waist up.}
 
-{110}{}{*воет*}
-{111}{}{Просто нет}
+{110}{}{*howls*}
+{111}{}{Just no.}

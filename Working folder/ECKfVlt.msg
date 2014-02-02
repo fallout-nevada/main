@@ -1,30 +1,30 @@
-{100}{}{Перед вами Vault_13.}
-{101}{}{Вы видите одновременно администратора, блогера, музыканта и еще много кого в одном лице.}
+{100}{}{You see Vault_13.}
+{101}{}{You see an administrator, blogger, musician and many other things.}
 
-{110}{}{Эхх, нет ничего лучше, чем пропустить кружечку радиоактивного пивка...}
-{111}{}{Эй, бармен, ты WMZ принимаешь?}
-{112}{}{Все бы отдал за миску пельменей}
-{113}{}{Не так я себе представлял постъядерное будущее}
-{114}{}{У кого-нибудь есть лишняя селезенка?}
-{115}{}{Да, я действительно считаю, что невидимые люди - это смешно}
-{116}{}{Мне 179 лет}
-{117}{}{Где здесь туалет? Мне бы сбросить пару бомб}
-{118}{}{Я тоже когда-то носил сине-желтые шмотки. Закончилось плохо.}
-{119}{}{Тебя тоже выгнали из убежища?}
-{120}{}{Послали выполнять "важное" задание?}
-{121}{}{Не льсти себе, просто от тебя дурно пахло}
-{122}{}{МОЗГИИИИИИИ!}
-{123}{}{Ха-ха, шучу}
-{124}{}{А ведь когда-то у меня было собственное дело.}
-{125}{}{И все, что от него осталось - этот проклятый диск!}
-{126}{}{Подумать только, выбрался к родственникам в США на недельку...}
-{127}{}{Так тут и остался}
-{128}{}{И зачем я только налоги платил?}
-{129}{}{Думал, встречу апокалипсис в уютном подземном убежище где-нибудь у себя на даче.}
-{130}{}{А вот хрен.}
-{131}{}{Застрял здесь и несу всякую чушь незнакомцам.}
-{132}{}{Слушай, может у тебя травка есть?}
-{133}{}{Так и знал.}
-{134}{}{Наркоман чертов}
-{135}{}{Ни одного нормального человека вокруг}
-{136}{}{Перестань тыкать в меня этой штукой!}
+{110}{}{Oh, there's nothing better than a glass of radiated beer...}
+{111}{}{Hey, bartender, do you accept paypal?}
+{112}{}{What wouldn't I give for a bowl of russian dumplings.}
+{113}{}{This is not how I pictured post nuclear-apocalyptic future.}
+{114}{}{Anybody here got a spare spleen?}
+{115}{}{Yes, I really find the idea of invisible people funny.}
+{116}{}{I'm 179 years old.}
+{117}{}{Where's the bathroom here? I need to drop a couple of bombs.}
+{118}{}{I used to wear yellow-blue clothes too. It didn't end well.}
+{119}{}{Did they kick you out of the vault too?}
+{120}{}{Oh, they "sent you on an important mission", huh?}
+{121}{}{Don't kid yourself, you just smelled bad or something.}
+{122}{}{BRAINS!}
+{123}{}{Ha ha, just kidding.}
+{124}{}{Just to think about it, I used to have a business of my own.}
+{125}{}{And all that's left of it is this goddamn disk!}
+{126}{}{Imagine, I came to visit some relatives in the US just for a week or so...}
+{127}{}{And boom, I get stuck here.}
+{128}{}{Why did I even bother paying taxes?}
+{129}{}{I thought I'd watch the apocalypse from a comfortable shelter at my countryhouse.}
+{130}{}{But no.}
+{131}{}{I'm stuck here and I'm raving to strangers.}
+{132}{}{Hey, maybe you got some weed?}
+{133}{}{I knew it.}
+{134}{}{Goddamn pothead.}
+{135}{}{There's not a single normal person around.}
+{136}{}{Stop poking me with that thing!}
