@@ -1,3 +1,3 @@
 {100}{}{}
-{101}{}{Энциклопедия больше не поможет вам - теперь ваш личный опыт будет путеводителем по миру.}
-{102}{}{Детальное изучение данных в архиве расширяет ваши общие познания о мире вокруг вас.}
+{101}{}{The encyclopedia is of no more use - let your personal experience be your guide from now on.}
+{102}{}{Thorough study of the archive data broadens your knowledge of the world.}

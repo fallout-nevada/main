@@ -12,4 +12,4 @@
 {117}{}{I like to criticize other people's suggestions.}
 {118}{}{Why not aid a good man?}
 {119}{}{I've always said it's a good idea!}
-{120}{}{There's no such thing as impossible task for a man who doesn't have to perform it himself.}
+{120}{}{No task is impossible for a man who doesn't have to perform it himself.}

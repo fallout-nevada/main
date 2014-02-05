@@ -1,1 +1,1 @@
-{100}{}{Прочтение документа вознаградило вас одним очком опыта.}
+{100}{}{Reading the document grants you one experience point.}

@@ -1,24 +1,24 @@
-{100}{}{Вы видите искателя.}
-{101}{}{Перед вами искатель, он всю жизнь что-то ищет.}
-{102}{}{Привет. Ты все еще думаешь об этом? Забудь, это опасно.}
+{100}{}{You see a stalker.}
+{101}{}{You see a stalker who's been stalking as long as he remembers.}
+{102}{}{Hey there. You still thinking about it? Forget it, it's too dangerous.}
 
-{110}{}{Ого, да я не один здесь такой смелый?!}
-{111}{}{Да я вообще-то случайно сюда забрел...}
-{112}{}{А, ну да, конечно, так уж я и поверил.}
-{113}{}{А что в этом удивительного?}
-{114}{}{Что удивительного!? Ты что же - и правда не знаешь, что это за место?}
-{115}{}{Неа.}
-{116}{}{Ну тогда слушай. Это место называют "аномалия", потому что здесь происходят очень странные события. И многие хотели бы узнать, почему, но видимо, тайна сокрыта где-то глубоко под землей, и докопаться до нее никто не может.}
-{117}{}{Странные события? Например?}
-{118}{}{Видишь, как воздух мерцает? В эти места нельзя заходить - там такой уровень радиации и напряжения, что сгоришь заживо.}
-{119}{}{Ух ты!}
-{120}{}{Уже многие пытались проникнуть на станцию, но им так и не удалось этого сделать - или трусят и возвращаются, или остаются там... навсегда.}
-{121}{}{Неужели нельзя обойти эти опасные зоны?}
-{122}{}{Ну, видимо, как-то можно. Сложность в том, что эти аномалии постоянно меняются. Сегодня они в этих местах, а завтра уже в других.}
-{123}{}{Хм. А зачем вообще кому-то проникать на эту станцию? Что там такого особенного?}
-{124}{}{Говорят, там какая-то уникальная штука есть, артефакт называется. Есть легенда, будто она исцеляет от всех болезней... Даже от радиации!}
-{125}{}{Вот это здорово! Мне бы не помешал этот... артефакт.}
-{126}{}{Вот именно. И многим он не помешал бы. А никто достать не может... Да и есть ли вообще этот артефакт, никто точно не знает. Вот и я думаю - а стоит ли оно того?}
-{127}{}{Спасибо, что рассказал! Счастливо.}
+{110}{}{Whoa, looks like I'm not the only guy brave or stupid enough to come here?!}
+{111}{}{Actually I sort of stumbled here by accident...}
+{112}{}{Yeah, sure. Like I'd believe that.}
+{113}{}{What's so incredible about it?}
+{114}{}{What's incredible about it!? Do you really not know what this place is?}
+{115}{}{Nope.}
+{116}{}{Well, listen then. Places like this are called "anomalies", because really strange things are going on there. And many would like to know why, but this secret must be hidden somewhere deep underground, so nobody can find out the truth.}
+{117}{}{Strange things? Like what?}
+{118}{}{Do you see the air shimmer over there? You don't go in such spots - the level of radiation and voltage is so high there you'd be fried in no time.}
+{119}{}{Wow!}
+{120}{}{Many venture to enter the station, but all of them fail - they either chicken out and come back, or remain there... forever.}
+{121}{}{Can't you just bypass these dangerous spots?}
+{122}{}{Well, you can. But the thing is, these anomalies are constantly shifting. Today they are here, tomorrow - somewhere else.}
+{123}{}{Hmm. But why would anybody want to infiltrate this station anyway? What's so special about it?}
+{124}{}{As the legend goes, there's a unique item there called an artifact. It's said to cure anything... Even radiation poisoning!}
+{125}{}{Cool! This "artifact" would be of extreme use for me.}
+{126}{}{Exactly. It would be for pretty much anyone. But no one can get it... If it even exists, nobody knows that for sure. So I'm wondering if it's worth it.}
+{127}{}{Thanks for the story! Take care.}
 
-{1111}{}{Да я вообще-то случайно сюда забрела...}
+{1111}{}{Actually I sort of stumbled here by accident...}

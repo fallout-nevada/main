@@ -1,3 +1,3 @@
-{100}{}{¬ы запитали этим генератором истощенный €дерный микрореактор.}
-{101}{}{Ёто бесполезно.}
-{102}{}{¬аши навыки вам этого не позвол€т.}
+{100}{}{You power the depleted microreactor with this generator.}
+{101}{}{It's useless.}
+{102}{}{Your skills are not enough for that.}

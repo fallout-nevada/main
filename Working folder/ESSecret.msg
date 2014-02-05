@@ -1,4 +1,4 @@
-{100}{}{¬ы видите кучу камней, спешно собранных неизвестным путником.}
-{101}{}{¬ы видите неестественную кучу камней.}
-{102}{}{Ёй, да здесь оказалс€ целый тайник!}
-{103}{}{Ќеожиданна€ находка!}
+{100}{}{You see a pile of rocks, hastily piled up by an unknown traveler.}
+{101}{}{You see a suspiciously unnatural rock pile.}
+{102}{}{Whoa, it's a stash!}
+{103}{}{What a serendipity!}
