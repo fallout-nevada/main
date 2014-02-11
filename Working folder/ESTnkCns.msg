@@ -1,9 +1,9 @@
-{100}{}{Вы видите дверную консоль}
-{101}{}{Перед вами консоль для открытия двери.}
-{102}{}{Консоль все еще работает.}
-{103}{}{Консоль не отвечает, видимо, к ней не поступает электричество.}
-{104}{}{Нет электричества}
-{105}{}{Для получения доступа требуется ввести специальный ключ.}
-{106}{}{Доступ уже был получен.}
-{107}{}{Готово}
-{108}{}{Доступ получен.}
+{100}{}{You see a door console.}
+{101}{}{You see a console controlling the door.}
+{102}{}{The console is still operational.}
+{103}{}{The console does not respond, probably the power is out.}
+{104}{}{No power}
+{105}{}{To gain access you'll have to use a passkey.}
+{106}{}{Access is already granted.}
+{107}{}{Done}
+{108}{}{Access granted.}

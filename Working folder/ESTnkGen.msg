@@ -1,8 +1,8 @@
-{100}{}{Вы видите генератор.}
-{101}{}{Этот генератор обесточен. Для запуска его нужно зарядить энергией.}
-{102}{}{Этот генератор работает.}
-{103}{}{Здесь нужен микрореактор.}
-{104}{}{Не тот тип}
-{105}{}{Генератор уже заряжен.}
-{106}{}{Вы зарядили генератор, и теперь он снабжает систему электроэнергией.}
-{107}{}{Готово}
+{100}{}{You see a generator.}
+{101}{}{This generator is out of power. To start it you'll have to recharge it first.}
+{102}{}{This generator is running.}
+{103}{}{You need a microfusion cell.}
+{104}{}{Wrong type of cell}
+{105}{}{Generator is already charged.}
+{106}{}{You recharge the generator, now it supplies power to the system.}
+{107}{}{Done}

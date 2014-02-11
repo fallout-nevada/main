@@ -1,19 +1,19 @@
-{100}{}{Ваша голова нестерпимо болит. Кажется, пока вы были в бессознательном состоянии, в пещере что-то изменилось.}
-{101}{}{Должно быть, чей-то вселенский разум услышал ваши страдания и открыл вам проход, который сами вы открыть были не в состоянии.}
-{102}{}{О!}
-{103}{}{В вашем сознании наконец происходит небольшое просветление.}
-{104}{}{А ведь я был так близко!}
-{105}{}{Ваше сознание вновь погружается в небытие.}
-{106}{}{Вроде бы что-то проясняется...}
-{107}{}{А ведь я была так близко!}
+{100}{}{Your head aches like hell. Looks like something in this cave has changed while you were unconscious.}
+{101}{}{The Universal Mind must have heard your pleas and opened up a passage that you would never be able to open yourself.}
+{102}{}{Oh!}
+{103}{}{Things finally start to clear up for you.}
+{104}{}{Dang! I was so close!}
+{105}{}{Your consciousness slips into blackness again.}
+{106}{}{Something seems to clear up...}
+{107}{}{Dang! I was so close!}
 
-{110}{}{Э, Смотритель?}
-{111}{}{А? Кто это?}
-{112}{}{Смотритель! Это я!}
-{113}{}{... так темно...}
-{114}{}{Что?}
-{115}{}{... Не трать время!}
-{116}{}{Мое тело истлело... я умираю...}
-{117}{}{Это невыносимо! Убей меня!}
-{118}{}{Только смерть...}
-{119}{}{... сме-е-ерть...}
+{110}{}{Ehh, Overseer?}
+{111}{}{Huh? Who is this?}
+{112}{}{Overseer! It's me!}
+{113}{}{... so dark...}
+{114}{}{What?}
+{115}{}{... Do not waste time!}
+{116}{}{My body's decayed... I'm dying...}
+{117}{}{It's unbearable! Kill me!}
+{118}{}{Only in death...}
+{119}{}{... de-e-eath...}

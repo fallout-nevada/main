@@ -1,5 +1,5 @@
-{100}{}{Вы видите люк.}
-{101}{}{Перед вами герметичная бронированная дверь с электронным замком, который управляется с консоли.}
+{100}{}{You see a hatch.}
+{101}{}{You see an airtight armored door with electronic lock controlled by console.}
 {102}{}{}
-{103}{}{Дверь крепко заперта надежным электронным механизмом.}
-{104}{}{Заперто}
+{103}{}{The door is securely locked with reliable electronic mechanism.}
+{104}{}{Locked}
