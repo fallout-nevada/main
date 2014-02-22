@@ -1,15 +1,15 @@
-{100}{}{Вы видите консоль охраны.}
-{101}{}{Перед вами консоль для ввода удаленных команд охранной системе станции.}
-{102}{}{Для активации консоли нужен научный метод.}
+{100}{}{You see a security console.}
+{101}{}{You see a plant's security system remote command input console.}
+{102}{}{You'll have to use scientific approach to activate the console.}
 
-{103}{}{Вы уже отключили систему безопасности.}
-{104}{}{Не сработает}
-{105}{}{Вы взломали и отключили систему безопасности.}
-{106}{}{Ваших научных знаний недостаточно, чтобы взломать эту консоль.}
-{107}{}{Не могу}
-{108}{}{Вот так-то!}
-{109}{}{В этот раз вам не удалось взломать охранную систему.}
-{110}{}{Неудача}
+{103}{}{You have already disabled security system.}
+{104}{}{No go}
+{105}{}{You have hacked and disabled security system.}
+{106}{}{Your scientific knowledge is insufficient to hack this console.}
+{107}{}{Can't do}
+{108}{}{That's better!}
+{109}{}{You failed to hack security system this time.}
+{110}{}{Failure}
 {111}{}{}
-{112}{}{Охранная система не отвечает.}
-{113}{}{Нет сигнала}
+{112}{}{Security system does not respond.}
+{113}{}{No signal}
