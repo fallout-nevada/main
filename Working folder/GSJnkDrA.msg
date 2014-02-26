@@ -1,7 +1,7 @@
-{100}{}{«аклинивша€ дверь.}
-{101}{}{ƒверь сдавлена настолько, что открыть ее невозможно.}
-{102}{}{Ёта металлическа€ дверь слишком крепка€, выбить ее нельз€.}
-{103}{}{Ќавыки здесь не помогут - дверь заклинило намертво.}
-{104}{}{Ёто здесь бесполезно - дверь заклинило намертво.}
-{105}{}{ƒверь сдавлена настолько, что открыть ее невозможно.}
-{106}{}{ќткрыть нельз€}
+{100}{}{Jammed door.}
+{101}{}{The door is so tightly jammed that you can't even move it.}
+{102}{}{This metal door is too strong to just kick it open.}
+{103}{}{Your skills won't help you, the door is dead jammed.}
+{104}{}{No use, the door is dead jammed.}
+{105}{}{The door is so tightly jammed that you can't even move it.}
+{106}{}{Can't be opened}

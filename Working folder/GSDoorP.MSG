@@ -1,17 +1,17 @@
-{100}{}{Кодовая дверь.}
-{101}{}{Перед вами мощная кодовая дверь, ведущая на станцию. Заперта намертво.}
-{102}{}{Дверь заперта.}
+{100}{}{Code door.}
+{101}{}{You see a reinforced code door leading to the power plant. Predictably locked.}
+{102}{}{The door is locked.}
 
 #Уничтожение двери:
-{105}{}{Взрыв сорвал петли, и осколки двери полетели в стороны. Вы получаете 100 опыта.}
-{106}{}{Здесь нужно что-то мощное.}
+{105}{}{The blast blews the door off the hinges, sending its debris into the air. You earn 100 exp. points.}
+{106}{}{You'll need something powerful.}
 
 #Применение навыков и предметов
-{110}{}{Против лома нет приема. Замок слетает с двери, и вы получаете 1000 опыта, повышая навык владения холодным оружием.}
-{111}{}{Вы демонтировали кодовый замок и открыли дверь. Вы получаете 1000 опыта и повышаете навык ремонта.}
-{112}{}{Вы взламываете кодовый замок, получая 1000 опыта и повышая навык взлома.}
-{113}{}{Вы обхитрили кодовый замок, получая 1000 опыта и повышая навык науки.}
-{114}{}{Это ничего не даст.}
-{115}{}{И на что вы рассчитывали? Этот случай посерьезней!}
-{116}{}{Верное направление мысли, однако с вашими навыками здесь делать нечего.}
-{117}{}{Эта дверь слишком мощная для вас.}
+{110}{}{Might makes right! The lock falls off. You earn 1000 exp. points and improve your melee weapons skill.}
+{111}{}{You've dismantled the lock and opened the door. You earn 1000 exp. points and improve your repair skill.}
+{112}{}{You've forced the lock. You earn 1000 exp. points and improve your lockpicking skill.}
+{113}{}{You've tricked the code lock with a security exploit. You earn 1000 exp. points and improve your science skill.}
+{114}{}{This does nothing.}
+{115}{}{What did you expect? This case is way more serious!}
+{116}{}{Good thinking, but your skills leave much to be desired.}
+{117}{}{This door is too strong for you.}

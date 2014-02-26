@@ -1,8 +1,8 @@
-{100}{}{Вы видите подъемный кран.}
-{101}{}{Перед вами проржавевший подъемный кран. На многое рассчитывать не приходится.}
-{102}{}{Упс... Цепь крана настолько проржавела, что оборвалась при первой же нагрузке.}
-{103}{}{Этот кран еще мог бы послужить, но у него нет цепи.}
-{104}{}{Вы заменили цепь веревкой. Для небольших грузов этого хватит.}
-{105}{}{Вы уже заменили цепь.}
-{106}{}{В этом больше нет смысла.}
-{107}{}{С помощью крана вы возвели пирамиду из мусора возле стены гаража.}
+{100}{}{You see a crane.}
+{101}{}{You see a rusted out crane. Don't expect much.}
+{102}{}{Ouch... The chain was so rusted through that it broke under the load.}
+{103}{}{This crane could probably serve some more, but it has no chain.}
+{104}{}{You replaced the chain with a rope. Should be enough for light loads.}
+{105}{}{You've already replaced the chain.}
+{106}{}{You don't need it anymore. Leave it rust in peace.}
+{107}{}{Using he crane you've erected a garbage pyramid by the garage wall.}
