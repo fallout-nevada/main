@@ -1,16 +1,16 @@
-{100}{}{Самогонный аппарат.}
+{100}{}{Moonshine still.}
 
-{101}{}{Вы видите самогонный аппарат. Он уже нацедил целую канистру самогона!}
-{102}{}{Вы видите самогонный аппарат. Варево в нем еще не готово к употреблению.}
-{103}{}{Вы видите самогонный аппарат. Заброшенный и бесполезный.}
+{101}{}{You see a still. It has already distilled a whole can of moonshine!}
+{102}{}{You see a still. The brew in it isn't ready yet.}
+{103}{}{You see a still. Abandoned and useless.}
 
-{104}{}{Аппарат пуст.}
-{105}{}{Пусто}
-{106}{}{Вам это не предназначено! Не испытывайте терпение Джексона, пока он рядом.}
-{107}{}{Эй, не подходи - завалю нахрен!}
-{108}{}{Есть!}
-{109}{}{Вы безвозмездно приобрели пару бутылок самогона.}
-{110}{}{Вы нагло своровали пару бутылок самогона.}
+{104}{}{The still is empty.}
+{105}{}{Empty}
+{106}{}{That's not for you! Don't try Jackson's patience while he's near you.}
+{107}{}{Hey, don't come close, I'll blow you out of the water!}
+{108}{}{Done!}
+{109}{}{You've expropriated a couple of bottles of booze.}
+{110}{}{You've boldly stolen a couple of bottles of booze.}
 
-{111}{}{Самогон еще не накапал. Подождите несколько часов.}
-{112}{}{Э, я не понял - какая шваль мой самогон херачит? Увижу, бля, руки переломаю!}
+{111}{}{The moonshine hasn't been distilled yet. Wait a couple of hours.}
+{112}{}{Hey, what the shit, who's been chugging my booze? If I ever catch you, I'll rip your fucking arms off!}

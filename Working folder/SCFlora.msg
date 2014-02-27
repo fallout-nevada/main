@@ -1,19 +1,19 @@
 {100}{}{}
 
-{110}{}{Отличный получится салат...}
-{111}{}{Их надо уничтожить, пока они не начали говорить!}
-{112}{}{Так, главное не забыть - выпалывать только тех, кто с зубами...}
-{113}{}{Одним нахлебником в мире меньше}
-{114}{}{Кто-то скрестил одуванчик и толсторога?}
-{115}{}{Полоть растения? Спасибо, что не крыс.}
-{116}{}{Убил растение - спас муху!}
-{117}{}{Ну как вам это?}
-{118}{}{Это была мутировавшая конопля?}
+{110}{}{They make for a nice salad...}
+{111}{}{Better exterminate them before they start talking!}
+{112}{}{Note to self - weed only those with teeth...}
+{113}{}{One less mouth}
+{114}{}{Who crossed a dandelion with a rhino?}
+{115}{}{Root out weeds? Well, at least that's better than killing rats with a shovel.}
+{116}{}{Kill a plant - save a fly!}
+{117}{}{How do you like that?}
+{118}{}{Was that mutated hemp?}
 
-{119}{}{Хи-хи! Жалкие растения!}
-{120}{}{Черт возьми, это было нудно, но я это сделал!}
-{121}{}{Черт возьми, это было нудно, но я это сделала!}
-{122}{}{Последнее вредоносное растение на этой плантации уничтожено.}
+{119}{}{He-he! Petty flora!}
+{120}{}{Boy, was that boring, but I did it!}
+{121}{}{Boy, was that boring, but I did it!}
+{122}{}{The last weed on this plantation is exterminated.}
 
-{150}{}{Погиб }
-{151}{}{`й сорняк из 10.}
+{150}{}{You killed }
+{151}{}{ of 10 plants.}
