@@ -1,17 +1,17 @@
-{100}{}{Вы видите дверь.}
-{101}{}{Вы видите электронную дверь с жесткой системой контроля.}
+{100}{}{You see a door.}
+{101}{}{You see a door controlled by access control system with strict authorization policy.}
 
-{110}{}{Доступ разрешен}
-{111}{}{Нет допуска}
-{112}{}{Система безопасности блокирует дверь. Ищите средство для получения допуска.}
-{113}{}{Вы уже имеете допуск к этой двери.}
-{114}{}{Это бесполезно}
-{115}{}{Голыми руками вы не сможете взломать сложный защитный механизм двери. Используйте взломщик или ищите другое средство для получения допуска.}
-{116}{}{Нужен взломщик или допуск}
-{117}{}{Эта дверь заперта на сложный электронный замок с многофазовой защитой. Открывается ключ-картой или из центра управления.}
-{118}{}{Вы успешно взломали этот сложный электронный замок.}
+{110}{}{Access granted}
+{111}{}{Access denied}
+{112}{}{Security system blocks the door. Find a way to gain access.}
+{113}{}{You already have access to this door.}
+{114}{}{No use}
+{115}{}{You can't pick this complex protection mechanism with your bare hands. Use a lockpick or find other ways to gain access.}
+{116}{}{Lockpick or authorization required}
+{117}{}{This door is locked with a multilayer protection system. It can be opened with a keycard or from the control center.}
+{118}{}{You successfully pick this complicated electronic lock.}
 {119}{}{}
-{120}{}{Готово}
-{121}{}{Вам не удалось взломать столь сложный механизм защиты двери.}
-{122}{}{Неудача}
-{123}{}{Вы получили допуск с помощью ключ-карты.}
+{120}{}{Done}
+{121}{}{You fail to pick this complex protection mechanism.}
+{122}{}{Fail}
+{123}{}{The keycard grants you access.}

@@ -1,13 +1,13 @@
-{100}{}{Вы видите боксерскую грушу.}
-{101}{}{Перед вами боксерская груша. Она так и подзывает опробовать ее в деле. "Не упусти возможность!" - как бы говорит она.}
-{102}{}{На этой груше можно поразмять кулаки и отработать новые приемы борьбы.}
-{103}{}{Хм, а почему бы и нет?}
-{104}{}{Груша сильно обветшала после ваших тренировок и теперь бесполезна.}
-{105}{}{Эта груша бесполезна}
-{106}{}{Груша могла бы оказаться полезной для совершенствования ваших навыков, но они и без того слишком высоки.}
-{107}{}{Тренировка? Мне это уже не нужно...}
-{108}{}{Вы проводите час за тренировками и повышаете навык боя без оружия на 1.}
-{109}{}{Неплохо}
+{100}{}{You see a punching bag.}
+{101}{}{You see a boxing punchbag. It's calling to you to try it out, as if saying "Don't miss the chance".}
+{102}{}{You can try out your moves on this punchbag.}
+{103}{}{Hmm, why the hell not?}
+{104}{}{After your training the punchbag is too worn out and useless.}
+{105}{}{This punchbag is useless}
+{106}{}{This punchbag could help you improve your skills if they weren't so damn high already.}
+{107}{}{Training? Who needs this...}
+{108}{}{You spend an hour training with the punching bag and improve your unarmed skill by 1.}
+{109}{}{Not half bad}
 
-{110}{}{Вам не следует заниматься тренировкой, пока рядом находятся враги.}
-{111}{}{Нельзя рисковать - кругом пришельцы}
+{110}{}{You shouldn't be training while there are enemies nearby.}
+{111}{}{Can't risk it, aliens all around}

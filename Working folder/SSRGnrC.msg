@@ -1,17 +1,17 @@
-{100}{}{Вы видите генератор.}
-{101}{}{Перед вами стандартный генератор. Судя по маркировке, он отвечает за работу антенн.}
+{100}{}{You see a generator.}
+{101}{}{You see an ordinary generator. Judging from the markings, it's responsible for antennae power supply.}
 
-{102}{}{Генератор сильно проржавел и неисправен. Для ремонта требуются новые детали.}
-{103}{}{Нужны детали}
-{104}{}{ опыта.}
-{105}{}{Генератор в рабочем состоянии и питает электричеством станцию.}
-{106}{}{Бесполезно}
-{107}{}{Генератор работает и в ремонте не нуждается.}
-{108}{}{Вы починили генератор, и тот начинает сильно гудеть. Вы получаете }
-{109}{}{Готово}
-{110}{}{Это здесь не поможет. Генератору требуется ремонт и замена деталей.}
-{111}{}{Вам не удалось починить генератор.}
-{112}{}{Неудача}
-{113}{}{Голыми руками здесь ничего не сделаешь. Нужно заменить детали.}
-{114}{}{Необходим ремонт и новые детали}
-{115}{}{Генератор работает}
+{102}{}{The generator is heavily rusted and inoperational. Repair would require new parts.}
+{103}{}{Parts needed}
+{104}{}{ exp. points.}
+{105}{}{The generator is operational and supplies power to the station.}
+{106}{}{No use}
+{107}{}{The generator is running and does not require repair.}
+{108}{}{You repair the generator. As you start it, it begins making a humming noise. You gain }
+{109}{}{Done}
+{110}{}{This won't be any good here. The generator needs repair and new parts.}
+{111}{}{You failed to repair the generator.}
+{112}{}{Fail}
+{113}{}{You can't make use of what you got. New parts are required.}
+{114}{}{Repair and new parts required}
+{115}{}{Generator is running}

@@ -1,24 +1,24 @@
-{100}{}{Генератор силового поля.}
-{101}{}{Вы видите генератор силового поля.}
+{100}{}{Forcefield generator.}
+{101}{}{You see a forcefield generator.}
 
-{110}{}{Силовое поле наносит сильный урон.}
+{110}{}{The forcefield inflicts heavy damage.}
 
 #Просто поюзать (рука, предметы,скиллы):
-{111}{}{Нет прав доступа}
-{112}{}{Силовое поле не подключится, пока вы не получите доступ высшего уровня.}
-{113}{}{Это ничего не даст.}
-{114}{}{Бесполезно}
-{115}{}{Здесь требуется другой подход.}
+{111}{}{Access denied}
+{112}{}{The forcefield will not turn on unless you have highest level access.}
+{113}{}{This does nothing.}
+{114}{}{No use}
+{115}{}{A different approach is needed.}
 
 #Включение и выключение поля:
-{116}{}{Вы отключаете силовое поле.}
-{117}{}{Вы включаете силовое поле.}
-{118}{}{Готово}
+{116}{}{You switch off the forcefield.}
+{117}{}{You switch on the forcefield.}
+{118}{}{Done}
 
 #Взлом системы защиты:
-{120}{}{Вам не удалось обойти систему защиты.}
-{121}{}{Неудача}
+{120}{}{You fail to bypass protection.}
+{121}{}{Fail}
 
-{122}{}{Вам удалось обмануть этот сложный электронный механизм, и силовое поле восстанавливается.}
-{123}{}{Вам удалось обмануть этот сложный электронный механизм, и силовое поле исчезает.}
-{124}{}{Готово!}
+{122}{}{You successfully hack this complicated electronic mechanism and the forcefield restores.}
+{123}{}{You successfully hack this complicated electronic mechanism and the forcefield disappears.}
+{124}{}{Done!}

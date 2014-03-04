@@ -1,22 +1,22 @@
-{100}{}{Вы видите дверь.}
-{101}{}{Вы видите электронную дверь с системой контроля, требующей карту доступа.}
-{102}{}{Эта дверь слишком крепкая.}
+{100}{}{You see a door.}
+{101}{}{You see a door equipped with keycard access system.}
+{102}{}{This door is too strong.}
 
-{110}{}{Нет энергии}
-{111}{}{Эта дверь не может быть открыта снаружи без энергоснабжения.}
-{112}{}{Нужна карта доступа}
-{113}{}{Электронный замок двери требует ключ-карту.}
-{114}{}{Эта дверь уже взломана.}
-{115}{}{Бесполезно}
+{110}{}{No power}
+{111}{}{This door can't be opened from the outside while there's a power outage.}
+{112}{}{Keycard required}
+{113}{}{The electronic lock requires a keycard to be opened.}
+{114}{}{This door is already open.}
+{115}{}{No use}
 
-{116}{}{Без энергии это не поможет.}
-{117}{}{Это здесь не поможет.}
-{118}{}{Открыто}
-{119}{}{Программа приняла карту доступа. Дверь открыта.}
-{120}{}{Готово}
-{121}{}{Вы успешно обманули электронный механизм замка. Дверь открыта.}
+{116}{}{This won't do any good while there's no power.}
+{117}{}{This won't be any good here.}
+{118}{}{It's open}
+{119}{}{Keycard accepted. The door is open.}
+{120}{}{Done}
+{121}{}{You succeeded in tricking the electronic lock. The door is open.}
 {122}{}{}
-{123}{}{Увы, вам не удалось взломать электронный замок.}
-{124}{}{Неудача}
-{125}{}{Нет энергии}
-{126}{}{Тип отмычек не соответствует типу замка.}
+{123}{}{You fail to pick the electronic lock.}
+{124}{}{Fail}
+{125}{}{No power}
+{126}{}{Lockpick type is different from lock type.}

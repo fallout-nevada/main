@@ -2,7 +2,7 @@
 {101}{}{You see an ordinary private... though his mug looks more like that of a common criminal.}
 
 #Когда видит и бежит к чузу
-{102}{}{There he is! Halt! I said stop right there!!!}
+{102}{}{There he is! Freeze! I said stop right there!!!}
 
 #Пытаются запрятать за решетку
 {110}{}{Hey you! Put your hands in the air! You're under arrest! }
@@ -11,9 +11,9 @@
 
 {113}{}{We'll see about that...}
 {114}{}{(you are taken to the local prison cell, stripped of all belongings)}
-{115}{}{It appears you weren't arrested, but barbarously robbed!}
+{115}{}{It appears you weren't just arrested, but also barbarously robbed!}
 
 #Женские реплики (Kerb)
-{1102}{}{There she is! Halt! I said stop right there!!!}
+{1102}{}{There she is! Freeze! I said stop right there!!!}
 {1110}{}{Hey you! Put your hands in the air! You're under arrest! }
 {1111}{}{Hey, easy, man! I haven't done anything!}
