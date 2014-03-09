@@ -1,22 +1,22 @@
-{100}{}{Вы видите автомат с ядер-колой. Любопытно, работает ли он.}
+{100}{}{You see a Nuka-Cola vending machine. You wonder if it still works.}
 
-{101}{}{[тук тук чача... шии]}
-{102}{}{Вы получили не особо свежую бутылку ядер-колы.}
-{103}{}{Фуууууууу!}
-{104}{}{Вы обманываете автомат с ядер-колой.}
-{105}{}{ искусно обманывает автомат с ядер-колой.}
-{106}{}{Похоже, в автомате кончился товар.}
+{101}{}{[clickety clickety shoosh... ching]}
+{102}{}{You got a not-that-fresh bottle of Nuka-Cola.}
+{103}{}{Yuck!}
+{104}{}{You trick the vending machine.}
+{105}{}{ skillfully tricks the vending machine.}
+{106}{}{Looks like the machine is out of stock.}
 
-{107}{}{Хе-хе! Вор знает свое дело!}
-{108}{}{Ваша монетка безвозвратно провалилась в автомат!}
-{109}{}{Вы получили новое достижение и повышение навыка воровства на 5.}
+{107}{}{He-he! Thieves will be thieves!}
+{108}{}{Your coin is forever lost in the depths of this vending machine!}
+{109}{}{You receive a new achievement and your stealing skill is increased by 5.}
 
-{110}{}{В этом автомате еще осталось несколько бутылок напитка.}
-{111}{}{В этом автомате кончился товар.}
-{112}{}{Эй! Куда!? А ну вернись!}
+{110}{}{This vending machine still has several bottles of soda.}
+{111}{}{This machine is out of stock.}
+{112}{}{Hey! Come back here!}
 
-{113}{}{Вы видите автомат с ядер-колой. Цена за бутылку: }
-{114}{}{$.}
-{115}{}{Этот автомат требует подтверждение личности.}
-{116}{}{Это ничего не даст.}
-{117}{}{Ваших денежных средств недостаточно для совершения покупки.}
+{113}{}{You see a Nuka-Cola vending machine. Price: $}
+{114}{}{.}
+{115}{}{This machine requires identity verification.}
+{116}{}{This does nothing.}
+{117}{}{Insufficient funds.}

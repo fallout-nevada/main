@@ -1,21 +1,21 @@
-{100}{}{Вы видите сундук.}
-{101}{}{Перед вами прочный деревянный сундук, запертый на стальной замок.}
-{102}{}{Перед вами прочный деревянный сундук.}
-{103}{}{Сундук заперт на стальной замок.}
-{104}{}{Не сметь трогать чужое!}
-{105}{}{Вас заметили.}
-{106}{}{Этот замок уже вскрыт.}
-{107}{}{Этот навык здесь бесполезен.}
-{108}{}{Этим предметом здесь ничего не сделать.}
-{109}{}{Бесполезно}
-{110}{}{Закрыто}
-{111}{}{Вашего умения во взломе замков не достаточно.}
-{112}{}{Не могу}
-{113}{}{На это раз у вас не получилось взломать замок.}
-{114}{}{Неудача}
-{115}{}{Вы взломали замок. Едва ли хозяину сундука это понравится.}
-{116}{}{Тип отмычек не соответствует типу замка.}
-{117}{}{Готово}
-{118}{}{Вы выломали замок на чужом сундуке, используя грубую силу. Едва ли хозяину это понравится.}
-{119}{}{Вашей силы недостаточно, чтобы выломать этот замок.}
-{120}{}{Урх-х}
+{100}{}{You see a chest.}
+{101}{}{You see a durable-looking wooden chest locked with a padlock.}
+{102}{}{You see a durable-looking wooden chest.}
+{103}{}{The chest is locked with a padlock.}
+{104}{}{Don't touch what isn't yours!}
+{105}{}{You've been spotted.}
+{106}{}{The lock has already been picked.}
+{107}{}{This skill is useless here.}
+{108}{}{This item won't do any good here.}
+{109}{}{No use}
+{110}{}{Locked}
+{111}{}{Your lockpicking skill is insufficient to pick this lock.}
+{112}{}{Can't do}
+{113}{}{You fail to pick the lock.}
+{114}{}{Fail}
+{115}{}{You picked the lock. The owner of this chest will hardly appreciate it.}
+{116}{}{Lockpick type is different from lock type.}
+{117}{}{Done}
+{118}{}{You break the lock open using your physical strength. The owner of this chest will hardly appreciate it.}
+{119}{}{You don't have the necessary strength to break open this lock.}
+{120}{}{Ughh}

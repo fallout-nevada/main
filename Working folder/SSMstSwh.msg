@@ -1,19 +1,19 @@
-{100}{}{Ёто рычаг.}
-{101}{}{¬ы видите рычаг управлени€ мостом.}
-{102}{}{Ѕлагодар€ вам этот старый мост прослужит племени еще много лет.}
+{100}{}{It's a lever.}
+{101}{}{You see the bridge control lever.}
+{102}{}{Thanks to you this old bridge will serve the tribe for many a year.}
 
 #»спользование рукой
-{110}{}{’м... Ётот рычаг ни с чем не св€зан.}
-{111}{}{„то-то подсказывает вам, что рычаг когда-то использовалс€ не дл€ антуража.}
-{112}{}{’м...}
-{113}{}{„то-то подсказывает вам, что моста-то и нет.}
-{114}{}{Ёто вам больше не понадобитс€.}
+{110}{}{Hmm... This lever doesn't appear to be connected to anything.}
+{111}{}{Thomething tells you this lever wasn't always used for decoration.}
+{112}{}{Hmm...}
+{113}{}{Something tells you the bridge is gone.}
+{114}{}{You don't need that any longer.}
 
 #»спользование предметов и навыков
-{120}{}{ќ нет, это здесь не поможет.}
-{121}{}{«десь уже есть веревка.}
-{122}{}{¬ерное решение. Ќо с вашими научными познани€ми не сработает.}
-{123}{}{¬ерное решение. Ќо с вашими ремонтными навыками это не заработает.}
-{124}{}{¬ы св€зываете веревкой верхний вал и рычаг в единый блок. ¬от только поднимать им нечего...}
-{125}{}{Ётот рычаг работает, но он ни с чем не соединен.}
-{126}{}{Ётот рычаг соединен с верхним валом посредством веревки.}
+{120}{}{No, this won't help here.}
+{121}{}{There already is a rope.}
+{122}{}{Good thinking. But with your science skills it will never work.}
+{123}{}{Good thinking. But with your repair skills it will never work.}
+{124}{}{You use the rope to tie the upper shaft and the lever together to make a hoist. Only there's nothing to hoist with it...}
+{125}{}{The lever is working, but it's not connected to anything.}
+{126}{}{The lever is connected to the upper shaft by a rope.}
