@@ -1,14 +1,14 @@
-{100}{}{От руин этого старого поселения тянет забвением. Время будто остановилось здесь с момента, когда стихла Великая Война.}
-{101}{}{Вы вошли в окраинный район Хоторна. Здесь довольно тихо.}
-{102}{}{Вы вышли на испытательный полигон. Здесь нужно передвигаться очень осторожно.}
-{103}{}{Вы нашли целый склад топлива для поездов. Это следует запомнить. Вдруг пригодится?}
-{104}{}{Наверное, в тех баках есть топливо. Хотя, зачем оно мне...}
-{105}{}{Эти рейдеры очень недоверчивы к вам. Не оставляйте их надолго одних.}
-{106}{}{Эй, нам нужно пройти к складам мимо того офиса.}
-{107}{}{Эй, кажется, тот генератор до сих пор работает...}
-{108}{}{Ваши напарники достигли точки назначения, вы можете отправляться дальше, на территорию складов.}
-{109}{}{Вам не хватает жалких полметра, чтобы дотянуться до лестницы. Найдите способ приподнять себя.}
-{110}{}{Слишком высоко}
-{111}{}{Впереди видны трупы грызунов.}
-{112}{}{Опасно!}
-{113}{}{Эй, кажется, в этих развалинах появились новые жители!}
+{100}{}{The ruins of this old settlement give off the air of oblivion. It's like the time had stopped for this place since the last blast of the Great War died down.}
+{101}{}{You enter Hawthorne outskirts. It's pretty quiet here.}
+{102}{}{You've walked into the Test Site. Better watch your step here.}
+{103}{}{You found a whole depot of train fuel. You should note this. Who knows when it might come in handy?}
+{104}{}{Bet there's still some fuel left in those tanks. Then again, not like I need it or anything...}
+{105}{}{These raiders don't seem to trust you much. Don't leave them for too long.}
+{106}{}{Hey, we need to get to the storage area past that office building.}
+{107}{}{Hey, looks like that generator is still working...}
+{108}{}{Your buddies reached the destination point, you can go ahead to the storage area.}
+{109}{}{You're a couple feet short of the ladder. Find a way to elevate yourself.}
+{110}{}{Too high}
+{111}{}{You see rodent carcasses ahead.}
+{112}{}{Watch out!}
+{113}{}{Hey, seems like there are some new lodgers in these ruins!}

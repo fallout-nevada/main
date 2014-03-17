@@ -1,13 +1,13 @@
-{100}{}{¬ы уже изучили эту монографию. “еперь ваша школа - жизнь.}
+{100}{}{You've already studied this work. Now let life be your school.}
 
-{101}{}{јвтор был, наверное, сумасшедшим.}
-{102}{}{„итать высоконаучную литературу? “олько не с вашим интеллектом!}
-{103}{}{Ёта монографи€ дл€ сложившихс€ медиков, вы же ничего в ней не сможете пон€ть.}
-{104}{}{Ёта монографи€ изобилует сугубо научными терминами, с вашими познани€ми пон€ть ее будет невозможно.}
-{105}{}{¬аших научных знаний €вно недостаточно, чтобы изучить эту монографию.}
+{101}{}{The author must have been mad.}
+{102}{}{Scientific literature? Not for you!}
+{103}{}{This monograph is aimed at qualified medics, you're not able to understand anything in it.}
+{104}{}{This monograph abounds in abstract scientific terms, with your level of knowledge trying to to understand anything would be a bit overoptimistic.}
+{105}{}{You lack the scientific knowledge necessary to make sense of this monograph.}
 
-{106}{}{¬ау! Ёто была серьезна€ мозгова€ атака!}
-{107}{}{¬ы узнаете много нового о медицинской практике, но никаких профессиональных секретов монографи€ не раскрыла.}
-{108}{}{¬ы не узнали ничего нового.}
-{109}{}{Ќеожиданно дл€ себ€ вы познаете секреты практической анатомии человека и животных. Ёто поможет вам как в лечении, так и в бою.}
-{110}{}{Ќеожиданно дл€ себ€ вы познаете секреты практической анатомии человека и животных.}
+{106}{}{Wow, that was quite a bout of brain work!}
+{107}{}{You learn a lot about medical practice, but this monograph certainly didn't let you in on any professional secrets.}
+{108}{}{You learn nothing new.}
+{109}{}{To your own surprise you discover some secrets of human and animal anatomy. This would help you both in therapy and in combat.}
+{110}{}{To your own surprise you discover some secrets of human and animal anatomy.}

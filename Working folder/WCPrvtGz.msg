@@ -1,19 +1,19 @@
 #Описание для патрульных Ветра Войны на карте заправки
-{100}{}{Вы видите патрульного.}
-{101}{}{Перед вами патрульный.}
+{100}{}{You see a patrolman.}
+{101}{}{Before you stands a patrolman.}
 
 #Плавающие фразки ГГ когда тот осматривает первых двух убитых
-{110}{}{А вот и первый неудачник.}
-{111}{}{Вот и второй неудачник.}
-{112}{}{Ого! Над этим долго потешались...}
-{113}{}{Вы нашли первого караванщика из "Скоростного Ястреба". Он погиб.}
-{114}{}{Вы нашли второго караванщика из "Скоростного Ястреба". Увы, погиб и он.}
-{115}{}{Черт, этого караванщика из "Скоростного Ястреба" избивали особенного жестоко.}
+{110}{}{And here's the first unfortunate bastard.}
+{111}{}{There's the other one.}
+{112}{}{Damn! This one had been worked over for a long time before he died...}
+{113}{}{You found the first "Hawk Express" caravanner. He died.}
+{114}{}{You found the first "Hawk Express" caravanner. Sadly he's dead too.}
+{115}{}{Damn, this "Hawk Express" caravanner was beaten with exceptional brutality.}
 
 #Плавающие фразки ГГ, когда тот осматривает третье тело
-{116}{}{Этого подстрелили. Видимо, он пытался убежать.}
-{117}{}{Этому проломили череп. Видимо, рейдеры были чертовски здоровые ребята.}
-{118}{}{Ребята были на взводе. Этого они избивали, наверное, часа два...}
-{119}{}{Минуточку! А это что?}
-{120}{}{Похоже на медальон. Возможно, выпал у одного из рейдеров...}
-{121}{}{Вы нашли какую-то странную улику.}
+{116}{}{This one was shot. Looks like he attempted to run away.}
+{117}{}{His skull is fractured. These raiders must have been quite the tough guys.}
+{118}{}{The guys were definitely on edge. This one must have been beaten for not less than two hours...}
+{119}{}{Wait a moment! What is this?}
+{120}{}{Looks like a locket. Maybe it fell off one of the raiders...}
+{121}{}{You found some strange piece of evidence.}

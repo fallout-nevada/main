@@ -1,22 +1,22 @@
-{100}{}{Вы не можете этим заниматься во время боя.}
-{101}{}{Люк намертво припал к стене. Открыть его обычным способом невозможно.}
-{102}{}{И что с этим делать?}
+{100}{}{You can't do that in combat.}
+{101}{}{The hatch is inseparable from the fuselage now. You can't open it the regular way.}
+{102}{}{So what now?}
 
-{110}{}{Люк самолета смят от удара, поэтому открыть его обычным способом невозможно.}
-{111}{}{Попытаться подорвать.}
-{112}{}{Оставить.}
+{110}{}{The hatch has been deformed from impact, you can't open it the regular way.}
+{111}{}{Try to blow it up.}
+{112}{}{Leave.}
 
-{113}{}{При неумелом обращении со взрывчаткой вы можете уничтожить не только люк, но и все содержимое кабины.}
-{114}{}{Заминировать и взорвать.}
-{115}{}{Оставить.}
+{113}{}{If you're not skillful enough with explosives you may accidentally destroy the contents of the cockpit as well.}
+{114}{}{Place explosives and blow it up.}
+{115}{}{Leave.}
 
-{116}{}{Выберите взрывчатку.}
-{117}{}{Динамит.}
-{118}{}{Пластид.}
-{119}{}{Динамитная шашка.}
-{120}{}{Ничего. Оставить.}
-{121}{}{Взрыв через 10 секунд.}
-{122}{}{Скоро взорвется!}
-{123}{}{Люк настолько разворотило от вашей взрывчатки, что теперь проникнуть внутрь невозможно.}
-{124}{}{Благодаря вашим умениям взрыв уничтожил люк, не повредив содержимого кабины.}
-{125}{}{Из-за вашей неумелости взрыв вместе с люком уничтожил все содержимое кабины.}
+{116}{}{Choose explosives.}
+{117}{}{Dynamite.}
+{118}{}{Plastic explosives.}
+{119}{}{Dynamite stick.}
+{120}{}{Nothing. Leave it.}
+{121}{}{Explosion in 10 seconds.}
+{122}{}{It's gonna blow!}
+{123}{}{The hatch is so bent from the explosion that getting inside is now impossible.}
+{124}{}{Thanks to your skill with explosives the blast neatly destroys the hatch leaving the cockpit intact.}
+{125}{}{Due to your lack of skill the explosion obliterated the inside of the cockpit together with the hatch.}

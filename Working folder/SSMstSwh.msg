@@ -14,6 +14,6 @@
 {121}{}{There already is a rope.}
 {122}{}{Good thinking. But with your science skills it will never work.}
 {123}{}{Good thinking. But with your repair skills it will never work.}
-{124}{}{You use the rope to tie the upper shaft and the lever together to make a hoist. Only there's nothing to hoist with it...}
+{124}{}{You use the rope to connect the upper shaft to the lever to make a hoist. Only there's nothing to hoist with it...}
 {125}{}{The lever is working, but it's not connected to anything.}
 {126}{}{The lever is connected to the upper shaft by a rope.}

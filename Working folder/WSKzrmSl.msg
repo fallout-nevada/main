@@ -1,20 +1,20 @@
-{100}{}{Это распределитель питания.}
-{101}{}{Перед вами распределитель, через который электричество поступает в казарму.}
-{102}{}{Перед вами неработающий распределитель питания.}
+{100}{}{You see power distribution unit.}
+{101}{}{You see a distributor by means of which the barracks is supplied with electricity.}
+{102}{}{You see an idle power distributor.}
 
-{103}{}{Этот распределитель гудит и поставляет электричество в казарму.}
-{104}{}{Этот распределитель уже отключен.}
-{105}{}{Вы отключаете щиток, и электричество больше не поступает в казарму.}
-{106}{}{Ваших технических знаний не хватает, чтобы понять, как выключить этот щиток.}
-{107}{}{Научный метод хорош для компьютеров, но не для распределителей.}
-{108}{}{Это здесь не поможет, нужен технический подход.}
-{109}{}{Это не поможет.}
+{103}{}{This distributor is buzzing, supplying the barracks with power.}
+{104}{}{This distributor is already switched off.}
+{105}{}{You flip the switch, and the barracks is no longer supplied with electricity.}
+{106}{}{You lack technical knowledge necessary to switch off the distributor.}
+{107}{}{Scientific approach should better be used on computers rather then distributors.}
+{108}{}{This won't help, you need to get technical.}
+{109}{}{This won't help.}
 
-{110}{}{Эй, кто выключил свет!?}
-{111}{}{Черт, опять предохранители полетели...}
-{112}{}{Без света мне становится страшно... шучу}
+{110}{}{Hey, who turned off the light!?}
+{111}{}{Damn fuses blew again...}
+{112}{}{I'm afraid of the dark... just kidding}
 
-{113}{}{Сейчас неподходящее время для диверсии.}
-{114}{}{*Ошибка в выполнении сценария*}
-{115}{}{Быстрее, Джесси!}
-{116}{}{Это ключ от тайника в разрушенном доме, тебе пригодится. Прощай!}
+{113}{}{The time is inappropriate for sabotage.}
+{114}{}{*Script error*}
+{115}{}{Move it, Jesse!}
+{116}{}{This is the key from a cache in the ruined house, you may have some use for it. Bye!}
