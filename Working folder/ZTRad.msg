@@ -1,1 +1,1 @@
-{100}{}{—четчик √ейгера в вашем Pip-Boy сигнализирует об облучении: }
+{100}{}{Geiger counter in your Pip-Boy warns you of dangerous radiation level: }

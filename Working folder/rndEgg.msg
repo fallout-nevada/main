@@ -1,1 +1,1 @@
-{100}{}{Возможно, эти муравьи совершили величайшую археологическую находку ХХII века, однако этого никто не оценит.}
+{100}{}{These ants could very well have made the greatest archaeological discovery of the XXII century. There's no one to appreciate it however.}

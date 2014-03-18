@@ -1,3 +1,3 @@
-{100}{}{Вы видите часть забора.}
-{101}{}{По этой опоре можно перелезть через забор при наличии веревки.}
-{102}{}{Эта стена уже занята.}
+{100}{}{You see a part of the fence.}
+{101}{}{Given you got a rope, you can easily climb over the fence from this support.}
+{102}{}{This wall is already taken.}

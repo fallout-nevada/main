@@ -1,1 +1,1 @@
-{100}{}{Район внешне выглядит опустошенным. Здесь надо быть поосмотрительнее.}
+{100}{}{The district appears devastated. Better watch your back round here.}

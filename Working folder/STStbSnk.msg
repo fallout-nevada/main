@@ -1,1 +1,1 @@
-{100}{}{За тактическое проникновение в тыл противника вы получаете 300 опыта и +5 к скрытности.}
+{100}{}{For successfully gaining the rear of the enemy you receive 300 exp. points and +5 to your stealth skill.}

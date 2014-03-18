@@ -1,2 +1,2 @@
-{100}{}{Это ваша награда.}
-{101}{}{Перед вами ящик с вашим вознаграждением от племени.}
+{100}{}{It's your reward.}
+{101}{}{You see a box holding your reward from the tribe.}

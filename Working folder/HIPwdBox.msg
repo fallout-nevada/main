@@ -1,1 +1,1 @@
-{100}{}{Вы разобрали бесполезные патроны и вытащили из них порох.}
+{100}{}{You dismantle useless cartridges and extract some gunpowder.}

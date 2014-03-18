@@ -1,1 +1,1 @@
-{100}{}{Обычные на первый взгляд развалины. Среди них может скрываться кто угодно.}
+{100}{}{On the face of it these are ordinary ruins. Anyone could be hiding in them.}

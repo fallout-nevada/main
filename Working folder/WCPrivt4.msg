@@ -1,2 +1,2 @@
-{100}{}{Вы видите рядового.}
-{101}{}{Вы видите полуголого рядового, который тренируется вместе со своим отрядом.}
+{100}{}{You see a private.}
+{101}{}{You see a private, naked from waist up, training with his squad.}

@@ -1,2 +1,2 @@
-{100}{}{Если вы безрассудно спрыгните вниз, то можете не вернуться обратно.}
-{101}{}{Без страховки туда лучше не лезть}
+{100}{}{If you recklessly jump down, you may never come back up again.}
+{101}{}{Better not go down there without a safety harness}

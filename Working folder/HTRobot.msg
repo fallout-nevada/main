@@ -1,1 +1,1 @@
-{100}{}{Кажется, здесь была зверская драка.}
+{100}{}{Looks like some brutal fighting took place here.}

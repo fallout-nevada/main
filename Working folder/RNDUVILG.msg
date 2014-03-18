@@ -1,1 +1,1 @@
-{100}{}{Перед вами странное место. Воздух здесь будто заряжен электричеством.}
+{100}{}{There's a strange area ahead of you. It feels as if the air is electrically cahrged.}

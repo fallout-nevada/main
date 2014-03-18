@@ -1,1 +1,1 @@
-{100}{}{Перед вами необжитые руины. Но, судя по следам армейских ботинок, вы здесь не одни.}
+{100}{}{The ruins ahead are uninhabited. But judging from army boot footprints, you're not alone here.}

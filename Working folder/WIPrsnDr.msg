@@ -11,7 +11,7 @@
 {109}{}{Fail}
 
 #Диалог с тюремным надзирателем после заточения
-{110}{}{Hey, you! Be quiet! Just don't give me any trouble, do your 24 hours and you'll be out.}
+{110}{}{Hey, you! Be quiet! Just don't give me any trouble, do your 24 hours and you'll be out just fine.}
 {111}{}{Can you at least tell me what I'm in for?!}
 {112}{}{How the hell am I supposed to know.}
 {113}{}{Shit...}

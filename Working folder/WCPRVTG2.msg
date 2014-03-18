@@ -1,3 +1,3 @@
-{100}{}{Вы видите усталого военного.}
-{101}{}{Перед вами военный, одетый в пыльную амуницию.}
-{102}{}{Черт, куда они убежали?!}
+{100}{}{You see a weary military man.}
+{101}{}{You see a military man whose gear is covered with a thick layer of dust.}
+{102}{}{Damn, where did they go?!}

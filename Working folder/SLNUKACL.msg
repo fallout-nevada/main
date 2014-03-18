@@ -1,1 +1,1 @@
-{100}{}{Большая вывеска красноречиво извещает, что вы входите на территорию завода.}
+{100}{}{A large sign-board explicitly notifies you that you're entering factory premises.}

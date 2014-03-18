@@ -1,1 +1,1 @@
-{100}{}{Внутри плиты оказался закрытый сейф. Вы открыли его этим ключом.}
+{100}{}{Inside the slab you find a locked safe which you open with this key.}

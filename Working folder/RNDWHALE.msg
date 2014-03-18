@@ -1,1 +1,1 @@
-{100}{}{Ќедавно здесь прошел кто-то с огромным тесаком. —леды говор€т, что он направл€лс€ на запад.}
+{100}{}{Someone with a huge cleaver passed through here not long ago. The tracks tell you he's headed West.}

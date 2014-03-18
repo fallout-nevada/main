@@ -1,2 +1,2 @@
-{100}{}{Перед вами прекрасный цветущий оазис.}
-{101}{}{Наконец-то это закончилось...}
+{100}{}{You stumble upon a beautiful blooming oasis.}
+{101}{}{Finally it's all over...}

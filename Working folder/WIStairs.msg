@@ -1,2 +1,2 @@
-{101}{}{Перед вами потайной ход. Раньше его здесь не было!}
-{102}{}{Вы получаете опыт за раскрытие тайны статуй.}
+{101}{}{You face a secret passage. It wasn't here before!}
+{102}{}{You gain experience for uncovering the secret of the statues.}

@@ -1,2 +1,2 @@
-{101}{}{Вы уже сканировали эти статьи.}
-{102}{}{Вы сканируете эти статьи в свой Pip-Boy.}
+{101}{}{You have already scanned these articles.}
+{102}{}{You scan these articles to your Pip-Boy.}

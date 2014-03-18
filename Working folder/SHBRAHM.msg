@@ -1,1 +1,1 @@
-{100}{}{Вы пришли на плантации племени. Недалеко на западе виден дым от костра.}
+{100}{}{You arrive at the tribe's fields. You can see smoke rising up not far in the West.}

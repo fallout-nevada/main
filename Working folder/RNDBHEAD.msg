@@ -1,1 +1,1 @@
-{100}{}{Зловоние местной свалки прошибает нос едким запахом горелой резины и сажи.}
+{100}{}{Stench of the local dump makes you cringe from acrid smell of burning rubber and soot.}

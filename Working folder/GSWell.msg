@@ -1,2 +1,2 @@
-{100}{}{¬ колодце есть вода, но пить ее небезопасно из-за радиации.}
-{101}{}{Ќе стоит пить это}
+{100}{}{The well has water in it, but it's unsafe to drink because of radiation.}
+{101}{}{Shouldn't drink this}
