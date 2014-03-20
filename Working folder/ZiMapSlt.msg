@@ -1,2 +1,2 @@
-{100}{}{Вы вводите карту в свой Pip-Boy. Теперь путешествовать по этому региону станет проще.}
-{101}{}{Вы уже ввели карту в свой Pip-Boy.}
+{100}{}{You load the map to your Pip-Boy. This will make traveling this area much easier.}
+{101}{}{You've already loaded the map to your Pip-Boy.}

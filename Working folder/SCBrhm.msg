@@ -1,5 +1,5 @@
-{100}{}{Одомашненный брамин.}
-{101}{}{Этот брамин, кажется, вас недолюбливает.}
+{100}{}{A domesticated brahmin.}
+{101}{}{This brahmin doesn't seem to like you much.}
 
-{102}{}{мууу}
-{103}{}{Этот брамин, кажется, вам подмигнул!}
+{102}{}{moo}
+{103}{}{You could swear you've seen this brahmin wink at you!}
