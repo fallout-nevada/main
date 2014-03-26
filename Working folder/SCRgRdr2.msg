@@ -1,5 +1,5 @@
-{100}{}{Отмороженный рейдер.}
-{101}{}{Это ваш второй соперник на ринге рейдеров.}
+{100}{}{Atrocious raider.}
+{101}{}{It's your second adversary on raiders' ring.}
 
-{110}{}{ААА!!! ВСТРЕТИМСЯ В АДУ!}
-{111}{}{Противник "опущен", и вы получаете 500 опыта.}
+{110}{}{Aaaah!!! SEE YOU IN HELL!}
+{111}{}{Your opponent is down, you gain 500 exp. points.}

@@ -1,5 +1,5 @@
 {100}{}{}
 {101}{}{}
 {102}{}{}
-{103}{}{Удивительно, но вы нашли тайник своего напарника по воровскому делу! (В тайнике находилась 1000 баксов)}
-{104}{}{Думал, я не найду? Ха!}
+{103}{}{Unbelievable, but you found your partner in crime's secret stash! (with $1000 in there)}
+{104}{}{You thought I wouldn't find it? Ha!}

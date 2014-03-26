@@ -1,3 +1,3 @@
-{100}{}{Вы видите робота.}
-{101}{}{Перед вами робот. Видимо, кто-то забыл запрограммировать его на приветствия.}
-{102}{}{Обнаружен нарушитель! Включить общую тревогу!}
+{100}{}{You see a robot.}
+{101}{}{You see a robot. Looks like they forgot to program in a greeting for it.}
+{102}{}{Intruder spotted! Sound the alarm!}

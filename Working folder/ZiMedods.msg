@@ -1,3 +1,3 @@
-{100}{}{Вы получаете новые знания о ловушках и способах обращения со взрывчаткой.}
-{101}{}{Вы не узнали ничего нового и зря потратили время.}
-{102}{}{Вы изучили много полезной информации об энергетическом оружии.}
+{100}{}{You learn some new facts about setting traps and handling explosives.}
+{101}{}{You learn nothing new and only waste time.}
+{102}{}{You discover a lot of new information on energy weapons.}

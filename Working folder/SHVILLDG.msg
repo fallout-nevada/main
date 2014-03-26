@@ -1,2 +1,2 @@
-{100}{}{Вы вошли во владения индейцев шайенн. Края эти выглядят омраченно и безрадостно.}
-{101}{}{Примерно в этом районе находится радиостанция, о которой говорилось на АЭС "Посейдон Ойл".}
+{100}{}{You enter the Cheyenne tribe grounds. These parts look dismal and depressing.}
+{101}{}{The radio station mentioned on "Poseidon Oil" power plant is located somewhere around this area.}
