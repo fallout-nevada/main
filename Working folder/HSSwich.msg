@@ -1,6 +1,6 @@
-{100}{}{Это выключатель.}
-{101}{}{Вы видите выключатель освещения в ангаре... или включатель - кому как нравится.}
-{102}{}{Вы включаете освещение ангара.}
-{103}{}{Вы выключаете освещение в ангаре.}
+{100}{}{It's a switch.}
+{101}{}{You see the switch that switches on the lights in the hangar... or switches off, whichever you prefer.}
+{102}{}{You switch on hangar lights.}
+{103}{}{You switch off hangar lights.}
 
-{104}{}{Электрическое поле наносит урон!}
+{104}{}{Electric field hurts you!}

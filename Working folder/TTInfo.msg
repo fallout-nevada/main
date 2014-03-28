@@ -1,5 +1,5 @@
-{100}{}{Будьте осторожны, в этом коридоре легко "засветиться" перед пришельцами.}
-{101}{}{Чует моя задница - впереди что-то неладное}
+{100}{}{Be careful, in this corridor you can easily be spotted by aliens.}
+{101}{}{I got a hunch something's not right up ahead}
 
-{200}{}{Вы находитесь на территории особого назначения со строгим пропускным режимом.}
-{201}{}{Впереди много пришельцев}
+{200}{}{You are in a special area with strict access control.}
+{201}{}{A lot of aliens ahead}
