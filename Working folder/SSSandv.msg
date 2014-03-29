@@ -1,7 +1,7 @@
-{100}{}{Ядреный кочан капусты.}
-{101}{}{Плотный кочан капусты, из которого можно сделать неплохой салат.}
+{100}{}{Cabbage head.}
+{101}{}{A huge cabbage head that would make for a good salad.}
 
-{102}{}{Аппетитная зелень! Еще бы мясо брамина - и выйдет отличный обед.}
-{103}{}{Из этой зелени можно изготовить отличный обед, если достать немного мяса. Но вряд ли это понравится хозяйке.}
-{104}{}{Вот так-то!}
-{105}{}{Вы распотрошили зелень и организовали себе сандвич. Вряд ли хозяйка обрадуется, когда узнает. Ворюга!}
+{102}{}{Delicious greens! Add some brahmin meat and you get a wholesome dinner.}
+{103}{}{This vegetable would make for a nice dinner if you had some meat to go with it. But its owner will hardly like this idea of yours.}
+{104}{}{Just like that!}
+{105}{}{You ravaged the vegetable to make a sandwich. Its owner probably won't like it when she finds out. You thief!}

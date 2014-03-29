@@ -1,9 +1,9 @@
-{100}{}{Вы видите стену.}
-{101}{}{Перед вами ветхая стена из досок.}
-{102}{}{Голыми руками с этим ничего не сделать.}
-{103}{}{Слишком прочно}
-{104}{}{Ургх!}
-{105}{}{Хорошенько размахнувшись, вы смогли выбить доски и освободить проход.}
-{106}{}{Этим вы не сможете разобрать доски.}
-{107}{}{Не то}
-{108}{}{Сильный взрыв проломил доски, раскидав их по полу.}
+{100}{}{You see a wall.}
+{101}{}{You see a ramshackle wooden wall.}
+{102}{}{Nothing to do here with bare hands.}
+{103}{}{Too strong}
+{104}{}{Oomph!}
+{105}{}{With a good swing you knock out the planks and clear the way.}
+{106}{}{You can't strip the planks with this.}
+{107}{}{This won't do}
+{108}{}{Powerful explosion shatters the planks, scattering wooden chips around the place.}

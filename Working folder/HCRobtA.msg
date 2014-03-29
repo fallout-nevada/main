@@ -1,5 +1,5 @@
-{100}{}{Вы видите робота-миноискателя.}
-{101}{}{Перед вами робот, который ищет мины везде, где только можно.}
-{102}{}{Починенный вами робот разминировал опасное поле.}
-{103}{}{Запуск протокола зачистки территории... Программа принята. Начинаю работу.}
-{104}{}{Починенный вами робот достиг испытательного полигона, однако, по-видимому, заняться ему здесь нечем.}
+{100}{}{You see a minesweeper bot.}
+{101}{}{You see a robot designed to sweep mines.}
+{102}{}{The robot you repaired has cleared a dangerous minefield.}
+{103}{}{Sweeping protocol initiated... Program loaded. Commencing demining procedure.}
+{104}{}{The robot you repaired has reached the test site, but apparently it doesn't have any work to do here.}

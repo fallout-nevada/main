@@ -1,5 +1,5 @@
-{100}{}{Распределительный щиток.}
-{101}{}{Этот распределительный щит питает электричеством различное оборудование внутри ангара.}
-{102}{}{Вы блокируете подачу тока в провод на полу.}
-{103}{}{Вы подсоединяете провод с пола к щитку, и тот начинает сильно гудеть.}
-{104}{}{Ок, но теперь надо быть осторожным.}
+{100}{}{Power box.}
+{101}{}{This power box distributes power to the equipment in the hangar.}
+{102}{}{You shut off power supply to the cable on the ground.}
+{103}{}{You plug the cable from the ground into the power box and it starts to make a loud buzzing sound.}
+{104}{}{Ok, now you better be careful.}
