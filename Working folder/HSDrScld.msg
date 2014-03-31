@@ -1,14 +1,14 @@
-{100}{}{Крепкая складская дверь.}
-{101}{}{Это очень крепкая и тяжелая металлическая дверь со встроенным замком.}
-{102}{}{Дверь, без сомнения, выдержит и более мощный удар.}
+{100}{}{Heavy warehouse door.}
+{101}{}{It's a very heavy and strong metal door with an embedded lock.}
+{102}{}{The door could undoubtedly endure much harder impacts.}
 
-{103}{}{Навыки здесь бесполезны, ищите ключ.}
-{104}{}{Нужен ключ}
-{105}{}{Дверь надежно заперта на очень прочный замок. Найдите ключ, чтобы его открыть.}
-{106}{}{Дверь надежно заперта на очень прочный замок. Найдите ключ, чтобы его открыть.}
-{107}{}{Бесполезно}
+{103}{}{Your skills are useless here, better look for a key.}
+{104}{}{Need a key}
+{105}{}{The door is locked securely with a very sturdy lock. Find a key to open it.}
+{106}{}{The door is locked securely with a very sturdy lock. Find a key to open it.}
+{107}{}{No use}
 
-{108}{}{Вы запираете дверной замок.}
-{109}{}{Закрыто}
-{110}{}{Вы отпираете дверной замок.}
-{111}{}{Открыто}
+{108}{}{You lock the door.}
+{109}{}{Locked}
+{110}{}{You unlock the door.}
+{111}{}{Unlocked}

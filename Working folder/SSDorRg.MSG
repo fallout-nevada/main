@@ -1,16 +1,16 @@
-{100}{}{Ржавая дверь.}
-{101}{}{Очень прочная и очень ржавая дверь. Такие ставили в тюрьмах. Выбить невозможно!}
-{102}{}{Без ключа не взломать.}
-{103}{}{Без ключа не открыть.}
-{104}{}{Дверь открыта!}
-{105}{}{Не получилось.}
-{106}{}{Замок не поддается.}
-{107}{}{Вы отпираете сложный замок и получаете 100 опыта.}
-{108}{}{Здесь механический замок.}
-{109}{}{Нужен ключ или отмычка.}
-{110}{}{Дверь слишком прочная для такого удара.}
-{111}{}{Проклятье!}
-{112}{}{Вы заперли дверь на ключ.}
-{113}{}{Дверь закрыта.}
-{114}{}{Замок уже взломан}
-{115}{}{Замок уже взломан и повторному взлому не поддается.}
+{100}{}{Rusty door.}
+{101}{}{A very rusty yet still very durable door. Doors like this were often installed in prisons. Impossible to knock out!}
+{102}{}{Can't be opened without a key.}
+{103}{}{Can't be opened without a key.}
+{104}{}{The door is open!}
+{105}{}{No luck.}
+{106}{}{The lock doesn't give in.}
+{107}{}{You force a complicated lock and earn 100 exp. points.}
+{108}{}{The lock is mechanical.}
+{109}{}{You need a key or at the very least a lock-pick.}
+{110}{}{The door is too strong for that.}
+{111}{}{Dammit!}
+{112}{}{You lock the door with the key.}
+{113}{}{The door is locked.}
+{114}{}{The lock is already picked}
+{115}{}{The lock has already been picked. It can't be double-picked.}

@@ -1,12 +1,12 @@
-{100}{}{Вы видите калитку.}
-{101}{}{Перед вами калитка со звонком.}
+{100}{}{You see a gate.}
+{101}{}{You see a gate equipped with a doorbell.}
 
-{102}{}{Эй! Есть кто дома?! Никого?}
-{103}{}{Калитка заперта, и вам никто не отвечает на звонок. Кажется, вас целенаправленно игнорируют!}
-{104}{}{Тук! Тук!}
-{105}{}{Кто-то дистанционно открыл дверь после вашего "секретного" звонка.}
-{106}{}{Дверь уже открыта}
-{107}{}{Вы легко взламываете замок на двери.}
-{108}{}{Сделано}
-{109}{}{Неудача}
-{110}{}{Вам не удалось взломать такой простой замок.}
+{102}{}{Hey! Anybody home?! Nobody?}
+{103}{}{The gate is locked and nobody answers the doorbell. looks like you're being ignored!}
+{104}{}{Knock-knock!}
+{105}{}{Someone remotely opened the door after your "secret" ring.}
+{106}{}{The door is already open}
+{107}{}{You easily pick the lock on the door.}
+{108}{}{Done}
+{109}{}{Fail}
+{110}{}{You fail to pick a simple lock.}
