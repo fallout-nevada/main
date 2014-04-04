@@ -1,12 +1,12 @@
-{100}{}{ќбъ€вление о розыске с грубым угольным наброском разыскиваемого человека. „еловек на плакате кажетс€ вам знакомым.}
-{101}{}{«аголовок гласит:}
-{102}{}{–азыскиваетс€ живым или мертвым за детоубийство и гнусное крыс€тничество. ¬ознаграждение $10 000 за мертвого или $5 000 за живого.}
-{103}{}{–азыскиваетс€ живым или мертвым за детоубийство. ¬ознаграждение $10 000 за мертвого или $5 000 за живого.}
-{104}{}{–азыскиваетс€ живым или мертвым за гнусное крыс€тничество. ¬ознаграждение $10 000 за мертвого или $5 000 за живого.}
-{105}{}{–азыскиваетс€ живым или мертвым за налеты на караванщиков. ¬ознаграждение $5 000 за мертвого или $2 000 за живого.}
+{100}{}{A wanted poster with a crude sketch of the wanted person. The features look familiar.}
+{101}{}{The caption goes:}
+{102}{}{Wanted dead or alive for infanticide and unscrupulous pilfering. Reward $10 000 dead or $5 000 alive.}
+{103}{}{Wanted dead or alive for infanticide. Reward $10 000 dead or $5 000 alive.}
+{104}{}{Wanted dead or alive for unscrupulous pilfering. Reward $10 000 dead or $5 000 alive.}
+{105}{}{Wanted dead or alive for caravan robberies. Reward $5 000 dead or $2 000 alive.}
 
 #∆енский вариант
-{1102}{}{–азыскиваетс€ живой или мертвой за детоубийство и гнусное крыс€тничество. ¬ознаграждение $10 000 за мертвую или $5 000 за живую.}
-{1103}{}{–азыскиваетс€ живой или мертвой за детоубийство. ¬ознаграждение $10 000 за мертвую или $5 000 за живую.}
-{1104}{}{–азыскиваетс€ живой или мертвой за гнусное крыс€тничество. ¬ознаграждение $10 000 за мертвую или $5 000 за живую.}
-{1105}{}{–азыскиваетс€ живой или мертвой за налеты на караванщиков. ¬ознаграждение $5 000 за мертвую или $2 000 за живую.}
+{1102}{}{Wanted dead or alive for infanticide and unscrupulous pilfering. Reward $10 000 dead or $5 000 alive.}
+{1103}{}{Wanted dead or alive for infanticide. Reward $10 000 dead or $5 000 alive.}
+{1104}{}{Wanted dead or alive for unscrupulous pilfering. Reward $10 000 dead or $5 000 alive.}
+{1105}{}{Wanted dead or alive for caravan robberies. Reward $5 000 dead or $2 000 alive.}

@@ -1,43 +1,43 @@
-{100}{}{Труп.}
-{101}{}{Труп засосало в матку по грудь, но, кажется, эти останки все еще дышат!}
+{100}{}{Body.}
+{101}{}{The body is chest deep in the nest, but what remains still seems to be breathing!}
 
 #Диалог:
-{102}{}{Мм... ммммм....}
-{103}{}{Эй! Вы меня слышите? Вы понимаете, что я вам говорю?}
+{102}{}{Uhh... Mhhhh....}
+{103}{}{Hey! Can you hear me? Do you understand what I say?}
 
-{104}{}{Мэээээ...}
-{105}{}{Мужик, тебе, кажется, хреново. Может, тебя вытащить из матки?}
-{106}{}{Оставить его в покое.}
+{104}{}{Maaaah...}
+{105}{}{You don't look too well, man. Maybe I should pull you out of the nest?}
+{106}{}{Leave him be.}
 
-{107}{}{Сс... спассии...}
-{108}{}{Попытаться вытащить.}
-{109}{}{Оставить его.}
+{107}{}{Uhh... help...}
+{108}{}{Try to pull him out.}
+{109}{}{Leave him be.}
 
 #Таймерная сцена:
-{110}{}{Эй, мужик, вставай, пока нас не сожрали!}
-{111}{}{Ну же!}
-{112}{}{Срань господня!...}
-{113}{}{Тебе повезло, мужик, что живой остался!}
-{114}{}{Хреново как... погоди... я... сейчас...}
-{115}{}{Что?}
-{116}{}{ААААААААА!!!}
+{110}{}{Hey, man, get up before we get devoured!}
+{111}{}{Come on!}
+{112}{}{Holy shit!...}
+{113}{}{You're lucky to be alive, man!}
+{114}{}{What the... Wait a sec, feels weird...}
+{115}{}{What?}
+{116}{}{AAAAAAAH!!!}
 
-{117}{}{ОХРЕНЕТЬ! Это что было?}
-{118}{}{Увы, жизнь этого бедняги была предрешена.}
+{117}{}{What the flying fuck! What was that?}
+{118}{}{Alas, this poor fellow's end was predetermined.}
 {119}{}{}
 
 #Таймерные плавающие реплики
-{120}{}{::стон::}
-{121}{}{::хрипение::}
-{122}{}{Ооохх...}
-{123}{}{Хрр...}
-{124}{}{Ммм...}
-{125}{}{Спаси...}
+{120}{}{::moan::}
+{121}{}{::whizz::}
+{122}{}{Ooh...}
+{123}{}{Hurr...}
+{124}{}{Mmmh...}
+{125}{}{Help...}
 
 #После выпуска газа
-{200}{}{Этот мертвяк - не жилец. Похоже, что он умер не от биомассы, засосавшей его, а наоборот - когда биомасса погибла от газа, погиб и этот человек… то есть то, что от него осталось.}
-{201}{}{Проверить карманы трупа.}
-{202}{}{Оставить труп.}
-{203}{}{Теперь эти останки не представляют из себя ничего интересного.}
-{204}{}{Неожиданно вы находите в останках прибор наведения для энергетического оружия и красную ключ-карту.}
-{205}{}{Больше здесь ничего нет.}
+{200}{}{This ghoul is a goner. It appears he didn't die because biomass sucked him in, but on the contrary, when biomass died from gas, this man died with it… or what was left of him did.}
+{201}{}{Search the corpse for valuables.}
+{202}{}{Leave the corpse be.}
+{203}{}{These remains are of no interest to you now.}
+{204}{}{You unexpectedly find a targeting system for energy weapons and a red keycard within the remains.}
+{205}{}{Nothing else here.}
