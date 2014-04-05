@@ -1,19 +1,19 @@
-{100}{}{Лучше туда не ходи}
-{101}{}{Тебе туда нельзя}
-{102}{}{Уйди оттуда!}
-{103}{}{А вот туда ходить не надо}
-{104}{}{Эй, я все еще слежу за тобой}
-{105}{}{Куда ты идешь?}
-{106}{}{Вождь в другой стороне, чужак}
-{107}{}{Зачем ты идешь туда?}
-{108}{}{Что ты хочешь там сделать?}
-{109}{}{Что у тебя на уме?}
-{110}{}{А ну вернись!}
-{111}{}{Нарываешься?}
+{100}{}{Better not go in there}
+{101}{}{You can't go in there}
+{102}{}{Get away from there!}
+{103}{}{You shouldn't go there}
+{104}{}{Hey, I'm still watching you}
+{105}{}{Where do you think you're going?}
+{106}{}{The Chief's hut is the other way, outlander}
+{107}{}{What are you going there for?}
+{108}{}{What do you want there?}
+{109}{}{What do you have in mind?}
+{110}{}{Get back here now!}
+{111}{}{Looking for trouble?}
 
-{112}{}{Чужак, это не твоя хижина!}
-{113}{}{Чужак, уйди из этой хижины!}
-{114}{}{Чужак, вождь живет в другой хижине}
-{115}{}{Тебя туда не звали}
+{112}{}{Outlander, this is not your hut!}
+{113}{}{Outlander, get out of this hut!}
+{114}{}{Outlander, the Chief lives in the other hut}
+{115}{}{You weren't invited}
 
-{116}{}{Чужак, где ты прячешься? Вернись по-хорошему!}
+{116}{}{Where are you hiding, outlander? Come out, you're just making it worse for yourself!}

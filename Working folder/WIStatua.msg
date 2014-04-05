@@ -1,6 +1,6 @@
 {100}{}{}
-{101}{}{Символ прекрасно встал на свое исходное место. Кажется, где-то в здании послышался лязг.}
-{102}{}{Что это было?}
-{103}{}{Символ прекрасно встал на свое исходное место в берете воина.}
-{104}{}{И что это значит?}
-{105}{}{Место уже занято, и вставлять символ некуда.}
+{101}{}{The symbol fits right in its place. You pick up some cluttering sound somewhere in the building.}
+{102}{}{What was that?}
+{103}{}{The symbol fits perfectly in its place in the warrior's beret.}
+{104}{}{What's that supposed to mean?}
+{105}{}{The notch is already filled, there's nowhere to fit the symbol into.}

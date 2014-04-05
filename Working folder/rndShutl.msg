@@ -1,2 +1,2 @@
-{100}{}{Перед вами совершенно неожиданная находка! Наверное, никто уже не ответит, откуда здесь этот танкер.}
-{101}{}{Это галлюцинация!?}
+{100}{}{What an unexpected find! No one would probably know where this tanker came from.}
+{101}{}{Am I seeing things!?}

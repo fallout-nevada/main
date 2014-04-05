@@ -1,5 +1,5 @@
 {100}{}{Tribal woman.}
-{101}{}{One of the Shyenne tribe's women working in the field.}
+{101}{}{One of the Cheyenne tribe's women working in the field.}
 
 #Толкание
 {102}{}{Awrite.}

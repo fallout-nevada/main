@@ -1,11 +1,11 @@
 #Аварийный выключатель в ремсекторе:
-{100}{}{Это аварийный выключатель.}
-{101}{}{Вы видите рубильник для включения аварийного освещения.}
-{102}{}{Вы включаете освещение коридоров на всем этаже.}
-{103}{}{Вы выключаете освещение коридоров на всем этаже.}
+{100}{}{Emergency lights switch.}
+{101}{}{You see the emergency lights closer.}
+{102}{}{You switch on the lights in all corridors on the floor.}
+{103}{}{You switch off the lights in all corridors on the floor.}
 
 #Обычный выключатель света в лаборатории:
-{110}{}{Это выключатель.}
-{111}{}{Вы видите обычный рубильник для включения освещения в лаборатории.}
-{112}{}{Вы включаете освещение помещений лаборатории.}
-{113}{}{Вы выключаете освещение помещений лаборатории.}
+{110}{}{It's a light switch.}
+{111}{}{You see an ordinary lab light switch.}
+{112}{}{You switch on the light in the laboratory.}
+{113}{}{You switch off the light in the laboratory.}

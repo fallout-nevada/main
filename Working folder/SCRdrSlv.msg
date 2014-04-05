@@ -1,8 +1,8 @@
-{100}{}{Вы видите раба.}
-{101}{}{Перед вами раб рейдеров.}
-{102}{}{Вы видите Микки.}
+{100}{}{You see a slave.}
+{101}{}{You see a raiders' slave.}
+{102}{}{You see Mickey.}
 
-{110}{}{Тебя здесь держат насильно?}
-{111}{}{Наверное...}
-{112}{}{Наверно? Ты и сам не знаешь?}
-{113}{}{Ну, меня, конечно, схватили и привели сюда насильно... Но с другой стороны, я и не пытаюсь отсюда выбраться.}
+{110}{}{Are you held here against your will?}
+{111}{}{I guess so...}
+{112}{}{You guess so? So you don't know?}
+{113}{}{Well, of course I was captured and brought here by force... But on the other hand I'm not really trying to get out.}

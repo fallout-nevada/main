@@ -1,9 +1,9 @@
-{100}{}{Вы видите дверь.}
-{101}{}{Дверь с электронным механизмом. Увы, без электричества она не откроется.}
-{102}{}{Дверь с электронным механизмом. Из-за нестабильной подачи электричества дверь работает непредсказуемо.}
-{103}{}{Без электричества дверь не открывается}
-{104}{}{Электричество поступает нестабильно, сейчас его не хватает, чтобы открыть дверь.}
-{105}{}{Дверь с электронным механизмом. Наверняка где-нибудь есть аварийная система открытия замка.}
-{106}{}{Навыки здесь бесполезны. Ищите аварийную систему открытия.}
-{107}{}{Требуется ключ доступа.}
-{108}{}{Нужен ключ доступа, но его у вас нет. Наверняка есть аварийный способ открытия.}
+{100}{}{You see a door.}
+{101}{}{An electronic door. Sadly it will never open without power.}
+{102}{}{An electronic door. Due to unstable power supply its behavior is unpredictable.}
+{103}{}{With no power the door won't open}
+{104}{}{The power supply is unstable, right now there's not enough power to open the door.}
+{105}{}{An electronic door. There must be an emergency opening system somewhere.}
+{106}{}{Your skills are useless here. look for an emergency opening system.}
+{107}{}{Access key required.}
+{108}{}{Access key is required, but you don't have one. There must be an emergency opening mechanism.}

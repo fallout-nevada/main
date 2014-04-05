@@ -1,12 +1,12 @@
-{100}{}{Это кулер с водой.}
-{101}{}{Это пустой кулер.}
+{100}{}{A water cooler with water in it.}
+{101}{}{An empty water cooler.}
 
-{102}{}{Перед вами кулер, наполненный чистой родниковой водой.}
-{103}{}{Перед вами пустой кулер. Кто-то жадно выкачал оттуда всю воду.}
+{102}{}{You see a cooler filled with clean spring water.}
+{103}{}{You see an empty cooler. Someone has chugged all the water.}
 
-{104}{}{В этом кулере не осталось ни капли воды.}
-{105}{}{Вы отливаете полную фляжку чистой родниковой воды.}
+{104}{}{Not a drop of water left in this cooler.}
+{105}{}{You pour a flaskfull of pure spring water.}
 {106}{}{}
 
-{107}{}{В этом кулере осталось немного воды. Вам потребуется емкость, если захотите ее забрать.}
-{108}{}{Нужна емкость}
+{107}{}{There's some water left in this cooler. You'll need a vessel if you want to collect it.}
+{108}{}{Need a bottle}

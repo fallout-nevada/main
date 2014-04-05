@@ -1,12 +1,12 @@
-{100}{}{Мерзейшего вида поселение, здесь нужно быть всегда начеку.}
-{110}{}{Эй-эй, ты! Со стволом нельзя!}
-{111}{}{Ты меня слышишь, а? Ствол, говорю, убери!}
-{112}{}{Ты нарываешься?!}
-{113}{}{Последнее предупреждение!}
-{114}{}{ВНИМАНИЕ! ПРОТИВНИК!}
+{100}{}{This is one odious looking settlement, staying alert at all times would be a good idea.}
+{110}{}{Hey, you! No guns allowed!}
+{111}{}{Can you hear me? Put your gun away!}
+{112}{}{You're asking for it, aren't you?!}
+{113}{}{This is your final warning!}
+{114}{}{ALARM! WE'RE UNDER ATTACK!}
 
-{115}{}{Вау! Вот это неожиданность!}
-{116}{}{Теперь понятно, почему механик так яростно сторожит вход в гараж.}
+{115}{}{Wow! That's unexpected!}
+{116}{}{Now you get why the mechanic guards the garage entrance so hecticly.}
 
-{117}{}{Что это!?}
-{118}{}{Эй! Кажется, из гаража около вокзала доносятся звуки мотора!}
+{117}{}{What is that!?}
+{118}{}{Hey! Seems like the sound of a running engine is coming from the garage by the station!}

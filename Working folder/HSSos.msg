@@ -1,4 +1,4 @@
-{100}{}{Разобранный SoS.}
-{101}{}{Вы видите разобранное устройство, именуемое SoS.}
-{102}{}{Вы изъяли коробку с надписью "S.O.S." Теперь можно возвращаться в Город Убежища.}
-{103}{}{Задача выполнена}
+{100}{}{Disengaged SoS.}
+{101}{}{You see a disengaged device, known as SoS.}
+{102}{}{You expropriated a box with the inscription "S.O.S." on it. Now you can return to Vault City.}
+{103}{}{Mission accomplished}

@@ -1,4 +1,4 @@
-{100}{}{¬ы видите электрощит.}
-{101}{}{Ётот распределительный щит не работает. » никогда не заработает вновь.}
-{102}{}{¬ы нашли фонарик, оставленный здесь мастером еще с довоенных времен.}
-{103}{}{Ёй, кто-то оказалс€ удачно забывчивым!}
+{100}{}{You see a power box.}
+{101}{}{This power box isn't working. And it never will be.}
+{102}{}{You found a flare left here by a maintenance man back before the war.}
+{103}{}{Someone's forgetfulness, your luck!}

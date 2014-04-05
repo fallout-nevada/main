@@ -1,10 +1,10 @@
-{100}{}{Перед вами огромные пустыри, где некогда разруливали военные самолеты. На западе виднеются строения.}
-{101}{}{Вы вошли на территорию федеральной собственности. В довоенное время вас бы здесь расстреляли.}
-{102}{}{Вы проникли в какой-то особенный ангар. Возможно, вы видите то, что полагалось видеть лишь избранным.}
-{103}{}{Сильный взрыв разносит внутренности ангара, но корпус строения удержался от обрушения.}
-{104}{}{Твоюжмать!!!}
+{100}{}{You enter a vast area where military planes used to taxi. Some buildings can be seen in the West.}
+{101}{}{You are trespassing on federal property. Before the war you'd be shot for that.}
+{102}{}{You got into some special hangar. Maybe you are gazing upon something seen only by few.}
+{103}{}{A heavy blast shatters the insides of the hangar, the structure however miraculously doesn't cave in.}
+{104}{}{Goddammit!!!}
 
-{105}{}{Это место похоже на заправку для авиатехники. В тех баках наверняка осталось топливо.}
-{106}{}{Эй! Да тут целый склад топлива!}
-{107}{}{Какой здесь смрад...}
-{108}{}{Отравляющий газ все еще присутствует в воздухе ангара.}
+{105}{}{This place looks like an aircraft refuelling station. Those tanks must still house fuel.}
+{106}{}{Wow, it's a shit ton of fuel!}
+{107}{}{The stench is barely bearable...}
+{108}{}{The poison gas is still present in the air inside the hangar.}

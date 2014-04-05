@@ -1,13 +1,13 @@
-{100}{}{Вы замечаете ловушку.}
-{101}{}{По счастливой случайности мина не взорвалась.}
-{102}{}{Вы обезвредили ловушку.}
-{103}{}{Это было неудачное решение.}
-{104}{}{Вам не удалось обезвредить ловушку.}
-{105}{}{Ловушка!}
-{106}{}{ видит мину.}
-{107}{}{Обезврежено}
-{108}{}{Вы успешно обходите мину.}
-{109}{}{Вы обнаруживаете ловушку при помощи металлоискателя.}
-{110}{}{Из-за вашей неуклюжести капкан сломался.}
-{111}{}{Вы вовремя обнаружили ловушку и перепрыгнули через нее.}
-{112}{}{Эта ловушка слишком сложна для вас.}
+{100}{}{You spotted a trap.}
+{101}{}{By a fluke the mine did not go off.}
+{102}{}{You disarmed the trap.}
+{103}{}{That was a bad idea.}
+{104}{}{You failed to disarm the trap.}
+{105}{}{It's a trap!}
+{106}{}{ spotted a mine.}
+{107}{}{Disarmed}
+{108}{}{you successfully evaded the mine.}
+{109}{}{You discover a trap with the metal detector.}
+{110}{}{The trap breaks because of your clumsiness.}
+{111}{}{You spotted the trap just in time to jump over it.}
+{112}{}{This trap is too complicated for you.}

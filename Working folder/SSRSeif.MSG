@@ -1,13 +1,13 @@
-{100}{}{Вы видите сейф.}
-{101}{}{Перед вами прочный настенный сейф с электронным замком.}
-{102}{}{Взрыв не оставил и царапины.}
+{100}{}{You see a safe.}
+{101}{}{You see a solid wall safe with electronic lock.}
+{102}{}{The explosion leaves no scratch on the safe.}
 
-{105}{}{Вы уже взломали этот сейф.}
-{106}{}{Это сложнее, чем вам могло показаться.}
-{107}{}{Готово}
+{105}{}{You've already picked this safe.}
+{106}{}{It's harder than it seemed.}
+{107}{}{Done}
 {108}{}{}
-{109}{}{Вы успешно взламываете замок на сейфе.}
-{110}{}{Вам не удалось взломать замок на сейфе.}
-{111}{}{Тип отмычек не соответствует типу замка.}
-{112}{}{Сейф заперт кодовым электронным замком.}
-{113}{}{Заперто}
+{109}{}{You successfully pick the lock on this safe.}
+{110}{}{You fail to pick the lock on this safe.}
+{111}{}{Lockpick type is different from lock type.}
+{112}{}{The safe is locked with electronic code lock.}
+{113}{}{Locked}

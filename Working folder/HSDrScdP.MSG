@@ -1,11 +1,11 @@
-{100}{}{Дверь склада.}
-{101}{}{Это большая металлическая дверь, ведущая на склад.}
-{102}{}{Кажется, дверь заклинило с внутренней стороны. Отсюда ее не открыть.}
-{103}{}{Даже такой удар не способен нанести двери вред.}
+{100}{}{Warehouse door.}
+{101}{}{It's a huge metal door leading into the warehouse.}
+{102}{}{Looks like the door's blocked from the other side. Can't be opened from here.}
+{103}{}{Even this strong a blow does not make the door budge.}
 
-{104}{}{Дверь заклинило изнутри, отсюда ее не открыть.}
-{105}{}{Заклинило изнутри}
-{106}{}{С трудом дверь поддается и открывается.}
-{107}{}{Дверь заклинило окончательно, она больше не откроется.}
-{108}{}{Дверь не поддается}
+{104}{}{The door is jammed from the inside, it can't be opened from here.}
+{105}{}{Jammed from the inside}
+{106}{}{With great effort you finally manage to pry open the door.}
+{107}{}{The door is jammed for good now, it's not going to open.}
+{108}{}{The door doesn't give way}
 

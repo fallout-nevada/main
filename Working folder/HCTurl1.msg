@@ -1,16 +1,16 @@
-{100}{}{Охранная турель.}
-{101}{}{Вы видите охранную турель с двумя миниганами.}
+{100}{}{Sentry turret.}
+{101}{}{You see a sentry turret armed with twin miniguns.}
 
 #Попытка обезвредить ремонтом
-{102}{}{Вы не можете этим заниматься во время боя!}
-{103}{}{Вы не можете разобраться в такой сложной системе.}
-{104}{}{Вы замкнули провода, и турель сгорела от напряжения.}
-{105}{}{Теперь это ничего не даст.}
+{102}{}{You can't do this in combat!}
+{103}{}{You can't make heads or tails of such a complex system.}
+{104}{}{You short the wires and the turret bursts into flames.}
+{105}{}{This will do noting now.}
 
 #Фразки партнеров-рейдеров
-{110}{}{Эй! Заканчивай нудеть, идти пора!}
-{111}{}{Ну, это было круто. И что теперь?}
-{112}{}{Э, по этому поводу лучше промолчать}
-{113}{}{Заканчивай уже!}
-{114}{}{Оставь турель - идти надо}
-{115}{}{Пока ты с ними треплешься, я с голоду сдохну!}
+{110}{}{Hey! Quit fucking around, let's go!}
+{111}{}{Well, that was awesome. What now?}
+{112}{}{I'd rather not comment on that}
+{113}{}{Enough already!}
+{114}{}{Leave the turret alone, we gotta move}
+{115}{}{Stop wasting time, I'm getting hungry!}

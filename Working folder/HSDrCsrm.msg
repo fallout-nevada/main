@@ -1,6 +1,6 @@
-{100}{}{Заклинившая дверь.}
-{101}{}{Эта дверь сильно осела в косяке, теперь ее можно только выбить.}
-{102}{}{Невозможно}
-{103}{}{Дверь с грохотом вылетает из косяка.}
-{104}{}{Дверь сильно осела в косяке и не поддается. Теперь ее можно только выбить.}
-{105}{}{Удар даже не пошатнул дверь. Возможно, получится в следующий раз.}
+{100}{}{Jammed door.}
+{101}{}{This door got so sagging with time that you can only bust it open now.}
+{102}{}{Can't do}
+{103}{}{With a thumping sound the door flies off the jamb.}
+{104}{}{The door is too sagging from time. You can only bust it open now.}
+{105}{}{The door didn't even give way. Better luck next time.}

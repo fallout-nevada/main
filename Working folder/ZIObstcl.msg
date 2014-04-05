@@ -1,5 +1,5 @@
-{100}{}{—ухие доски воспламенились, будто пропитанные бензином.}
-{101}{}{Ётот материал не горит.}
-{102}{}{»спользу€ грубую силу, вы разобрали доски и освободили проход.}
-{103}{}{¬ашей силы недостаточно, чтобы разобрать эти доски.}
-{104}{}{«аклинило намертво, теперь это можно только разломать.}
+{100}{}{Dry planks catch fire as if they were soaked in gasoline.}
+{101}{}{This material is non-flammable.}
+{102}{}{With brute force you rip off the planking and clear the passage.}
+{103}{}{Your strength is not enough to pull down these planks.}
+{104}{}{It's jammed dead, You can only break it now.}

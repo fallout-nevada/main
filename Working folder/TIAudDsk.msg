@@ -1,3 +1,3 @@
-{100}{}{Вы видите обтрепанную ленту.}
-{101}{}{На экране Pip-Boy появляется сообщение: Файл уже есть в системе. Загрузка прервана.}
-{102}{}{На экране Pip-Boy появляется сообщение: Копирование данных с диска.}
+{100}{}{You see tattered tape.}
+{101}{}{A message pops up on your Pip-Boy: File already in database. Download aborted.}
+{102}{}{A message pops up on your Pip-Boy: Copying data from disk.}

@@ -1,16 +1,18 @@
-{100}{}{Вы видите выступающую плиту. Похоже, это часть ловушки.}
+{100}{}{You see a raised plate. It looks to be part of a
+ trap.}
 
 # NPC name prepends this line
-{101}{}{ видит выступающую плиту. Похоже, это часть ловушки.}
+{101}{}{ sees a raised plate. It looks to be part of a
+ trap.}
 
-{102}{}{Вы видите выступающую плиту.}
-
-# NPC name prepends this line
-{103}{}{ видит выступающую плиту.}
-
-{104}{}{Вы приводите ловушку в действие и едва уворачиваетесь от летящего снаряда.}
+{102}{}{You see a raised plate.}
 
 # NPC name prepends this line
-{105}{}{ приводит ловушку в действие и едва уворачивается от летящего снаряда.}
+{103}{}{ sees a raised plate.}
 
-{106}{}{Вы видите выступающую плиту, которая выглядит безобидной.}
+{104}{}{You trigger the trap and narrowly avoid the projectile shot from the wall.}
+
+# NPC name prepends this line
+{105}{}{ triggers the trap and narrowly avoids the projectile shot from the wall.}
+
+{106}{}{You see a raised plate that looks harmless.}

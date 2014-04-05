@@ -1,3 +1,3 @@
-{100}{}{Электрощиток.}
-{101}{}{Эй! По этой штуке можно взобраться на крышу склада!}
-{102}{}{Вы поднимаетесь на крышу склада, уцепившись за кабель электрощитка.}
+{100}{}{Power box.}
+{101}{}{Hey! One can climb onto the roof from this thing!}
+{102}{}{You climb to the warehouse roof, clutching at the power box cable.}

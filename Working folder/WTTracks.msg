@@ -1,7 +1,7 @@
 #Стартовое сообщение при заходе на карту:
-{100}{}{Вы добрались до той автозаправки, о которой говорили караванщики "Скоростного Ястреба".}
+{100}{}{You found the gas station caravaners of Hawk Express were talking about.}
 
 #Для триггера перехода на карту Ветра Войны:
-{101}{}{Вы видите множество следов около выхода. Возможно, здесь толпа рейдеров собралась, чтобы поделить награбленное. Следы ведут на запад.}
-{102}{}{Пойти по следам.}
-{103}{}{Проигнорировать.}
+{101}{}{You notice a lot of footprints by the exit. Perhaps the raider mob gathered here to divide their loot. The tracks go West.}
+{102}{}{Follow the tracks.}
+{103}{}{Ignore.}

@@ -44,12 +44,12 @@
 {165}{}{As uranium ore was used by the military, its mining and distribution was under strict governmental control. So "Poseidon Oil" power plant had to undergo regular inspections and maintain impeccable accounting. According to these records, at the time of power plant closedown there was enough uranium in stock to keep the plant running for 200 years straight in economy mode.}
 {166}{}{The radio station near Lovelock settlement was supposed to be a communication center in case of a global catastrophe and was constructed with special protective measures. The station itself was situated in an armored underground bunker. The nuclear power plant should have supplied the station with enough power.}
 {167}{}{You download the station coordinates to your Pip-Boy.}
-{168}{}{Apparently this station is located in the same spot as the Shyenne tribe.}
+{168}{}{Apparently this station is located in the same spot as the Cheyenne tribe.}
 {169}{}{You have already downloaded the coordinates. The station is located in the South.}
 {170}{}{It's a computer network designed for long-distance communication. It's purpose is to join different military and governmental centers of the United States. The network is offline now, which isn't particularly surprising.}
 {171}{}{Finish.}
-{172}{}{You download the station coordinates to your Pip-Boy. Apparently this station is located in the same spot as the Shyenne tribe.}
-{173}{}{It's that station by the Shyenne tribe settlement you have already visited.}
+{172}{}{You download the station coordinates to your Pip-Boy. Apparently this station is located in the same spot as the Cheyenne tribe.}
+{173}{}{It's that station by the Cheyenne tribe settlement you have already visited.}
 
 {174}{}{Check with the list from manager's safe.}
 {175}{}{That's it - there's a "Lovelock" radio station in the manager's list. The list is useless now.}

@@ -1,4 +1,4 @@
-{100}{}{Перед вами огороженная радиостанция.}
+{100}{}{You're looking at a radio station surrounded by fence.}
 
-{101}{}{Вы проникли в подземный уровень радиостанции. Из-за отсутствия освещения здесь очень темно.}
-{102}{}{Дьявол, здесь всегда так темно?}
+{101}{}{You've made it to the basement level of the station. There's no source of light here.}
+{102}{}{Damn, is it always so dark in here?}
