@@ -1,3 +1,3 @@
-{100}{}{You see tattered tape.}
-{101}{}{A message pops up on your Pip-Boy: File already in database. Download aborted.}
-{102}{}{A message pops up on your Pip-Boy: Copying data from disk.}
+{100}{}{You see a battered tape.}
+{101}{}{Pip Boy displays: File found on system. Aborting download.}
+{102}{}{Pip Boy displays: Downloading data from disk.}

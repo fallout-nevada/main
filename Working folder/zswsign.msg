@@ -1,12 +1,12 @@
-{100}{}{A wanted poster with a crude sketch of the wanted person. The features look familiar.}
-{101}{}{The caption goes:}
-{102}{}{Wanted dead or alive for infanticide and unscrupulous pilfering. Reward $10 000 dead or $5 000 alive.}
-{103}{}{Wanted dead or alive for infanticide. Reward $10 000 dead or $5 000 alive.}
-{104}{}{Wanted dead or alive for unscrupulous pilfering. Reward $10 000 dead or $5 000 alive.}
-{105}{}{Wanted dead or alive for caravan robberies. Reward $5 000 dead or $2 000 alive.}
+{100}{}{A wanted poster with a crude charcoal sketch of a wanted person. The person on the poster looks familiar.}
+{101}{}{The caption reads.}
+{102}{}{Wanted Dead or Alive for Child Killing and being a Rat Bastard. Reward $10,000 Dead or $5,000 Alive.}
+{103}{}{Wanted Dead or Alive for Child Killing. Reward $10,000 Dead or $5,000 Alive.}
+{104}{}{Wanted Dead or Alive for Being a Rat Bastard. Reward $10,000 Dead or $5,000 Alive.}
+{105}{}{Wanted Dead or Alive for Caravan Robberies. Reward $5 000 Dead or $2 000 Alive.}
 
 #Женский вариант
-{1102}{}{Wanted dead or alive for infanticide and unscrupulous pilfering. Reward $10 000 dead or $5 000 alive.}
-{1103}{}{Wanted dead or alive for infanticide. Reward $10 000 dead or $5 000 alive.}
-{1104}{}{Wanted dead or alive for unscrupulous pilfering. Reward $10 000 dead or $5 000 alive.}
-{1105}{}{Wanted dead or alive for caravan robberies. Reward $5 000 dead or $2 000 alive.}
+{1102}{}{Wanted Dead or Alive for Child Killing and being a Rat Bastard. Reward $10,000 Dead or $5,000 Alive.}
+{1103}{}{Wanted Dead or Alive for Child Killing. Reward $10,000 Dead or $5,000 Alive.}
+{1104}{}{Wanted Dead or Alive for Being a Rat Bastard. Reward $10,000 Dead or $5,000 Alive.}
+{1105}{}{Wanted Dead or Alive for Caravan Robberies. Reward $5 000 Dead or $2 000 Alive.}

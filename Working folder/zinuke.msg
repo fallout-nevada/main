@@ -1,11 +1,11 @@
-{100}{}{You see a Nuka-Cola vending machine. You wonder if it still works.}
+{100}{}{You see a Nuka-Cola machine. You wonder if it still works.}
 
-{101}{}{[clickety clickety shoosh... ching]}
-{102}{}{You got a not-that-fresh bottle of Nuka-Cola.}
-{103}{}{Yuck!}
+{101}{}{[thunk thunk chaching... sheeew]}
+{102}{}{You get a not so fresh bottle of Nuka-Cola.}
+{103}{}{Dooohhhh!}
 {104}{}{You trick the vending machine.}
 {105}{}{ skillfully tricks the vending machine.}
-{106}{}{Looks like the machine is out of stock.}
+{106}{}{The machine seems to be out of stock.}
 
 {107}{}{He-he! Thieves will be thieves!}
 {108}{}{Your coin is forever lost in the depths of this vending machine!}
