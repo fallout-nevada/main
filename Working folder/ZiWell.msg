@@ -1,26 +1,26 @@
-{100}{}{Колодец с мутной водой. Зато чище, чем в других местах.}
-{101}{}{И вы еще что-то хотели от этого получить?}
-{102}{}{Проведя обеззараживание и кипячение мутной воды из колодца, вы получили немного кристально чистой воды.}
-{103}{}{Вы уже брали воду сегодня, оставьте немного для племени!}
-{104}{}{Ммм! Вода!}
-{105}{}{Потерпите, вода еще не отстоялась и по-прежнему мутная.}
-{106}{}{Водица еще не готова.}
-{107}{}{Эх! Научиться бы очищать воду!}
-{108}{}{С помощью дезинфицирующего средства вы очистили немного воды.}
+{100}{}{A well with muddy water. Then again, it's clearer than in some other places.}
+{101}{}{You wanted to get something else from it?}
+{102}{}{By disinfecting and boiling some of the muddy well water you got yourself some clean water.}
+{103}{}{You've already taken water today, leave some for the tribe!}
+{104}{}{Mmm! Water!}
+{105}{}{Wait a bit, the water hasn't settled yet and is still muddy.}
+{106}{}{The water isn't ready yet.}
+{107}{}{I wish I knew how to purify water!}
+{108}{}{You purified some water with disinfectant.}
 
-{110}{}{Вы отравили этот колодец. Неужели забыли?}
-{111}{}{Черт, вода отравлена...}
-{112}{}{Вы уже отравили этот колодец, и делать это еще раз пока нет смысла.}
-{113}{}{Вода уже отравлена.}
-{114}{}{Вы отравили колодец, и теперь пить из него опасно. Вы поступили подло.}
-{115}{}{Колодец отравлен!}
-{116}{}{Эту воду нельзя пить, она все еще отравлена.}
-{117}{}{Нет! Отравлено!}
-{118}{}{Колодец с мутной отравленной водой. Вода еще какое-то время будет непригодна для питья.}
-{119}{}{Вы отравили колодец очень маленького поселения. Возможно, исход ваших действий вскоре окажется летальным.}
-{120}{}{Вы получаете опыт за тихое уничтожение целого поселения!}
-{121}{}{Вам не хватает научных знаний для очистки воды.}
-{122}{}{Вам не хватает медицинских знаний для очистки воды.}
-{123}{}{Вам нужна тара для хранения воды.}
-{124}{}{Нужна емкость для воды}
-{125}{}{Используйте тару для хранения воды.}
+{110}{}{You've poisoned this well. Have you forgotten?}
+{111}{}{Damn, the water's poisoned...}
+{112}{}{You've already poisoned this well and doing it again won't make any sense for some time.}
+{113}{}{The water is already poisoned.}
+{114}{}{You've poisoned the well and now it's dangerous to drink from it. How vicious of you.}
+{115}{}{The well is poisoned!}
+{116}{}{You can't drink this water, there's still some poison in it.}
+{117}{}{No! Poisoned!}
+{118}{}{A well with muddy poisoned water. The water will be undrinkable for some time.}
+{119}{}{You've poisoned the well of a very small settlement. The consequences of your actions are likely to be lethal.}
+{120}{}{You gain experience for a non-violent expunging of a whole settlement!}
+{121}{}{You don't have enough scientific knowledge to purify water.}
+{122}{}{You don't have enough sanitary knowledge to purify water.}
+{123}{}{You need a container to store water.}
+{124}{}{I need a vessel}
+{125}{}{Use containers to store water.}

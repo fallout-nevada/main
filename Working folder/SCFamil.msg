@@ -27,7 +27,7 @@
 
 {120}{}{It smell bad.}
 {121}{}{You do wrong.}
-{122}{}{We no want, but you still make.}
+{122}{}{We no want, but you force.}
 {123}{}{Bad outsider! Shoo!}
 {124}{}{What tribe you from?}
 {125}{}{Our tribe never forget it!}

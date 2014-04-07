@@ -1,22 +1,22 @@
 {0}{}{.}
-{100}{}{Сейф с кодовым замком.}
-{101}{}{Перед вами сейф, запертый на сложный кодовый замок.}
-{102}{}{Перед вами сейф со вскрытым кодовым замком.}
+{100}{}{Combination safe.}
+{101}{}{You see a safe locked with complex combination lock.}
+{102}{}{You see a safe with a forced combination lock.}
 
 #Использование предметов и скиллов:
-{110}{}{Это ничего не даст, вы уже вскрыли сейф.}
-{111}{}{Вы не можете это делать во время боя!}
-{112}{}{Один из паролей подошел к замку!}
-{113}{}{Заперто}
-{114}{}{Сейф заперт на кодовый замок.}
+{110}{}{This will do nothing, you've already picked the safe.}
+{111}{}{You can't do this in combat!}
+{112}{}{One of the codes opened the safe!}
+{113}{}{Locked}
+{114}{}{The safe is locked with a combination lock.}
 
 #Использование предметов
-{120}{}{Сейф заперт на механический замок с роликовым затвором. Так как им почти не пользовались, то взломать по слуху будет почти невозможно.}
-{121}{}{Набрать код в ручную.}
-{122}{}{Попытаться взломать.}
-{123}{}{Уйти.}
+{120}{}{The safe is locked with a dial combination mechanism. As it has seen virtually no use, picking it by sound would be nearly impossible.}
+{121}{}{Dial a code.}
+{122}{}{Attempt to pick.}
+{123}{}{leave.}
 
-{124}{}{Код: }
+{124}{}{Code: }
 {125}{}{ -- }
 {126}{}{}
 {127}{}{}
@@ -34,18 +34,18 @@
 {138}{}{9}
 {139}{}{0}
 
-{140}{}{Еще.}
-{141}{}{Назад.}
-{142}{}{Удалить.}
-{143}{}{Завершить.}
+{140}{}{More.}
+{141}{}{Back.}
+{142}{}{Delete.}
+{143}{}{Finish.}
 {144}{}{}
 
-{145}{}{Код введен неверно.}
-{146}{}{Очистить и начать заново.}
-{147}{}{Завершить.}
+{145}{}{The code is incorrect.}
+{146}{}{Clear and try again.}
+{147}{}{Finish.}
 
-{150}{}{Введен правильный код! Сейф открывается.}
-{151}{}{С таким восприятием, как у вас, вы не сможете услышать даже выстрел под ухом, не то что подобрать на слух код.}
-{152}{}{Ваших навыков явно недостаточно для вскрытия замка. Даже не пытайтесь - ничего не получится, слишком это сложно для вас.}
-{153}{}{Ничего не происходит. Попробуйте еще раз, более внимательно.}
-{154}{}{Попробовать еще раз.}
+{150}{}{The code is correct! The safe opens.}
+{151}{}{With perception like yours you wouldn't be able to hear a gunshot if it was fired next to your ear, let alone pick a lock by sound.}
+{152}{}{Your skills are nowhere near enough to pick this lock. Don't even try, it's just way too difficult for you.}
+{153}{}{Nothing happens. Try again paying more attention.}
+{154}{}{Try again.}
