@@ -7,10 +7,10 @@
 {106}{}{You'll need something powerful.}
 
 #Применение навыков и предметов
-{110}{}{Might makes right! The lock falls off. You earn 1000 exp. points and improve your melee weapons skill.}
-{111}{}{You've dismantled the lock and opened the door. You earn 1000 exp. points and improve your repair skill.}
-{112}{}{You've forced the lock. You earn 1000 exp. points and improve your lockpicking skill.}
-{113}{}{You've tricked the code lock with a security exploit. You earn 1000 exp. points and improve your science skill.}
+{110}{}{Might makes right! The lock falls off.}
+{111}{}{You've dismantled the lock and opened the door.}
+{112}{}{You've forced the lock.}
+{113}{}{You've tricked the code lock with a security exploit.}
 {114}{}{This does nothing.}
 {115}{}{What did you expect? This case is way more serious!}
 {116}{}{Good thinking, but your skills leave much to be desired.}
