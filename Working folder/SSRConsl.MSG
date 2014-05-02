@@ -1,33 +1,33 @@
 {0}{}{}
-{100}{}{Вы видите консоль.}
-{101}{}{Перед вами консоль для ввода пароля. Видимо, она управляет рядом стоящей дверью.}
-{102}{}{Вы уже взломали эту консоль, теперь от нее нет пользы.}
-{103}{}{Мне это не нужно}
-{104}{}{К этой консоли не поступает электричество.}
-{105}{}{Нет энергии}
+{100}{}{You see a console.}
+{101}{}{You see a password entry console. It got to be controlling the door nearby.}
+{102}{}{You've already hacked this console, it has no use for you anymore.}
+{103}{}{I don't need this}
+{104}{}{This console has no power supply.}
+{105}{}{No power}
 
 #Начало диалога:
-{110}{}{Здравствуйте. Пожалуйста, введите пароль.}
-{111}{}{Хм, не попробовать ли эти пароли на бумажке директора из АЭС?}
-{112}{}{Попытаться угадать пароль.}
-{113}{}{Выход.}
+{110}{}{Welcome. Please enter password.}
+{111}{}{Hmm, maybe I should try these passwords from Power Plant manager's note?}
+{112}{}{Try to guess the password.}
+{113}{}{Exit.}
 
-{114}{}{Пароль принят. Добро пожаловать!}
-{115}{}{Завершить.}
-{116}{}{Вы обманули систему защиты и получаете }
-{117}{}{ опыта.}
-{118}{}{Пароль введен верно.}
-{119}{}{Что ж, пора воспользоваться привилегиями в чужом кабинете.}
+{114}{}{Password accepted. Welcome!}
+{115}{}{Finish.}
+{116}{}{You hack the security system and gain }
+{117}{}{ exp. points.}
+{118}{}{Password incorrect.}
+{119}{}{Well, time to enjoy the comforts of someone's office.}
 
 #Процесс подбора пароля
-{120}{}{Система принимает пароль, состоящий только из латинских букв. Остается лишь перебирать массу вариантов.}
-{121}{}{Ввести буквы пароля.}
-{122}{}{Вы вводите пароль: }
+{120}{}{The system only accepts passwords consisting of letters of the English alphabet. All that's left for you to do is cycle through variants.}
+{121}{}{Enter the password.}
+{122}{}{You are entering: }
 {123}{}{?}
-{124}{}{Удалить последнюю букву.}
-{125}{}{Очистить значения и начать заново.}
-{126}{}{Пароль неверен.}
-{127}{}{Пароль принят! Добро пожаловать!}
+{124}{}{Clear last letter.}
+{125}{}{Clear everything and start over.}
+{126}{}{Password incorrect.}
+{127}{}{Password accepted. Welcome!}
 {128}{}{}
 {129}{}{}
 {130}{}{}
@@ -58,7 +58,7 @@
 {173}{}{X}
 {174}{}{Y}
 {175}{}{Z}
-{176}{}{Еще.}
-{177}{}{Завершить ввод пароля.}
-{178}{}{В начало алфавита.}
-{179}{}{Назад.}
+{176}{}{-more-}
+{177}{}{Finish entering the password.}
+{178}{}{To the beginning of the alphabet.}
+{179}{}{Back.}
