@@ -1,43 +1,43 @@
-{100}{}{Вы видите игральный автомат.}
-{101}{}{Этот автомат не работает. Интересно, осталась ли мелочь внутри?}
+{100}{}{You see a slot machine.}
+{101}{}{This slot machine isn't working. You wonder if there might be some change left inside.}
 
 #Использование навыков и пр. на автомате:
-{102}{}{Голыми руками вы ничего не сделаете.}
-{103}{}{Автомат не работает. И как вы собираетесь играть?}
-{104}{}{Автомат не работает, а заглянуть внутрь без технического инвентаря невозможно.}
-{105}{}{Вы не смогли подобрать нужные отмычки, чтобы вскрыть автомат.}
-{106}{}{Вы хорошенько размахнулись и выбили ржавое железо. Теперь вся мелочь ваша.}
-{107}{}{С помощью инструментов вы без труда вскрываете железо и забираете всю мелочь.}
-{108}{}{Вы недостаточно сильно размахнулись и не смогли выбить металлическую крышку.}
-{109}{}{Ржавый замок в автомате легко поддается отмычкам. Теперь вся мелочь ваша.}
+{102}{}{You can't do anything with bare hands.}
+{103}{}{This slot machine isn't working. How do you expect to gamble?}
+{104}{}{The slot machine isn't working, and you can't peek inside without proper tools.}
+{105}{}{You couldn't pick the right lockpicks to force the slot machine.}
+{106}{}{You take a good swing and kick the rusted casing off. Now all the change belongs to you.}
+{107}{}{Using the proper tools it's no trouble for you to open the machine and pocket the change.}
+{108}{}{You were unable to kick the lid off this thing.}
+{109}{}{The rusty lock on this machine presents no challenge. All the change belongs to you now.}
 
 #Когда взломал автомат:
-{110}{}{Вот так-то!}
-{111}{}{Пляши, бэби!}
-{112}{}{Пляши, детка!}
-{113}{}{Ха-ха!}
-{114}{}{Как раз хватит на жвачку.}
-{115}{}{Эй, здесь осталась мелочь!}
-{116}{}{Черт, до чего приятно!}
-{117}{}{То-то же!}
-{118}{}{Поцелуй меня в зад! Я это сделал!}
-{119}{}{Я богат!}
+{110}{}{Yeah, just like that!}
+{111}{}{Take it, baby!}
+{112}{}{Take it, babe!}
+{113}{}{Ha-ha!}
+{114}{}{Some pocket money, huh.}
+{115}{}{Hey, there's still some change left in here!}
+{116}{}{Boy, is it satisfying!}
+{117}{}{That's better!}
+{118}{}{Kiss my ass! I did it!}
+{119}{}{Now I'm rich!}
 
-{120}{}{Вы уже вскрыли этот автомат и забрали оттуда всю мелочь. Ничего не осталось.}
-{121}{}{Бесполезно}
-{122}{}{Голыми руками ничего не сделать - автомат не работает.}
-{123}{}{Этим вы не сможете ничего сделать.}
-{124}{}{Вы приобрели }
-{125}{}{ баксов.}
+{120}{}{You've already forced this slot machine and cleared it of all change. There's nothing left.}
+{121}{}{No use}
+{122}{}{You can't do anything with bare hands - the machine isn't working.}
+{123}{}{You can't do anything with this.}
+{124}{}{You found }
+{125}{}{ bucks.}
 
 #Женские реплики (Иван):
-{1110}{}{Вот так-то!}
-{1111}{}{Пляши, бэби!}
-{1112}{}{Пляши, детка!}
-{1113}{}{Ха-ха!}
-{1114}{}{Как раз хватит на жвачку.}
-{1115}{}{Эй, здесь осталась мелочь!}
-{1116}{}{Черт, до чего приятно!}
-{1117}{}{То-то же!}
-{1118}{}{Поцелуй меня в зад! Я это сделала!}
-{1119}{}{Я богата!}
+{1110}{}{Yeah, just like that!}
+{1111}{}{Take it, baby!}
+{1112}{}{Take it, babe!}
+{1113}{}{Ha-ha!}
+{1114}{}{Some pocket money, huh.}
+{1115}{}{Hey, there's still some change left in here!}
+{1116}{}{Boy, is it satisfying!}
+{1117}{}{That's better!}
+{1118}{}{Kiss my ass! I did it!}
+{1119}{}{Now I'm rich!}
