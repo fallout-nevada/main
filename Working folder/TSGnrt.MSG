@@ -1,37 +1,37 @@
-{100}{}{Контроллер подачи электроэнергии.}
+{100}{}{Power supply controller.}
 
 #Описания:
-{101}{}{Вы видите контроллер подачи энергии из резервуаров подстанции в здания базы. Он поврежден.}
-{102}{}{Нужен ремонт и замена деталей}
-{103}{}{Вы видите сгоревший контроллер подачи электроэнергии в здания базы. Он гудит и источает ток.}
-{104}{}{Работает}
+{101}{}{You see a power supply controller that is responsible for power supply to base facilities. It is damaged.}
+{102}{}{Needs repair and part replacement}
+{103}{}{You see a burnt out power supply controller. It's buzzing and sparkling.}
+{104}{}{It's working}
 
 #Использование предметов:
-{110}{}{Что вы собираетесь ремонтировать? Сперва внимательно осмотрите эту технику.}
-{111}{}{Сперва нужно изучить повреждения}
-{112}{}{Эта техника не нуждается в ремонте, т.к. находится в рабочем состоянии.}
-{113}{}{В ремонте не нуждается}
+{110}{}{What in particular are you planning on repairing? Examine the piece of equipment first.}
+{111}{}{Got to assess the damage first}
+{112}{}{This machinery does not need repairs, as it is in working condition.}
+{113}{}{No repairs needed}
 
 #использование навыков:
-{114}{}{Техника работает. Вы не знаете, надолго ли...}
-{115}{}{У контроллера повреждены кабели, но они по-прежнему находятся под напряжением.}
-{116}{}{Нужен металлолом для замены деталей}
+{114}{}{The equipment is working so far...}
+{115}{}{Some cables of this controller are damaged, but mind that they are still alive.}
+{116}{}{Some spare parts are required here}
 
 #Починка:
-{117}{}{Вы не сможете починить генератор без новых деталей.}
-{118}{}{Вы не сможете ничего сделать голыми руками. Здесь нужны инструменты.}
-{119}{}{Нужны инструменты}
+{117}{}{You can't fix the generator without spare parts.}
+{118}{}{You can't do anything with your bare hands. You'll need some tools.}
+{119}{}{Tools are a must here}
 
-{120}{}{Система в порядке, а вот вас немного "поджарило"!}
-{121}{}{Вот дерьмо!}
-{122}{}{Система в полном порядке!... на некоторое время.}
-{123}{}{Готово!}
+{120}{}{The system's all right, but you got a little "fried"!}
+{121}{}{Dang it!}
+{122}{}{The system's gonna be all right! ...for some time.}
+{123}{}{Done!}
 
-{124}{}{Починка не удалась. Что-то вы делаете не так.}
-{125}{}{Ваших навыков в ремонте не достаточно.}
-{126}{}{Не получилось}
-{127}{}{Не хватает умения}
+{124}{}{Repair failed. You must be doing something wrong.}
+{125}{}{Your repair skill is insufficient.}
+{126}{}{Didn't work out}
+{127}{}{Not enough skill}
 
 #Диалог:
-{130}{}{Перед вами контроллер подачи электроэнергии в распределительные системы из резервуаров подстанции. Далее электричество должно поступать в строения базы, но некоторые кабели и детали повреждены и обгорели, поэтому половина зданий обесточена. Дело отнюдь не сложное, но нужны новые детали и инструменты, а также техническое мастерство, чтобы вас не поджарило как цыпленка.}
-{131}{}{Ясно, нужен металлолом для замены деталей и инструменты.}
+{130}{}{You see a power supply controller that is supposed to supply power to the distributing systems. From there the power should be distributed around the facilities, but several parts and cables are either burnt out or damaged, so half of the buildings are blacked out. It's nothing too complicated, but one would need proper tools and parts, and also some deftness in order to not get baked like a turkey.}
+{131}{}{Got it, I'll need tools and parts for replacement.}
