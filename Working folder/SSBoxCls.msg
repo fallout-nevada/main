@@ -19,4 +19,4 @@
 {118}{}{You break the lock open using your physical strength. The owner of this chest will hardly appreciate it.}
 {119}{}{You don't have the necessary strength to break open this lock.}
 {120}{}{Ughh}
-{121}{}{Your bobby pin breaks inside the lock, jamming it.}
+{121}{}{Your bobby pin snaps inside the lock, jamming it.}
