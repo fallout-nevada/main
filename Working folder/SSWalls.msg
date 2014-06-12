@@ -2,7 +2,7 @@
 
 {101}{}{You examine the water tank and discover some muddy rainwater in it. Looks like that's what the raiders drink when they can't find anything stronger. They all must suffer from flux. And if you spoil the water any further - it may actually become fatal even for them.}
 {102}{}{Leave.}
-{103}{}{ You have some poison in your posession, but it's not enough for such an amount of water.}
+{103}{}{ You have some poison in your possession, but it's not enough for such an amount of water.}
 {104}{}{ You have enough poison to lethally intoxicate all the raiders.}
 {105}{}{Release poison into the water tank.}
 {106}{}{You've released deadly poison into the water tank. Now everyone who drinks this water will die... Or so you hope. You should check back in a day or so to verify the veracity this theory.}

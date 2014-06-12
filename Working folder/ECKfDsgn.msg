@@ -21,10 +21,10 @@
 {202}{}{Yes, I know, you expect me to give you some kind of super-dooper device. Sorry to ruin your expectations, but this isn't happening.}
 {203}{}{What else would you like me to do? Beat the game for you?}
 {204}{}{Yes, go on, I still can't bring myself to break it to you...}
-{205}{}{What, you like poking a man with an arrow so much? But what wouldn't you do for a present, right?}
+{205}{}{What, you like poking a man with an arrow so much? But what wouldn't you do for a gift, right?}
 {206}{}{Yes, right! Almost there!}
 {207}{}{Sure. You earned it. I'll go get it now... no, wait. Not yet.}
 
-{210}{}{Damn, so much time and effort for some uber device? A round of applause is in order, I just have to reward you somehow now. Here, a limitless source of experience... well, as long as you have the nerve.}
+{210}{}{Damn, so much time and effort for some uber device? A round of applause is in order, I just have to reward you somehow now. Here, a limitless source of experience... well, as long as you got the nerve.}
 {211}{}{[Leave]}
 {212}{}{I think I've said it all.}
