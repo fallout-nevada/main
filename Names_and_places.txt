@@ -21,3 +21,5 @@ Beiyang Military Medical Center - Бэйянский военно-медицин
 Матка - Nest
 Шпилька - bobby pin
 Рябой - Freckles
+топливный контроллер - fuel cell controller
+топливный регулятор - fuel cell regulator
