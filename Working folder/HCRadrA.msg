@@ -1,32 +1,32 @@
-{100}{}{Это рейдер.}
-{101}{}{Один из стервятников Большого Луи, сопровождающий вас до Хоторна.}
-{102}{}{Нет! Они убили Кенни!}
+{100}{}{A raider.}
+{101}{}{One of Big Louie's vultures, chaperoning you to Hawthorne.}
+{102}{}{oh no! They killed Kennie!}
 
 #Когда по напарнику попадает турель (для героя-мужчины):
-{104}{}{Твою мать!}
-{105}{}{Куда ты меня завел?!}
-{106}{}{Ах, ты! Я же предупреждал!}
-{107}{}{Гадство! Я тебе не телохранитель!}
-{108}{}{Когда я его прикончу, тебе, мачо, будет хреново!}
-{109}{}{Мачо, мать твою! Я тебе это припомню!}
+{104}{}{Goddammit!}
+{105}{}{Where the hell are you leading us?!}
+{106}{}{You little! I warned you!}
+{107}{}{Shit! I'm not your fucking bodyguard!}
+{108}{}{When I'm done with him, you're next on my list, macho!}
+{109}{}{Dammit, macho! I'll remember this!}
 
 #Диалог:
-{110}{}{Ну и? Будешь лясы точить?}
-{111}{}{Найди прикрытие, мне надо разведать ситуацию.}
-{112}{}{Пошли дальше, я нашел безопасный путь.}
-{113}{}{Стой здесь, мне надо разведать ситуацию.}
-{114}{}{Понял, отстал.}
+{110}{}{So? Are you gonna just keep talking?}
+{111}{}{Find some cover, I got to do some recon.}
+{112}{}{Let's get going, I found a safe passage.}
+{113}{}{Wait here, I have some scouting to do.}
+{114}{}{Gotcha.}
 
-{115}{}{Так, мачо, я отдыхаю, не тревожь меня}
+{115}{}{I'm resting, macho. Do not disturb}
 
 #Женские реплики (Иван):
-{1104}{}{Твою мать!}
-{1105}{}{Куда ты меня завела?!}
-{1106}{}{Ах, ты! Я же предупреждал!}
-{1107}{}{Гадство! Я тебе не телохранитель!}
-{1108}{}{Когда я его прикончу, тебе, мучача, будет хреново!}
-{1109}{}{Мучача, мать твою! Я тебе это припомню!}
+{1104}{}{Goddammit!}
+{1105}{}{Where the hell are you leading us?!}
+{1106}{}{You little! I warned you!}
+{1107}{}{Shit! I'm not your fucking bodyguard!}
+{1108}{}{When I'm done with him, you're next on my list, muchacha!}
+{1109}{}{Dammit, muchacha! I'll remember this!}
 
-{1112}{}{Пошли дальше, я нашла безопасный путь.}
-{1114}{}{Ясно, отстала.}
-{1115}{}{Так, мучача, я отдыхаю, не тревожь меня}
+{1112}{}{Let's get going, I found a safe passage.}
+{1114}{}{Gotcha.}
+{1115}{}{I'm resting, muchacha. Do not disturb}

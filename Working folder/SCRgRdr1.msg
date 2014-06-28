@@ -1,37 +1,37 @@
-{100}{}{Отмороженный рейдер.}
-{101}{}{Это ваш первый соперник на ринге рейдеров.}
+{100}{}{Frenzied raider.}
+{101}{}{It's your first adversary on the raiders' ring.}
 
-{102}{}{ААА!!! СЛАДКАЯ БОЛЬ!!!}
+{102}{}{AAAH!!! SWEET PAIN!!!}
 
-{103}{}{И это все, что ты можешь?}
-{104}{}{Вот падла!}
-{105}{}{Да я, да таких, как ты, на приборе вертел!}
-{106}{}{Пустим кровь свинье! *визжит*}
-{107}{}{Братва, подсобите с этой тварью!}
-{108}{}{Ты же ничем не болеешь? Я тут собираюсь сожрать твою печень с доброй пинтой крови!}
-{109}{}{Твою...}
+{103}{}{Is that all you got?}
+{104}{}{You mah bitch!}
+{105}{}{I fuck your mother!}
+{106}{}{Let it bleed! *squeaks*}
+{107}{}{Guys, help me up with this piece of shit!}
+{108}{}{You're not sick, are you, buddy? Cause I'm about to eat yer liver and wash it down with a good gallon of yer blood!}
+{109}{}{God damn...}
 
-{110}{}{ААА!!! ВСТРЕТИМСЯ В АДУ!}
+{110}{}{AAAH!!! SEE YOU IN HELL!}
 
-{111}{}{Противник "опущен", и вы получаете 300 опыта.}
-{112}{}{Противник "опущен", и вы получаете 300 опыта.}
+{111}{}{Your opponent is down, you get 300 exp. points.}
+{112}{}{Your opponent is down, you get 300 exp. points.}
 
-{113}{}{Выходи, сестричка! Развлечемся!}
-{114}{}{Да я тебя на британский флаг порву!}
+{113}{}{Come out, sissie! Let's have some fun!}
+{114}{}{I'll shred you into pieces!}
 
 #Импорт, общее: ловушки:
-{200}{}{Эй! Какого черта ты там делаешь?!}
-{201}{}{Вас заметили.}
+{200}{}{Hey! What the hell are you doing over there?!}
+{201}{}{You've been spotted.}
 
-{202}{}{МАМА!!! МАМА!!!}
-{203}{}{Брысь отсюдова!!!}
-{204}{}{Быстрей!!!}
-{205}{}{Спасите!!!}
-{206}{}{Ааааа!!!}
-{207}{}{БОМБА!!!}
-{208}{}{Злой чужак!!!}
+{202}{}{Mommie!!! Mommie!!!}
+{203}{}{Shoo!!!}
+{204}{}{Faster!!!}
+{205}{}{Help!!!}
+{206}{}{Aaaah!!!}
+{207}{}{It's a bomb!!!}
+{208}{}{Mean outsider!!!}
 
-{210}{}{Дети разбегаются от ваших сомнительных побрякушек.}
+{210}{}{Children disperse at the sight of your dubious trinkets.}
 
 #Женские реплики (Kerb)
-{1108}{}{Ты же ничем не больна? Я тут собираюсь сожрать твою печень с доброй пинтой крови!}
+{1108}{}{You're not sick, are you, missy? Cause I'm about to eat yer liver and wash it down with a good gallon of yer blood!}

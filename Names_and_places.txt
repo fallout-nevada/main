@@ -24,3 +24,4 @@ Beiyang Military Medical Center - Бэйянский военно-медицин
 топливный контроллер - fuel cell controller
 топливный регулятор - fuel cell regulator
 Большой Луи - Big Louie
+Хоторн - Hawthorne
