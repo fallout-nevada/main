@@ -1,34 +1,34 @@
-{100}{}{Вы видите командира отряда.}
-{101}{}{Вы видите командира небольшого отряда, его тренера и духовного наставника.}
+{100}{}{You see a drill sergeant.}
+{101}{}{You see a platoon commander, its instructor and mentor.}
 
 #Попытка заговорить
-{102}{}{Штатские?! Ну, это не ко мне.}
+{102}{}{Civilians?! I have no time for this.}
 
 #Когда бойцы отжимаются
-{110}{}{Живей-живей, девочки!}
-{111}{}{Вот так!}
-{112}{}{Раз-два! Раз-два!}
-{113}{}{Не ныть, не ссать!}
-{114}{}{Я сделаю из вас мужчин, даже если вы сдохнете!}
-{115}{}{А теперь на одной руке!}
-{116}{}{Не спать! Я все вижу!}
-{117}{}{Отставить, рядовой!}
-{118}{}{Ну кто так отжимается?!}
-{119}{}{Мешки с костями! Это вам не очко драить!}
-{120}{}{Шевелимся-шевелимся!}
+{110}{}{Come on, ladies!}
+{111}{}{Like that!}
+{112}{}{One-two! One-two!}
+{113}{}{Cut out the whining!}
+{114}{}{I'll make men out of you, even if it kills you!}
+{115}{}{Now with one hand!}
+{116}{}{Now with no hands!}
+{117}{}{No slacking, private!}
+{118}{}{It's not how you do push-ups!}
+{119}{}{Hey bone-bags! You'll be cleaning latrines for the rest of the day if you don't start trying this moment!}
+{120}{}{Move it, move it!}
 
 #Когда бойцы дерутся
-{130}{}{Так! Слева его! Слева!}
-{131}{}{Перед вами враг!}
-{132}{}{Злоба! Я не вижу злобы в ваших глазах!}
-{133}{}{Оскал! Скалиться, я сказал!!!}
-{134}{}{Живей-живей!!!}
-{135}{}{Парочка молокососов из вас еще станут мужчинами!}
-{136}{}{Хрена с два я дам вам зеленый берет!}
-{137}{}{Аргх!!!}
-{138}{}{Вот так вот!}
-{139}{}{Вот это был размах!}
-{140}{}{Учись, молодняк!}
-{141}{}{И чтобы *эти* стали воинами?!}
-{142}{}{::разочарованно клацает языком::}
-{143}{}{Сквозь огонь пройдем, сквозь дым. Все, что нужно, защитим!}
+{130}{}{Yes! With the left! Left!}
+{131}{}{Before you stands the enemy!}
+{132}{}{Anger! I don't see anger in your eyes!}
+{133}{}{Grin! Show me your grin!!!}
+{134}{}{Come on!!!}
+{135}{}{Some of you still have a chance at becoming men!}
+{136}{}{Talk about green berets!}
+{137}{}{Arrrgh!!!}
+{138}{}{Just like that!}
+{139}{}{That's what I call a swing!}
+{140}{}{Learn from me while I'm still around!}
+{141}{}{*These*? Warriors?!}
+{142}{}{*Tsk Tsk Tsk*}
+{143}{}{*You'll take my life but I'll take yours too*}

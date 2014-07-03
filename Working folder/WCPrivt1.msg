@@ -1,21 +1,21 @@
-{100}{}{Вы видите горожанина.}
-{101}{}{Перед вами обыкновенный житель Ветра Войны.}
+{100}{}{You see a townsman.}
+{101}{}{You see a common Wind of War citizen.}
 
-{102}{}{Вы бы не ходили тут...}
+{102}{}{You shouldn't be out here...}
 
 #Наем проводника:
-{500}{}{Вам разве разрешают бродить здесь? Вы к кому?}
-{501}{}{Я ищу смельчаков, которые хотят заработать на легкой поездке с ветерком.}
-{502}{}{Точно не к вам.}
-{503}{}{Так, умник! Тебе здесь не сарайчик с караванами. Иди к ним и там ветерок заказывай. А здесь нечего бродить без дела. Понятно?}
-{504}{}{Понятно.}
-{505}{}{Ну, если подумать... Что мне мешает заработать? К тому же если дело легкое. А чего там надо было сделать?}
-{506}{}{(объяснить суть задачи)}
-{507}{}{Ладно. Дело вроде совсем не сложное. Но меня караванщики до Солт-Лейка везти не захотят. Мне бы сперва до Вегаса добраться, а потом уже... Дай-ка посчитать... Ага. Около 1500 баксов надо.}
-{508}{}{Вот деньги. До встречи в Солт-Лейке.}
-{509}{}{Вернусь с деньгами, а пока отбой.}
+{500}{}{Are you allowed to be here? Who are you looking for?}
+{501}{}{I'm looking for daring folks who want to make some easy dough on a pleasure trip. Seen any?}
+{502}{}{Not you, that's for sure.}
+{503}{}{Hey, smartass! This isn't some caravan shack. Which is where you should be heading. And don't loiter here. Got it?}
+{504}{}{Got it.}
+{505}{}{Well, come to think of it... What's there to keep me from making some extra money? If it is as easy as you say it is. What did you say I got to do?}
+{506}{}{(explain the task)}
+{507}{}{Deal. Sounds simple enough for me. But caravaners won't take me to Salt Lake. I'll have to get to Vegas first, and then... I reckon... Yeah, that'll take about fifteen hundred to get me there.}
+{508}{}{Here's the money. See you in Salt Lake.}
+{509}{}{I'll be back with the money, don't go anywhere.}
 
-{510}{}{Вы нашли проводника. Теперь можно возвращаться в Солт-Лейк своим ходом и продолжать свою миссию.}
+{510}{}{You got yourself a conductor. Now you can go back to Salt Lake and proceed with your mission.}
 
 #Женские реплики
-{1503}{}{Так! Самая умная? Тебе здесь не сарайчик с караванами. Иди к ним и там ветерок заказывай. А здесь нечего бродить без дела. Понятно?}
+{1503}{}{Hey, smartass! This isn't some caravan shack. Which is where you should be heading. And don't loiter here. Got it?}

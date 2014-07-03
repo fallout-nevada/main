@@ -1,28 +1,28 @@
-{100}{}{Вы видите рядового.}
-{101}{}{Перед вами рядовой.}
+{100}{}{You see a private.}
+{101}{}{It's a private, a soldier of the lowest rank.}
 
-{102}{}{Внимание! Противник!}
-{103}{}{Я предупреждал! Кого-то придется примерно наказать!}
+{102}{}{Alarm! We're under attack!}
+{103}{}{I warned you! Someone's gonna get punished!}
 
 #Стартовая ветка
-{110}{}{Стой! Это казармы, тебе сюда нельзя. Пошли на выход. Живей-живей!}
-{111}{}{Где хочу - там и хожу, понял? Или тебе объяснить жестами?}
-{112}{}{Казарма? А я думал, это отель...}
-{113}{}{Что? Опять вы?! Мне это не нравится. Еще раз без дела увижу в казарме - я *лично* ноги оторву! Ясно?}
+{110}{}{Hold it! You're not allowed in the barracks. Get out. Move it!}
+{111}{}{I walk wherever I want, got it, grunt? Or shall I show you in mime?}
+{112}{}{Barracks? I thought it was a hotel of some sort...}
+{113}{}{What? You again?! Look, I don't like this. If I see you in the barracks again, I'll tear you limb from limb *personally*! Understood?}
 
 #Наем проводника:
-{501}{}{А не надоело торчать в этой казарме? Есть способ повеселиться. Мне нужен проводник для поездки на поезде.}
-{502}{}{Судя по твоему сленгу, солдаты в этом городишке скорее напоминают сокамерников. Хе-хе.}
-{503}{}{Так, слушай сюда. Говорят, тут один чужак сдает наших людей и пускает шептуна по ветру. Мы таких не любим, имей в виду. А теперь - выйди вон из казармы!}
-{504}{}{Хорошо, не надо так нервничать. Я все понял.}
-{505}{}{Ну, если подумать... Ты вроде не из таких мразей, которых мы в нужнике топим. Ладно, попробуй, убеди меня.}
-{506}{}{(объяснить суть задачи)}
-{507}{}{Черт, я согласен! Мне нужны деньги, 2000 баксов, до Солт-Лейка я своим ходом не доберусь, а с караванщиками договариваться не умею. У нас с ними разные понятия, понимаешь?}
-{508}{}{Понимаю. Вот деньги. Встретимся в Солт-Лейке.}
-{509}{}{Понимаю. Теперь пойду искать столько денег. Ох, две тысячи...}
-{510}{}{Вы нашли проводника. Теперь можно возвращаться в Солт-Лейк своим ходом и продолжать свою миссию.}
+{501}{}{Aren't you sick of sticking in these barracks? I know a way you could have some fun. I need a conductor for a train ride.}
+{502}{}{Judging from your vernacular, soldiers here are more like inmates. He-he.}
+{503}{}{Look here, pal. There's a word in the street of a suspicious fellow sniffing around, being all suspicious, you know. This couldn't by any chance be you, could it? We don't much like this kind of people here, keep that in mind. Now clear the premises!}
+{504}{}{All right, all right. No need to get all uptight.}
+{505}{}{Well, let me think... You don't look like the kind we dip face down in latrines. All right, go ahead, convince me.}
+{506}{}{(explain the task)}
+{507}{}{Damn, I'm in! I'll need some money though, 2000 bucks. I can't get to Salt Lake on my own, and me and caravan drivers don't see eye to eye, if you know what I mean.}
+{508}{}{I see. Here's the money. See you in Salt Lake.}
+{509}{}{I see. I'll try to get the money ASAP. Damn, two grand is quite a sum...}
+{510}{}{You got yourself a conductor. Now you can go back to Salt Lake and proceed with your mission.}
 
 #Женские реплики (Kerb)
-{1112}{}{Казарма? А я думала, это отель...}
-{1503}{}{Так, слушай сюда. Говорят, тут одна пришлая сдает наших людей и пускает шептуна по ветру. Мы таких не любим, имей в виду. А теперь - выйди вон из казармы!}
-{1504}{}{Хорошо, не надо так нервничать. Я все поняла.}
+{1112}{}{Barracks? I thought it was a hotel of some sort...}
+{1503}{}{Look here, girl. There's a word in the street of a suspicious lass sniffing around, being all suspicious, you know. This couldn't by any chance be you, could it? We don't much like this kind of people here, keep that in mind. Now clear the premises!}
+{1504}{}{All right, all right. No need to get all uptight.}

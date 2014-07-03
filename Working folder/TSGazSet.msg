@@ -1,24 +1,24 @@
 {0}{}{.}
-{100}{}{Это газовая установка.}
-{101}{}{Перед вами установка для запуска газа в вентиляцию ангара.}
-{102}{}{Вы не можете это делать во время боя!}
+{100}{}{It's a gas release system.}
+{101}{}{You see an installation designed to release gas into the hangar ventilation system.}
+{102}{}{You can't do this in combat!}
 
-{110}{}{Вы заправляете установку баллоном.}
-{111}{}{Первый баллон подключен}
-{112}{}{Второй баллон подключен}
-{113}{}{Третий баллон подключен}
-{114}{}{Установка полностью заправлена. Осталось только ввести пароль и нажать на кнопку.}
+{110}{}{You install a gas cylinder into the system.}
+{111}{}{First cylinder attached}
+{112}{}{Second cylinder attached}
+{113}{}{Third cylinder attached}
+{114}{}{The installation is fully functional. All that's left is to enter the code and push the button.}
 
-{120}{}{Эта установка позволила бы выпустить в вентиляцию газ, но в ней нет ни одного баллона.}
-{121}{}{Эту установку можно запустить *только* при наличии трех баллонов.}
-{122}{}{Нужны баллоны с газом}
-{123}{}{Не хватает баллонов с газом}
-{124}{}{Эта установка больше вам не пригодится.}
-{125}{}{Установка бесполезна}
-{126}{}{Завершить.}
+{120}{}{This installation would release gas into the ventilation, but it doesn't have a single gas cylinder.}
+{121}{}{This installation can be run *only* when there are three gas cylinders attached.}
+{122}{}{Needs gas cylinders}
+{123}{}{Not enough gas cylinders}
+{124}{}{This installation has played its part.}
+{125}{}{Installation useless}
+{126}{}{Finish.}
 
-{127}{}{Ввести код.}
-{128}{}{Аппарат полностью заправлен. Осталось только ввести код и нажать на кнопку.}
+{127}{}{Enter code.}
+{128}{}{The apparatus is completely filled. All that's left is to enter the code and push the button.}
 
 {129}{}{0}
 {130}{}{1}
@@ -31,32 +31,32 @@
 {137}{}{8}
 {138}{}{9}
 
-{139}{}{Еще.}
-{140}{}{Назад.}
-{141}{}{Завершить.}
-{142}{}{Удалить.}
+{139}{}{-more-.}
+{140}{}{Back.}
+{141}{}{Finish.}
+{142}{}{Clear.}
 {143}{}{ -- }
-{144}{}{Код: }
+{144}{}{Code: }
 
-{145}{}{Код введен неверно.}
-{146}{}{Завершить.}
-{147}{}{Очистить и начать заново.}
+{145}{}{Code incorrect.}
+{146}{}{Finish.}
+{147}{}{Clear and start over.}
 
-{148}{}{Установка полностью готова к работе. Остается лишь нажать на кнопку.}
-{149}{}{Начать процесс.}
-{150}{}{Код введен верно! Установка полностью готова к работе. Остается лишь нажать на кнопку.}
+{148}{}{The installation is fully functional. All that's left is to enter the code and push the button.}
+{149}{}{Initiate the release.}
+{150}{}{Code accepted! The installation is ready to run. All that's left to do is push the button.}
 
-{151}{}{Предупреждение! Газ смертельно опасен. Вы уверены, что хотите запустить его в вентиляционную систему?}
-{152}{}{Да, уверен.}
-{153}{}{Нет, позже.}
-{154}{}{Внимание! Опасная ситуация! Незамедлительно покиньте зону карантина. До запуска газа осталось }
-{155}{}{Бежать...}
-{156}{}{Выход.}
+{151}{}{Warning! Lethal gas is about to be released into the ventilation system. Do you confirm?}
+{152}{}{Yes.}
+{153}{}{No, let's do this later.}
+{154}{}{Warning! Lethal gas is about to be released into the ventilation system! Evacuate the premises immediately.  }
+{155}{}{Run...}
+{156}{}{Exit.}
 
-{157}{}{Внимание! Осталось }
-{158}{}{ секунд!}
-{159}{}{ секунд.}
-{160}{}{Газовая атака началась!}
+{157}{}{Warning! }
+{158}{}{ seconds till release!}
+{159}{}{ seconds till release.}
+{160}{}{Gas has been released!}
 
 #Женские реплики:
-{1152}{}{Да, уверена.}
+{1152}{}{Yes.}
