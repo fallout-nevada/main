@@ -1,36 +1,36 @@
-{100}{}{Вы видите Живодера.}
-{101}{}{Перед вами реднек, пасущий свое стадо. Хотя он больше похож на палача из-за грязного фартука и толстых оголенных рук.}
-{102}{}{Эй, тот пастух убегает от вас!}
+{100}{}{You see Flayer.}
+{101}{}{You see a hick looking after his herd. His appearance resembles that of an executioner with his filthy apron and massive bare arms.}
+{102}{}{Hey, that shepherd is running away from you!}
 
 #Первый разговор
-{110}{}{Так, ты все-таки меня нашел. Я ничего плохого не делал, просто вывел своих браминов на пастбище!}
-{111}{}{Почему тогда бегаешь от меня?}
-{112}{}{А, так ты не из этих тупорылых идиотов из Солт-Лейка? Ну, тогда не мельтеши здесь.}
-{113}{}{А почему нет?}
-{114}{}{Потому что эти края не в почете у жителей города, и тебе лучше не знать, почему.}
-{115}{}{Ну как скажешь.}
-{116}{}{Вот и отлично. Тогда я пойду заниматься своим стадом.}
-{117}{}{Нет, постой. Кто живет в том большом отеле? Он заперт, но внутри явно живут люди.}
-{118}{}{[Оставить]}
+{110}{}{So, ya got me huh. I ain't done nothin' wrong, just tendin' mah brahmins, is all!}
+{111}{}{Then why the hell were you running away?}
+{112}{}{Oh, so yer not one of them Salt Lake fools? Well then ya better not be pokin' about here.}
+{113}{}{Why not?}
+{114}{}{Cause town folks don't much appreciate these parts, and yer better off not knowin' why.}
+{115}{}{Whatever.}
+{116}{}{All righty then. I'll get back to mah herd.}
+{117}{}{Wait a sec. Who lives in that grand hotel? The doors are locked, but it's clearly inhabited.}
+{118}{}{[Leave]}
 
 #Ответ, кто в отеле живет
-{119}{}{Послушай, тебе лучше не знать этого, скиталец. Занимайся своими делами.}
-{120}{}{Говори сейчас, сукин сын! Или потом тебе будет мешать сломанная челюсть!!!}
-{121}{}{Я к ним по делу. По... *важному* делу. Думаю, ты меня понял.}
-{122}{}{Ну и черт с тобой!}
+{119}{}{Listen, ya really don't want to know, buddy. Ya better mind yer own beeswax, if you want my advice.}
+{120}{}{Spill now, you son of a bitch! It will be much harder to do with a broken jaw!}
+{121}{}{I have business with them... *Important* business. I think you got me.}
+{122}{}{To hell with you!}
 
-{123}{}{Да ну?! Тогда я будущий шериф Солт-Лейка... В общем, оставь меня в покое!}
-{124}{}{Уф... Ну, хорошо, твои проблемы. Подойди к калитке и позвони в звонок рядом, вот так: один короткий, затем один длинный звонок, затем опять короткий. Хозяин в дальней комнате, сразу к нему иди.}
-{125}{}{Вот так бы сразу.}
-{126}{}{А, черт! Хорошо, я скажу! Но это будут твои проблемы! Там живут изгои из Солт-Лейка. Они никому не доверяют, это отчаянные люди. Если очень надо, подойди к калитке и позвони в звонок рядом, вот так: один короткий, затем один длинный звонок, затем опять короткий. Хозяин в дальней комнате, сразу к нему иди. И оставь меня в покое!}
+{123}{}{Oh yeah?! Than I am the Salt Lake sheriff... Leave me alone!}
+{124}{}{Ugh... All right, but don't come a-whinin' I ain't warned ya. Come to the gate and ring the bell this way: one short, one long and one short. The Boss is in the backroom, go straight to him.}
+{125}{}{Now that's better.}
+{126}{}{Oh dammit! All right, I'll tell ya! But that's gonna be your problem since! Salt Lake outcasts live there. They are a desperate bunch and trust no one. If you really need to get in, come to the gate and ring the bell this way: one short, one long and one short. The Boss is in the backroom, go straight to him. Now leave me alone!}
 
 #Вторичные реплики
-{127}{}{Опять ты? Не сказал бы, что это меня радует.}
-{128}{}{У тебя есть вяленое мясо?}
-{129}{}{Ага, пока.}
-{130}{}{Все! А теперь отстань от меня!}
-{131}{}{С удовольствием!}
+{127}{}{Yer here again? Boy, am I not glad to see ya.}
+{128}{}{Got any meat jerky?}
+{129}{}{Yeah, bye.}
+{130}{}{That's it. Now leave me alone!}
+{131}{}{With pleasure!}
 
 #Женские реплики:
-{1110}{}{Так, ты все-таки меня нашла. Я ничего плохого не делал, просто вывел своих браминов на пастбище!}
-{1119}{}{Послушай, тебе лучше не знать этого, скиталица. Занимайся своими делами.}
+{1110}{}{So, ya got me huh. I ain't done nothin' wrong, just tendin' mah brahmins, is all!}
+{1119}{}{Listen, ya really don't want to know, sugar. Ya better mind your own beeswax, if you want my advice.}
