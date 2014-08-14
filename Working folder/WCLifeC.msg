@@ -1,37 +1,37 @@
-{100}{}{Вы видите брата Джессики.}
-{101}{}{Вы видите жителя Ветра Войны.}
-{102}{}{А ты ничего для чужака}
-{103}{}{Иди обратно в Пустоши, обезьяна! Здесь тебе не место!}
-{104}{}{Как же мы теперь без сестры?!}
-{105}{}{*Ошибка выполнения сценария*}
+{100}{}{You see Jessica's brother.}
+{101}{}{You see a Wind of War citizen.}
+{102}{}{You're not half bad, for an outsider}
+{103}{}{Go back to the wastes, ape! This is no place for you!}
+{104}{}{What we gonna do now without our sister?!}
+{105}{}{*Script error*}
 
-{108}{}{Не то чтобы я ценитель таких решений, но как-то оно само собой вышло. Слушай, чужак, вот тебе 1000 баксов за молчание, только не поднимай шумихи, ок?}
-{109}{}{Ух ты! За такие деньги можно и помолчать...}
+{108}{}{Not that I'm an advocate of such measures, it just sort of... happened, you know. Look, outsider, here's $1000 to keep your mouth shut, keep it down now, will you?}
+{109}{}{I know how to hold my tongue when the money's right...}
 
 #Диалог
-{110}{}{Так-так, кто тут у нас? Очередной кусок мутировавшего мяса. Гы-гы... Мяса! (обращается к своему брату) Не, ну ты слышал, брат, как я загнул!? Пф-ха-ха-ха!}
-{111}{}{Смейтесь, смейтесь, шутники. Когда Роберт уведет вашу девчонку, вам уже смеяться не захочется.}
-{112}{}{Охренеть, как смешно. Если ты меня на дух не терпишь, я лучше уйду.}
-{113}{}{Охренеть, как тупо. Я лучше выйду, чтобы не слушать твоих идиотских шуточек.}
+{110}{}{Well, well, well. What do we have here? Another radiated bonebag. He-he... Like, a bag with bones in it! (talks to brother) Did you hear that, brother!? A bonebag! Pft-ha-ha-ha-ha!}
+{111}{}{You can laugh all you want, funny guys. When Robert takes away your girl, you won't be laughing anymore.}
+{112}{}{So funny! If you don't like me so much, I'll leave.}
+{113}{}{So funny... not! I'll go before I have to hear any more of your "jokes".}
 
-{114}{}{Эй, я не понял, что оно говорит? Роберт? Этот полукровка опять взялся за старое?!}
-{115}{}{Ага. А куда, по-вашему, делись ваши ключи от дома?}
-{116}{}{Роберт? Какой еще Роберт? Тебе послышалось.}
+{114}{}{I don't get it, what's it saying? Robert? That mongrel is at it again?!}
+{115}{}{Yup. Where do you think did the keys to your house go?}
+{116}{}{Robert? What Robert? You must have misheard something.}
 
-{117}{}{Ха! (обращается к брату) Эй, брат, пора кому-то карманы подчистить. Эта грязная падаль опять выделывается! (обращается к вам) Но учти, чужак, если мы не найдем у него ключей - это будет твоя последняя шутка.}
-{118}{}{Давно пора, вояки! Вперед и с песней!}
+{117}{}{Ha! (talks to brother) Hey, brother. I guess it's time to to turn out somebody's pockets. That scum of the Earth is asking for it again! (talks to you) But mark my words, outsider. If we don't find the keys on him - it would be your last joke.}
+{118}{}{Way to go, fighters! Off to war!}
 
 #Скриптовая сцена
-{120}{}{Куда направился, кусок браминьего навоза?}
-{121}{}{Э... Ребята, вам чего надо?}
-{122}{}{Карманы твои подстричь, чтобы наши ключики повыпадывали!}
-{123}{}{У меня нет ваших ключ-чей...}
-{124}{}{Заткнись!}
+{120}{}{Where do you think you're going, you piece of brahmin dung?}
+{121}{}{Hey... what do you want, guys?}
+{122}{}{To go through your pockets, in case some stray keys wandered in there!}
+{123}{}{I... don't have your keys...}
+{124}{}{Shut up!}
 {125}{}{ }
-{126}{}{Получи, тряпка!}
-{127}{}{Вот дерьмо! Что мы наделали?!}
-{128}{}{Уходим, пока нас не замели}
+{126}{}{Take this, dweeb!}
+{127}{}{Oh shit! What have we done?!}
+{128}{}{Let's split before we get busted!}
 
 #Женские реплики (Kerb):
-{1108}{}{Не то чтобы я ценитель таких решений, но как-то оно само собой вышло. Слушай, пришлая, вот тебе 1000 баксов за молчание, только не поднимай шумихи, ок?}
-{1117}{}{Ха! (обращается к брату) Эй, брат, пора кому-то карманы подчистить. Эта грязная падаль опять выделывается! (обращается к вам) Но учти, пришлая, если мы не найдем у него ключей - это будет твоя последняя шутка.}
+{1108}{}{Not that I'm an advocate of such measures, it just sort of... happened, you know. Look, outsider, here's $1000 to keep your mouth shut, keep it down now, will you?}
+{1117}{}{Ha! (talks to brother) Hey, brother. I guess it's time to to turn out somebody's pockets. That scum of the Earth is asking for it again! (talks yto you) But mark my words, outsider. If we don't find the keys on him - it would be your last joke.}
