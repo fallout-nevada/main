@@ -5,7 +5,7 @@
 {110}{}{Freeze! You move - you die!}
 {111}{}{Hey, hey! Easy! I'm not moving, see?}
 {112}{}{Hey, don't even think about touching me, pal!}
-{113}{}{Well, I'll be damned! Let's see what boss got to give me for your ass...}
+{113}{}{Well, I'll be damned! Let's see what boss has got to give me for your ass...}
 {114}{}{(The look-out handcuffs you and takes you to a two-story building)}
 
 # Когда подбегает, чтобы арестовать:
@@ -56,7 +56,7 @@
 {222}{}{No one gets through me!}
 {223}{}{Nothing to report.}
 {224}{}{How's boss?}
-{225}{}{You seem to get along well with the boss. Respect...}
+{225}{}{You seem to get along well with the boss well. Respect...}
 
 #Женские реплики
 {1110}{}{Freeze! You move - you die!}
