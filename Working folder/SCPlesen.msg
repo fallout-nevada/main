@@ -10,24 +10,24 @@
 {107}{}{*moans*}
 {108}{}{*scratches his groin*}
 {109}{}{Damn...}
-{110}{}{Меня, наверное, уже заказали}
+{110}{}{There must be a price on my head already}
 {111}{}{Go away!}
 {112}{}{Fuck off!}
 {113}{}{Let me freshen the nip first}
 {114}{}{Some booze would make my day...}
 {115}{}{I think I'm about to die!..}
-{116}{}{Get me some liquid... brahmin piss, whatever!}
+{116}{}{Get me some liquid... I don't care what, brahmin piss, whatever!}
 {117}{}{What? Who? Where? Why?!}
 {118}{}{You're a towel!}
 {119}{}{::points at you:: You're fired!}
 {120}{}{I'm thirsty...}
 {121}{}{I wanna live...}
 {122}{}{I wanna die...}
-{123}{}{Who's a crackhead, you're a crackhead!}
+{123}{}{Who's a dopehead, you're a dopehead!}
 {124}{}{Just a sip! Don't be such a miser!?}
 {125}{}{Just a glass will do!}
 {126}{}{If you don't pour me one, I'll... I... Nah, never mind.}
-{127}{}{Look, I'm really having it bad this time. Get me some booze, or it's the end of me.}
+{127}{}{Look, I'm really having it bad this time. Get me some booze, or it will be the end of me.}
 {128}{}{Who the hell are you? Then, what do I care.}
 {129}{}{Oh come on! half a bottle!}
 {130}{}{I'm not asking for much, theses withdrawals gonna do me in, you see?}
@@ -73,54 +73,54 @@
 {160}{}{Give him a "Bloody Mary".}
 {161}{}{Oh yeah, wait a sec, I'll get it.}
 
-{162}{}{Damn, thanks, friend... (avidly chugs the alcohol and burps) Aah! Man, you... I'm... just... wow! В этой банде все не просто так. Ты, видать, человек новый. Потом поймешь. Слушай... Можешь еще малость помочь? Организм у меня совсем плохой. Подлечиться мне надо бы. Жирюга делает такие клевые целебные порошки из травки. Меня от них просто прет! Ты бы спросил его, а? Видишь, я тут помираю...}
-{163}{}{Вы получили опыт за доставку "заказа".}
-{164}{}{Попытаюсь.}
+{162}{}{Damn, thanks, friend... (avidly chugs the alcohol and burps loudly) Aah! Man, you... I'm... just... wow! You see, in this gang it's, well, complicated. You're new, so you'll understand later. Listen... Maybe you could do me another one? My body is in poor shape, as you can see. I need some treatment. Fatso makes this healing powder from weeds. Man, it makes you fly and take you high! Could you ask him for some, mmm? I'm kind of dying here...}
+{163}{}{You get experience for the "delivery".}
+{164}{}{I'll try to.}
 
-{165}{}{Крутит меня совсем... подлечиться надо... травки бы целебной... Ооох...}
-{166}{}{На вот, подлечись.}
-{167}{}{Ну, удачи тебе тогда.}
-{168}{}{Чт... правда? Друг!! Спасибо тебе! Спасибо! Дай я тебя обниму!}
-{169}{}{Вы вновь достали дозу наркоману.}
+{165}{}{Man, I'm cracking up... I need medicine... Like healing... herbs, heh heh... Oh...}
+{166}{}{There you go. Go on, heal up.}
+{167}{}{Good luck then.}
+{168}{}{Wh... Are you serious? Friend!! Thank you! Thanks! Come on, gimme a hug, man!}
+{169}{}{You got the junkie another fix.}
 
-{170}{}{(Rot is rolling on the floor in convulsions) А-а-а... чува-ак... Совсем плохо... Доза нужна... доза... дай мне кислоты... обезболивающее... антикурильщик... совсем плохо, понимаешь... совсем...}
-{171}{}{Эй, Плесень, держи таблетки. Это поможет! (засунуть ему в рот антикурильщик)}
-{172}{}{Соберись, наркота! Я за подмогой!}
-{173}{}{Я тебе наркодилер, что ли? И что я буду иметь с твоих ломок?}
+{170}{}{(Rot is writhing on the floor in convulsions) Aaah... ma-an... It's bad! This time for real... I need a fix... now... you gotta give me some acid... painkillers... anti-smoker... It's bad, real bad, can't you see? For real...}
+{171}{}{Hey, Rot, here's some pills for you. This should help! (put anti-smoker in his mouth)}
+{172}{}{Hold on, dopehead! Here come the mounties to the rescue!}
+{173}{}{Do I look like a dealer to you? What do I got to do with your withdrawals?}
 
-{174}{}{(Кажется, ему полегчало)}
-{175}{}{Оставить его на полу.}
+{174}{}{(He seems to feel a bit better)}
+{175}{}{Leave him on the floor.}
 
-{176}{}{(почти плачет) Сука ты, а не человек! Я же тут подыхаю, а ты... Вот, держи, тварь! Только дозу... дозу мне дай! (отдает вам последние деньги)}
-{177}{}{Вы вновь достали дозу наркоману и получаете 250 опыта.}
+{176}{}{(almost crying) You scum of the Earth! I'm dying here, and you have the... Here, you stinker! just get me a fix... Get it to me! (gives you his last money)}
+{177}{}{You get another fix for the junkie and gain 250 exp. points.}
 
-{178}{}{Псс... т... б... псиииииихо... ддддай... пс.... пссссииихо... (кажется, ему срочно нужен наркотик, ломка серьезная)}
-{179}{}{Вколоть ему психо.}
-{180}{}{Эй, я что - буду бесплатно тебе наркоту поставлять!? (обыскать шмотки наркомана)}
-{181}{}{Вы обыскали тело рейдера, стараясь не замечать вони. У него остался только старый пистолет, который вы забираете в качестве гонорара за работу.}
-{182}{}{Вы с трудом нашли вену в иссохшей исколотой руке этого наркомана и запустили туда иглу. Судороги вскоре прекратились, но Плесень так и не пришел в сознание.}
-{183}{}{Оставить бедолагу спать.}
+{178}{}{Psss... eh... wh... pssssycho... get... ps.... psychoooo... (he looks like he badly needs a dose)}
+{179}{}{Inject him with psycho.}
+{180}{}{Hey, what am I, Mother Teresa!? (search junkie's clothes for valuables)}
+{181}{}{You perform a cavity search on the junkie, trying unsuccessfully to ignore the stench. All he has on him is an old pistol, which you take as payment for your troubles.}
+{182}{}{You struggle to find a vein on the junkie's withered lacerated arm and pierce it with a needle. Convulsions stop, but Rot remains unconscious.}
+{183}{}{Leave him to sleep it off.}
 
 # Отладка:
-{184}{}{Восприятие: }
+{184}{}{Perception: }
 
-{185}{}{(засунуть ему в рот антикурильщик)}
-{186}{}{(засунуть ему в рот обезболивающее)}
+{185}{}{(slip anti-smoker into his mouth)}
+{186}{}{(slip painkillers into his mouth)}
 
 # Когда враждебен, видит и нападает:
-{200}{}{Эй ты!!!}
-{201}{}{Вали панков!!!}
-{202}{}{Давайте быстрее - меня ждет вечерняя доза!}
-{203}{}{Сдохни! Сдохни!!!}
-{204}{}{Выходи танцевать, девочка!}
-{205}{}{Кого-то пора подкоротить.}
-{206}{}{Стой смирно и не рыпайся!}
-{207}{}{Это кто тут так крут?}
-{208}{}{Ща мы их!}
-{209}{}{Ну, хоть отвлекусь от ломки...}
+{200}{}{Hey you!!!}
+{201}{}{Waste the motherfuckers!!!}
+{202}{}{Let's get it over with already, I want to shoot up!}
+{203}{}{Die! Diiie!!!}
+{204}{}{Let's dance, girl!}
+{205}{}{Remember God's gonna cut you down! Or maybe I will!}
+{206}{}{Be a good sport and hold still!}
+{207}{}{Somebody thinks they are cool, eh?}
+{208}{}{We'll get 'em!}
+{209}{}{That should take my mind off withdrawal pains...}
 
 # Женские реплики
-{1150}{}{Слышь, чувиха, пойло у тебя было - дрянь! Меня полдня полоскало! Ты могла бы мне нормального бухла принести? Ну, ты же видишь - плохо человеку...}
-{1162}{}{Черт, подруга, спасибо... (жадно глотает алкоголь и рыгает) Ааа! Чувиха, ну... я... просто... Вообще! В этой банде все не просто так. Ты, видать, человек новый. Потом поймешь. Слушай... Можешь еще малость помочь? Организм у меня совсем плохой. Подлечиться мне надо бы. Жирюга делает такие клевые целебные порошки из травки. Меня от них просто прет! Ты бы спросила его, а? Видишь, я тут помираю...}
-{1168}{}{Чт... правда? Подруга!! Спасибо тебе! Спасибо! Дай я тебя обниму!}
-{1170}{}{(Плесень в судорогах валяется на полу) А-а-а... чувииха... Совсем плохо... Доза нужна... доза... дай мне кислоты... обезболивающее... антикурильщик... совсем плохо, понимаешь... совсем...}
+{1150}{}{Hey, girl, your booze was real swill! I've barfed my insides out! Can you get me something less awful? I'm having it real tough...}
+{1162}{}{Damn, thanks, friend... (avidly chugs the alcohol and burps loudly) Aah! Man, you... I'm... just... wow! In this gang it's all, well, complicated. You're new, so you'll understand later. Listen... Maybe you could do me another one? My body is in poor shape, as you can see. I need some treatment. Fatso makes these healing powders from weeds. Man, they take you high and make you fly! Could you ask him, mmm? I'm kind of dying here...}
+{1168}{}{Wh... Are you serious? Friend!! Thank you! Thanks! Come on, gimme a hug, man!}
+{1170}{}{((Rot is writhing on the floor in convulsions) Aaah... ma-an... It's bad! This time for real... I need a fix... now... you gotta give me acid... painkillers... anti-smoker... It's bad, real bad, can't you see? For real...}
