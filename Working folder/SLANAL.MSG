@@ -1,2 +1,0 @@
-{100}{}{Looks like you found the Salt Lake disease-breeder! Most of the city's sewage is dumped here, and the Nuka-Cola plant waste apparently constitutes the most part of it.}
-{101}{}{So that's where disease spreads over Salt Lake City from!}
