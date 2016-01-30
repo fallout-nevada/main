@@ -1,7 +1,0 @@
-{970}{}{That's the name.}
-{971}{}{You're talking to the man.}
-{972}{}{Why ask dumb questions? That's me.}
-
-{980}{}{I know nothing about that.}
-{981}{}{Sorry, I have no idea.}
-{982}{}{Never heard of it.}

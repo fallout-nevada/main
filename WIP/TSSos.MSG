@@ -1,8 +1,0 @@
-{100}{}{SoS mount.}
-{101}{}{You see the stand that SoS kit can be plugged into.}
-
-{102}{}{You've already taken everything that is necessary.}
-{103}{}{Nothing to do here}
-{104}{}{You've taken the box with the inscription "S.O.S." on it. You can return to Vault City now.}
-{105}{}{Mission accomplished!}
-{106}{}{You can't do this in combat.}

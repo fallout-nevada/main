@@ -1,2 +1,0 @@
-{100}{}{Input console.}
-{101}{}{A blinking data input computer console.}

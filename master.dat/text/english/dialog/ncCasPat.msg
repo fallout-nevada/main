@@ -1,0 +1,166 @@
+{100}{}{You see a casino patron.}
+{101}{}{ќбычно € с незнакомцами не пью и не шир€юсь}
+
+#—ообщени€ в консоль при выполнении квеста Ћучиано
+{102}{}{Ётот клиент тер€ет сознание после глотка "странного" алкогол€.}
+{103}{}{¬аша диверси€ в баре вполне удалась.}
+{104}{}{”х... „то это было??}
+
+# examines
+{150}{}{You see one of the casino patrons. He looks tired.}
+{151}{}{You see one of the casino patrons. He has a golden gleam in his eye.}
+{152}{}{You see one of the casino patrons. He is cupping his face in his hands.}
+{153}{}{You see one of the casino patrons. He looks a little tipsy.}
+{154}{}{You see one of the casino patrons. He gives you a broad wink, then staggers off.}
+{155}{}{You see one of the casino patrons. He is trying to get the waitress's attention.}
+{156}{}{You see one of the casino patrons. She looks tired.}
+{157}{}{You see one of the casino patrons. She has a golden gleam in her eye.}
+{158}{}{You see one of the casino patrons. She is cupping her face in her hands.}
+{159}{}{You see one of the casino patrons. She looks a little tipsy.}
+{160}{}{You see one of the casino patrons. She gives you a broad wink, then staggers off.}
+{161}{}{You see one of the casino patrons. She is trying to get the waiter's attention.}
+
+#ƒл€ суперброни:
+{207}{}{Just looking at himЕherЕitЕ*whatever* it is gives me the shivers.}
+{208}{}{Think that thing's looking to cap anyone?}
+{209}{}{It's hell's fury given flesh. Uh, underneath the armor, that is.}
+{210}{}{Stay outta that thing's path.}
+{211}{}{Talk about dangerous-lookingЕ}
+{212}{}{*Gulp*}
+{213}{}{I think that Mr. Roboto dude was scanning me.}
+{214}{}{I think that walking tank just gave me the stare of death. I'm outta here.}
+{215}{}{I heard that thing fragged three hitmen just yesterday.}
+
+#ƒл€ берсерка:
+{216}{}{Just looking at him gives me the shivers.}
+{217}{}{Think he's looking to cap anyone?}
+{218}{}{Stay outta that man's path.}
+{219}{}{I think he was looking at me.}
+{220}{}{I think he just gave me the stare of death. I'm outta here.}
+{221}{}{I heard he shot down three hitmen just yesterday.}
+{222}{}{Uh-oh. Get out of the way.}
+{223}{}{It's hell's fury given flesh.}
+{224}{}{Talk about dangerous-lookingЕ}
+{225}{}{*Gulp*}
+
+#(!!! заменить) ƒл€ пресфингера:
+{226}{}{La Femme Nikita, then some.}
+{227}{}{Just looking at her gives me the shivers.}
+{228}{}{Think she's looking to cap anyone?}
+{229}{}{I think she was looking at me.}
+{230}{}{I think she just gave me the stare of death. I'm outta here.}
+{231}{}{I heard she shot down three hitmen just yesterday.}
+{232}{}{What an ass! Uh, bad ass, that is.}
+{233}{}{You don't look so tough, Mr. Prizefighter.}
+{234}{}{I got 20 chips riding on ye!}
+{235}{}{Hey, champ! That last fight was great!}
+{236}{}{Saw you fight in the ring. Damn good right hook you throw.}
+{237}{}{You gonna take the fall? I got 30 chips riding on you.}
+{238}{}{How much you bench?}
+{239}{}{Where do you work out?}
+{240}{}{Watch out for the Masticator. He has a taste for ears.}
+{241}{}{I'd get you a drink if I hadn't blown all my money betting on your opponent.}
+{242}{}{You don't look so tough, Ms. Left Hook.}
+{243}{}{Can I see your abdominal muscles flex?}
+
+#(!!! заменить)ƒл€ порностар:
+{244}{}{Whoa. Check that out.}
+{245}{}{Would you look at *that*?}
+{246}{}{::Mouths the word 'damn.'::}
+{247}{}{I KNEW I should have shaved today.}
+{248}{}{Come chat with me for a sec, honey-tits.}
+{249}{}{Tribals got them tits! Damn!}
+{250}{}{Check out the rack on that tribal.}
+{251}{}{That there's the main filly of my herd.}
+{252}{}{I'd bathe for that woman.}
+{253}{}{I got your mother lode right here.}
+{254}{}{Shake it!}
+{255}{}{Work it!}
+{256}{}{::Whistles::}
+{257}{}{Them legs go all the way up?}
+{258}{}{Daaaaaamn.}
+{259}{}{You got fries to go with that shake, beautiful?}
+{260}{}{Maybe she'll dance tonight.}
+{261}{}{Did you see her latest film? Red hot, man, red HOT.}
+{262}{}{Excuse me. I have to go to the bathroom and er, comb my hair for a sec.}
+{263}{}{I'd like to be her underpants.}
+{264}{}{I'd like to be her underwear.}
+{265}{}{I'd like to smell her shorts.}
+{266}{}{That is one foxy bitch.}
+{267}{}{Damn. All them curves and me with no brakes.}
+{268}{}{Well, hellloooo stud.}
+{269}{}{A stallion like you in need of a saddle? I'm free tomorrow night.}
+{270}{}{What you doing later, sailor?}
+{271}{}{Can I feel your muscles?}
+{272}{}{How come you don't pass out when you get erect?}
+{273}{}{Wanna come over to my place for a drink?}
+{274}{}{I want to eat my dinner off your chest.}
+{275}{}{Need a partner for your next film?}
+{276}{}{::Stares at your biceps.::}
+
+#»горные реплики:
+{280}{}{Lady Luck, don't fail me now.}
+{281}{}{Roll the bones.}
+{282}{}{Baby needs a new pair of shoes...}
+{283}{}{Damn lowrolling touristsЕ}
+{284}{}{Dammit! I was up *53* chips, thenЕ}
+{285}{}{Of all the rotten luckЕ}
+{286}{}{So close!}
+{287}{}{I'm making bank.}
+{288}{}{Me? I'm making bank. Watch me go.}
+{289}{}{House was against me.}
+{290}{}{Fortune's against me.}
+{291}{}{ то-нибудь придет на мои похороны?}
+{292}{}{The House ha'mercy on me.}
+{293}{}{Between tips and these drunken spending spreesЕ}
+{294}{}{Keep betting like that, and you're going to be calling Golgotha homeЕ}
+{295}{}{Waitress, another drink!}
+{296}{}{Waiter, another drink!}
+{297}{}{These drinks tasteЕodd.}
+{298}{}{I got the fever!}
+{299}{}{Are all my chips gone already?}
+{300}{}{Luck's a fickle bitch, and so is my mother-in-law.}
+{301}{}{“ак-так...}
+{302}{}{Ёх, не подкачай!}
+{303}{}{ј ну, мо€ хороша€!}
+{304}{}{Damned crossroaders all over the place...}
+{305}{}{Great, another low roller.}
+{306}{}{I am SO money.}
+{307}{}{I'll sleep when I'm dead.}
+{308}{}{Man, I gotta piss. My teeth are swimming.}
+{309}{}{Man, I gotta drain the snake.}
+{310}{}{Damn, they'll let anyone in here.}
+{311}{}{C'mon 7!}
+{312}{}{You've got moxy, baby.}
+{313}{}{Who's the big winner tonight? Mikey!}
+{314}{}{Don't crap outЕc'monЕ}
+{315}{}{I've gotta 'jet'Еif you know what I mean.}
+{316}{}{This is SUCH bullshit.}
+{317}{}{I only lost 60 chips. In the first five minutes, that is.}
+{318}{}{Red 23! Red 23! C'monЕred 23Е}
+{319}{}{50 chips on Black 15Е}
+{320}{}{Round and round it goesЕwhere it stops, nobody knowsЕ}
+
+#¬ыиграл
+{321}{}{я *очень* сильный игрок!}
+{322}{}{’рена с два! “еперь вс€ касса мо€!}
+{323}{}{„ерт, € действительно выиграл? ¬џ»√–јЋ, да!?}
+{324}{}{“еперь это ћќ≈! ’а-ха-ха!}
+{325}{}{„ертовы козлы, € выиграл!}
+{326}{}{ј говорили, что это лохотрон!}
+{327}{}{::пл€шет от радости::}
+{328}{}{::хлопает в ладоши::}
+{329}{}{ћо€ вз€ла!!!}
+
+#ѕроиграл
+{330}{}{“вою мать!}
+{331}{}{—раное невезение}
+{332}{}{я *оп€ть* в проигрыше!}
+{333}{}{Ќичего, мелочь еще осталась}
+{334}{}{¬от черт, когда же € отыграюсь!}
+{335}{}{я сейчас разнесу ее в щепки!}
+{336}{}{Ќе мой день... черт...}
+{337}{}{Ќеужели € такой лузер?}
+{338}{}{ѕора зав€зывать...}
+{339}{}{я хренею, кака€ у мен€ хренова€ неудача.}
+{340}{}{—коро € останусь ни с чем.}

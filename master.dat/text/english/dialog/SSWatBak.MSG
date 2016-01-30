@@ -1,0 +1,24 @@
+{100}{}{You see a water tank.}
+{101}{}{You see a huge tank full of fetid water. It's rusted through and is leaking in several spots.}
+{102}{}{You see a huge water tank in okay condition.}
+{103}{}{You can't examine the water tank in combat!}
+
+#ќписание при юзанье или использовании навыков
+{110}{}{It's just a huge tank}
+{111}{}{You see a huge water tank. It's almost empty.}
+{112}{}{Good as new!}
+{113}{}{The water tank hull is restored to the joy of the whole tribe.}
+
+#ќписание в режиме диалоге
+{120}{}{You see a leaking water tank belonging to the tribe.}
+{121}{}{[Examine more thoroughly]}
+{122}{}{[Attempt to repair]}
+{123}{}{[Leave it be]}
+
+{124}{}{The tank has rusted through in several spots and can not hold water anymore. But it can be repaired provided you have adequate amount of scrap.}
+{125}{}{Мне понадобится пара комплектов металлолома.}
+{126}{}{Как бы то ни было, мне не хватит навыков для ремонта.}
+{127}{}{[Отремонтировать водосборник]}
+{128}{}{Починка потребует некоторого времени и ресурсов.}
+{129}{}{Using scrap metal and your skillful hands you restore the damaged spots of the tank. Now this tank will serve the tribe for several more years.}
+{130}{}{Great.}

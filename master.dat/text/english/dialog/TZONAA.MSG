@@ -1,0 +1,10 @@
+{100}{}{You enter a vast area where military planes used to taxi. Some buildings can be seen in the West.}
+{101}{}{You are trespassing on federal property. Before the war you'd be shot for that.}
+{102}{}{You got into some special hangar. Maybe you are gazing upon something seen only by few.}
+{103}{}{A heavy blast shatters the insides of the hangar, the structure however miraculously doesn't cave in.}
+{104}{}{Goddammit!!!}
+
+{105}{}{This place looks like an aircraft refuelling station. Those tanks must still house jet fuel.}
+{106}{}{}
+{107}{}{The stench is barely bearable...}
+{108}{}{The poison gas is still present in the air inside the hangar.}

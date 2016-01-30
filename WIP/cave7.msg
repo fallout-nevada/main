@@ -1,1 +1,0 @@
-{100}{}{You are in the middle of the wasteland. You spot a small lone-standing building nearby that from a distance looks like a public restroom.}

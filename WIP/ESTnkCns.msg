@@ -1,9 +1,0 @@
-{100}{}{You see a door console.}
-{101}{}{You see a console controlling the door.}
-{102}{}{The console is still operational.}
-{103}{}{The console does not respond, probably the power is out.}
-{104}{}{No power}
-{105}{}{To gain access you'll have to use a passkey.}
-{106}{}{Access is already granted.}
-{107}{}{Done}
-{108}{}{Access granted.}

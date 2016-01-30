@@ -1,0 +1,2 @@
+{100}{}{You have entered the junkyard near the power plant.}
+{101}{}{Goddammit!}
