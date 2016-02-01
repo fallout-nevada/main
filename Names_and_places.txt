@@ -1,13 +1,19 @@
 Переводя новое имя или название места или предмета, всегда проверяйте его наличие в этом списке. Если его здесь нет, переводите и добавляйте сюда.
+
+##Вы не можете это делать во время боя - You cannot do that in combat! (orig)
+## Вы не видите ничего необычного - You see nothing out of the ordinary. (orig)
+#Крайслус Моторс - Chryslus Motors (orig)
+#Fuel cell regulator - топливный регулятор (orig)
+#топливный контроллер - fuel cell controller
+#Караванщик - caravan driver
+
 Скоростной Ястреб – Hawk Express
 Пугач – Liberator
-Поджиг – Zipper
+Поджиг – Zipper (deprecated)
 Ветер Войны – Wind of War
 Хозяин - The Boss
 Гэри Гилмор - Gary Gilmore
 Солт-Лейк - Salt Lake City
-Крайслус Моторс - Chryslus Motors (orig)
-Fuel cell regulator - топливный регулятор (orig)
 Beiyang Military Medical Center - Бэйянский военно-медицинский центр
 Чистые Души - Pure Souls
 Лавлок - Lovelock
@@ -21,8 +27,6 @@ Beiyang Military Medical Center - Бэйянский военно-медицин
 Матка - Nest
 Шпилька - bobby pin
 Рябой - Freckles
-топливный контроллер - fuel cell controller
-топливный регулятор - fuel cell regulator
 Большой Луи - Big Louie
 Хоторн - Hawthorne
 Плесень - Rot
@@ -33,3 +37,4 @@ Beiyang Military Medical Center - Бэйянский военно-медицин
 червь - ringworm
 Караванщик - caravan driver
 Металлоискатель - metal detector
+Андерс - Anders
