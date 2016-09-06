@@ -38,3 +38,21 @@ Beiyang Military Medical Center - Бэйянский военно-медицин
 Караванщик - caravan driver
 Металлоискатель - metal detector
 Андерс - Anders
+Зона 51 - Area 51
+Город убежища - Vault City
+Убежище 8 - Vault 8
+Община блэк-РОк - Black Rock
+Ветер Войны - Wind of War
+Питомник - The Pound
+АЭС Посейдон Ойл - Poseidon Oil NPP
+Община Джерлака - Gerlach
+Джерлак - Gerlach
+Дамба гувера - Hoover Dam
+Лас-Вегас - Las Vegas
+район Прово - Provo
+Баттл-маунтин - Battle Mountain
+Западный уэндовер - West Wendover
+Нью-Рино - New Reno
+Солт-лейк-сити - Salt Lake City
+Уран Сити - Uranium City
+Убежище 15 - Vault 15
