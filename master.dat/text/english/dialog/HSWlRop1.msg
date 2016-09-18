@@ -1,3 +1,3 @@
 {100}{}{You see a part of the fence.}
-{101}{}{Given you got a rope, you can easily climb over the fence from this support.}
-{102}{}{This wall is already ready for climbing.}
+{101}{}{Looks like you could climb over if you had someone to boost you up.}
+{102}{}{You see a part of the fence.}
