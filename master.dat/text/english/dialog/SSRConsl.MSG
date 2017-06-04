@@ -8,9 +8,9 @@
 
 #Начало диалога:
 {110}{}{Welcome. Please enter password.}
-{111}{}{[Попытаться взломать пароль]}
-{112}{}{[Набрать пароль]}
-{113}{}{[Выход]}
+{111}{}{[Attempt to hack the password]}
+{112}{}{[Enter password]}
+{113}{}{[Exit]}
 
 {114}{}{Password accepted. Welcome!}
 {115}{}{[Finish]}

@@ -7,7 +7,7 @@
 {104}{}{The still is empty.}
 {105}{}{Empty}
 {106}{}{That's not for you! Don't try Jackson's patience while he's near you.}
-{107}{}{Вот только похимичь еще - и у тебя будут проблемы!}
+{107}{}{Hey, you try anything - and you got yourself in trouble!}
 {108}{}{Done!}
 {109}{}{You've expropriated a couple of bottles of booze.}
 {110}{}{You've boldly stolen a couple of bottles of booze.}

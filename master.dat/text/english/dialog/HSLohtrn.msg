@@ -25,7 +25,7 @@
 
 {120}{}{You've already forced this slot machine and cleared it of all change. There's nothing left.}
 {121}{}{No use}
-{122}{}{Ётот игральный автомат уже давно не работает. √олыми руками вы ничего от него не добьетесь.}
+{122}{}{This slot machine hasn't been working for ages. You can't do anything with your bare hands here.}
 {123}{}{You can't do anything with this.}
 {124}{}{You found }
 {125}{}{ bucks.}

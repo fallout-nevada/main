@@ -1,5 +1,5 @@
 {100}{}{You see a spectator.}
-{101}{}{You see a dirty drunk and/or high raider, who only needs this spectacle to feel complete.}
+{101}{}{You see a dirty drunk and/or high raider, who badly needs this spectacle to feel complete.}
 
 #Выкрики при получении урона
 {102}{}{Dammit!}
@@ -16,14 +16,14 @@
 {113}{}{Just you wait!!!}
 
 #Выкрики во время боя ГГ на ринге
-{114}{}{Вали клоуна!}
+{114}{}{Take this clown!}
 {115}{}{Oh, come on!}
 {116}{}{Waste this punk!}
 {117}{}{* yells *}
-{118}{}{Уворачивайся!}
-{119}{}{В ухо ему! В ухо!}
+{118}{}{Dodge!}
+{119}{}{Jab 'im! Jab!}
 {120}{}{Punch him! Right in the jaw!}
-{121}{}{Смотри, что творит!!!}
+{121}{}{Look at him swing!!!}
 {122}{}{Wow, have you seen that?}
-{123}{}{Это было жестко!!!}
+{123}{}{That was harsh!!!}
 {124}{}{* yells *}

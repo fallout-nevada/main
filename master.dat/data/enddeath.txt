@@ -1,0 +1,32 @@
+#
+# enddeath.txt
+#
+# Файл конфигурации сообщений для экрана смерти. Описание формата:
+#
+#   GVAR, значение GVAR, worldAreaKnown, worldAreaNotKnown, мин уровень, %, название файла титров и озвучки
+#
+#   worldAreaKnown is the # of a worldmap area that has to be known
+#     in order to get this one as an option
+#
+#   worldAreaNotKnown is the # of a worldmap area that has to be *not*
+#     known in order to get this one as an option
+
+
+
+#####
+# Generic Deaths
+#####
+-1, 0, -1, -1, 0, 20, nar_3
+-1, 0, -1, -1, 0, 20, nar_4
+-1, 0, -1, -1, 0, 20, nar_5
+-1, 0, -1, -1, 0, 20, nar_6
+-1, 0, -1, -1, 0, 20, nar_7
+-1, 0, -1, -1, 0, 20, nar_8
+-1, 0, -1, -1, 0, 20, nar_9
+-1, 0, -1, -1, 0, 20, nar_3
+-1, 0, -1, -1, 0, 20, nar_4
+-1, 0, -1, -1, 0, 20, nar_5
+-1, 0, -1, -1, 0, 20, nar_6
+-1, 0, -1, -1, 0, 20, nar_7
+-1, 0, -1, -1, 0, 20, nar_8
+-1, 0, -1, -1, 0, 20, nar_9

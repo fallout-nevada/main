@@ -1,6 +1,6 @@
 {100}{}{You see a scorpion.}
-{101}{}{Вы видите скорпиона-легенду.}
-{102}{}{Вы убили не просто скорпиона, а целую легенду! Жаль, этого никто не видел.}
-{103}{}{С легендой покончено}
-{104}{}{Вы видите Спада.}
-{105}{}{Это одомашненный скорпион по кличке Спад. Хоть он и выглядит безобидным, вы решаете держаться от него подальше.}
+{101}{}{You see a legendary scorpion.}
+{102}{}{It's not a just scorpion you've killed, you've put an end to a legend! Pity no one has seen you do it.}
+{103}{}{The legend is over}
+{104}{}{You see Spud.}
+{105}{}{It's a tame scorpion named Spud. Even though it looks innocuous enough, you decide to stay away from it.}

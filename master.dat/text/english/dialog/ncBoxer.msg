@@ -1,30 +1,30 @@
-{100}{}{Вы видите качка.}
-{101}{}{Вы видите здоровенного мускулистого качка.}
+{100}{}{You see a swole guy.}
+{101}{}{You see a humongously swole person.}
 
 {110}{}{*grins at you toothlessly*}
-{111}{}{*почесывает голову*}
-{112}{}{*делает приседания*}
-{113}{}{*рычит*}
-{114}{}{Хфффф}
-{115}{}{Грррр}
-{116}{}{*Разминает руки*}
-{117}{}{Угу.}
-{118}{}{Отвали!}
-{119}{}{Жрать хочу, мочи нет...}
-{120}{}{*Чешется*}
-{121}{}{*Ворчание*}
-{122}{}{Э-эрр}
-{123}{}{Уффф}
-{124}{}{Хррр}
-{125}{}{Эххх}
-{126}{}{Гррр}
-{127}{}{О-оп}
+{111}{}{*scratches head*}
+{112}{}{*does situps*}
+{113}{}{*growls*}
+{114}{}{Uhhhh}
+{115}{}{Gurrrr}
+{116}{}{*flails his arms*}
+{117}{}{Uh-huh.}
+{118}{}{Back off!}
+{119}{}{I'm starving to death...}
+{120}{}{*Scratches*}
+{121}{}{*Groans*}
+{122}{}{Errrm}
+{123}{}{Uhhh}
+{124}{}{Hurrr}
+{125}{}{Ehhh}
+{126}{}{Gurr}
+{127}{}{Whoa}
 
-{128}{}{Лучше от меня отстать}
+{128}{}{You better leave me alone}
 {129}{}{*eyes your head like a punching bag*}
-{130}{}{Шлушаю?}
-{131}{}{Тебе нужен тренер?}
-{132}{}{*Глупо кивает в ответ на каждое ваше слово*}
+{130}{}{Lithenin'?}
+{131}{}{You need a coach?}
+{132}{}{*Nods numbly to your every word*}
 
 # boxing boxers messages
 
@@ -69,7 +69,7 @@
 {347}{}{SUPER... NUCLEAR... TORNADO... FIST...}
 
 # taunt
-{350}{}{Adrian! Adrian!}
+{350}{}{Adrien! Adrien!}
 {351}{}{You're going down!}
 {352}{}{Make you a bitch...}
 {353}{}{I must break you.}

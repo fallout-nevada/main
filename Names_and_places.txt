@@ -56,3 +56,5 @@ Beiyang Military Medical Center - Бэйянский военно-медицин
 Солт-лейк-сити - Salt Lake City
 Уран Сити - Uranium City
 Убежище 15 - Vault 15
+Спад - Spud
+Ультратермит - Ultrathermite

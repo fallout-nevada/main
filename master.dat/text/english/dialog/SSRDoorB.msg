@@ -5,5 +5,5 @@
 {110}{}{Can't open}
 {111}{}{Use the console nearby.}
 {112}{}{No use}
-{113}{}{Вам нужна зажигалка, чтобы поджечь ультратермит.}
-{114}{}{Нужна зажигалка}
+{113}{}{You need a lighter to ignite ultrathermite.}
+{114}{}{Need a lighter}

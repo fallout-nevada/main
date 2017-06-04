@@ -1,7 +1,7 @@
 {100}{}{You can't operate this device in combat!}
 
 #Главное меню
-{110}{}{You see a standard issue recon robot. Developed for diagnostics purposes. It can be assembled, but to put it online you have to have a control program.}
+{110}{}{You see a standard issue recon robot. It can be assembled, but to put it online you have to have a control program.}
 {111}{}{Try to put the robot online.}
 {112}{}{Repair the robot.}
 {113}{}{Try to finish the robot's control program.}
